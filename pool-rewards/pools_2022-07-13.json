@@ -1,0 +1,567 @@
+{
+    "passiveDelegation": {
+        "transactionFees": 182861480,
+        "finalizationReward": 0,
+        "bakerReward": 8048339359
+    },
+    "1": {
+        "transactionFees": 6154026617,
+        "finalizationReward": 15320621469,
+        "bakerReward": 252562278755
+    },
+    "3": {
+        "transactionFees": 6313598960,
+        "finalizationReward": 14109796002,
+        "bakerReward": 221320470863
+    },
+    "4": {
+        "transactionFees": 4329791811,
+        "finalizationReward": 13997480871,
+        "bakerReward": 240299139209
+    },
+    "5": {
+        "transactionFees": 6396221442,
+        "finalizationReward": 15320621469,
+        "bakerReward": 248766545086
+    },
+    "6": {
+        "transactionFees": 3498991442,
+        "finalizationReward": 11960384744,
+        "bakerReward": 200881904952
+    },
+    "8": {
+        "transactionFees": 4429469101,
+        "finalizationReward": 14106305108,
+        "bakerReward": 244678831904
+    },
+    "136": {
+        "transactionFees": 2942963,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "393": {
+        "transactionFees": 26897267,
+        "finalizationReward": 0,
+        "bakerReward": 3503754156
+    },
+    "438": {
+        "transactionFees": 33620019,
+        "finalizationReward": 304835193,
+        "bakerReward": 5547610747
+    },
+    "499": {
+        "transactionFees": 10167807,
+        "finalizationReward": 0,
+        "bakerReward": 1459897565
+    },
+    "503": {
+        "transactionFees": 3212043,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "507": {
+        "transactionFees": 12923219,
+        "finalizationReward": 0,
+        "bakerReward": 875938539
+    },
+    "584": {
+        "transactionFees": 7846064,
+        "finalizationReward": 0,
+        "bakerReward": 1459897565
+    },
+    "589": {
+        "transactionFees": 3537973,
+        "finalizationReward": 0,
+        "bakerReward": 583959026
+    },
+    "613": {
+        "transactionFees": 2179502,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "614": {
+        "transactionFees": 2382188,
+        "finalizationReward": 0,
+        "bakerReward": 583959026
+    },
+    "700": {
+        "transactionFees": 6173700,
+        "finalizationReward": 0,
+        "bakerReward": 875938539
+    },
+    "704": {
+        "transactionFees": 17101083,
+        "finalizationReward": 211285332,
+        "bakerReward": 2043856591
+    },
+    "721": {
+        "transactionFees": 146240428,
+        "finalizationReward": 0,
+        "bakerReward": 583959026
+    },
+    "748": {
+        "transactionFees": 47396652,
+        "finalizationReward": 385311801,
+        "bakerReward": 4379692695
+    },
+    "749": {
+        "transactionFees": 11154639,
+        "finalizationReward": 0,
+        "bakerReward": 1459897565
+    },
+    "766": {
+        "transactionFees": 1096405,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "791": {
+        "transactionFees": 1117722,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "830": {
+        "transactionFees": 2833188,
+        "finalizationReward": 0,
+        "bakerReward": 583959026
+    },
+    "896": {
+        "transactionFees": 482498944,
+        "finalizationReward": 234771807,
+        "bakerReward": 3503754156
+    },
+    "973": {
+        "transactionFees": 2852678,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "1030": {
+        "transactionFees": 299205183,
+        "finalizationReward": 615096865,
+        "bakerReward": 11971160033
+    },
+    "1051": {
+        "transactionFees": 11461009,
+        "finalizationReward": 0,
+        "bakerReward": 1167918052
+    },
+    "1078": {
+        "transactionFees": 3848942,
+        "finalizationReward": 0,
+        "bakerReward": 583959026
+    },
+    "1103": {
+        "transactionFees": 4306409,
+        "finalizationReward": 0,
+        "bakerReward": 583959026
+    },
+    "1127": {
+        "transactionFees": 6193971,
+        "finalizationReward": 0,
+        "bakerReward": 583959026
+    },
+    "1138": {
+        "transactionFees": 1051281,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "1163": {
+        "transactionFees": 2843512,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "1175": {
+        "transactionFees": 5055591,
+        "finalizationReward": 0,
+        "bakerReward": 875938539
+    },
+    "1186": {
+        "transactionFees": 4295236,
+        "finalizationReward": 0,
+        "bakerReward": 875938539
+    },
+    "1188": {
+        "transactionFees": 2488452,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "1219": {
+        "transactionFees": 6198750,
+        "finalizationReward": 0,
+        "bakerReward": 583959026
+    },
+    "1224": {
+        "transactionFees": 4547331,
+        "finalizationReward": 0,
+        "bakerReward": 1167918052
+    },
+    "1229": {
+        "transactionFees": 1963970,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "1246": {
+        "transactionFees": 6366452,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "1249": {
+        "transactionFees": 2563239,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "1300": {
+        "transactionFees": 3862459,
+        "finalizationReward": 0,
+        "bakerReward": 875938539
+    },
+    "1304": {
+        "transactionFees": 8370353,
+        "finalizationReward": 0,
+        "bakerReward": 1167918052
+    },
+    "1330": {
+        "transactionFees": 7283330,
+        "finalizationReward": 0,
+        "bakerReward": 1167918052
+    },
+    "1345": {
+        "transactionFees": 4713497,
+        "finalizationReward": 0,
+        "bakerReward": 583959026
+    },
+    "1372": {
+        "transactionFees": 3679580,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "1433": {
+        "transactionFees": 4109914,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "1469": {
+        "transactionFees": 13856056,
+        "finalizationReward": 0,
+        "bakerReward": 1751877078
+    },
+    "1519": {
+        "transactionFees": 23096019,
+        "finalizationReward": 0,
+        "bakerReward": 3503754156
+    },
+    "1632": {
+        "transactionFees": 28341056,
+        "finalizationReward": 243565803,
+        "bakerReward": 3503754156
+    },
+    "1645": {
+        "transactionFees": 1891829,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "1748": {
+        "transactionFees": 844610,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "1801": {
+        "transactionFees": 1448223,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "1847": {
+        "transactionFees": 1795181,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "1883": {
+        "transactionFees": 51467643,
+        "finalizationReward": 290027234,
+        "bakerReward": 6715528799
+    },
+    "1915": {
+        "transactionFees": 345224779,
+        "finalizationReward": 1681135460,
+        "bakerReward": 28322012762
+    },
+    "1916": {
+        "transactionFees": 567853686,
+        "finalizationReward": 1240269316,
+        "bakerReward": 14890955163
+    },
+    "1917": {
+        "transactionFees": 546455937,
+        "finalizationReward": 890186852,
+        "bakerReward": 12263139546
+    },
+    "1918": {
+        "transactionFees": 774211574,
+        "finalizationReward": 881938692,
+        "bakerReward": 15474914189
+    },
+    "1919": {
+        "transactionFees": 82183500,
+        "finalizationReward": 847841361,
+        "bakerReward": 10511262468
+    },
+    "2070": {
+        "transactionFees": 16087787,
+        "finalizationReward": 0,
+        "bakerReward": 1459897565
+    },
+    "2501": {
+        "transactionFees": 4183618,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "2703": {
+        "transactionFees": 927841,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "3059": {
+        "transactionFees": 31743449,
+        "finalizationReward": 215839736,
+        "bakerReward": 3795733669
+    },
+    "22006": {
+        "transactionFees": 2833833,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "40374": {
+        "transactionFees": 2232594,
+        "finalizationReward": 0,
+        "bakerReward": 583959026
+    },
+    "41275": {
+        "transactionFees": 1272714,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "44954": {
+        "transactionFees": 5592060,
+        "finalizationReward": 0,
+        "bakerReward": 875938539
+    },
+    "60203": {
+        "transactionFees": 474161736,
+        "finalizationReward": 1015270831,
+        "bakerReward": 16350852728
+    },
+    "67260": {
+        "transactionFees": 11928140,
+        "finalizationReward": 0,
+        "bakerReward": 1751877078
+    },
+    "71572": {
+        "transactionFees": 389368511,
+        "finalizationReward": 1031331409,
+        "bakerReward": 13723037111
+    },
+    "72389": {
+        "transactionFees": 1074231,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "72532": {
+        "transactionFees": 1361538073,
+        "finalizationReward": 3103332254,
+        "bakerReward": 51388394290
+    },
+    "72628": {
+        "transactionFees": 1705334,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "73541": {
+        "transactionFees": 27976233,
+        "finalizationReward": 244547743,
+        "bakerReward": 4379692695
+    },
+    "73647": {
+        "transactionFees": 40684227,
+        "finalizationReward": 314909125,
+        "bakerReward": 5547610747
+    },
+    "74596": {
+        "transactionFees": 295819230,
+        "finalizationReward": 996140117,
+        "bakerReward": 22190442988
+    },
+    "74730": {
+        "transactionFees": 31054027,
+        "finalizationReward": 247265031,
+        "bakerReward": 4963651721
+    },
+    "74770": {
+        "transactionFees": 30420030,
+        "finalizationReward": 247264938,
+        "bakerReward": 3211774643
+    },
+    "74771": {
+        "transactionFees": 46898413,
+        "finalizationReward": 247264938,
+        "bakerReward": 5255631234
+    },
+    "74772": {
+        "transactionFees": 27644103,
+        "finalizationReward": 247264938,
+        "bakerReward": 3795733669
+    },
+    "74936": {
+        "transactionFees": 2605133,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "76120": {
+        "transactionFees": 1417629,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "76670": {
+        "transactionFees": 1441944573,
+        "finalizationReward": 3900280855,
+        "bakerReward": 64235492862
+    },
+    "76875": {
+        "transactionFees": 5138827,
+        "finalizationReward": 0,
+        "bakerReward": 875938539
+    },
+    "76933": {
+        "transactionFees": 655964429,
+        "finalizationReward": 1752361246,
+        "bakerReward": 27446074223
+    },
+    "76935": {
+        "transactionFees": 921133644,
+        "finalizationReward": 1767993328,
+        "bakerReward": 33869623509
+    },
+    "76936": {
+        "transactionFees": 463657343,
+        "finalizationReward": 1749946615,
+        "bakerReward": 30365869353
+    },
+    "76937": {
+        "transactionFees": 512750528,
+        "finalizationReward": 1748851673,
+        "bakerReward": 28905971788
+    },
+    "78475": {
+        "transactionFees": 206220751,
+        "finalizationReward": 208237761,
+        "bakerReward": 6423549286
+    },
+    "79400": {
+        "transactionFees": 13223929,
+        "finalizationReward": 0,
+        "bakerReward": 1459897565
+    },
+    "81888": {
+        "transactionFees": 3362715,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "82069": {
+        "transactionFees": 2851983,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "82311": {
+        "transactionFees": 4573791,
+        "finalizationReward": 0,
+        "bakerReward": 875938539
+    },
+    "82316": {
+        "transactionFees": 5927732,
+        "finalizationReward": 0,
+        "bakerReward": 583959026
+    },
+    "82516": {
+        "transactionFees": 14124982,
+        "finalizationReward": 0,
+        "bakerReward": 2043856591
+    },
+    "82555": {
+        "transactionFees": 3330931,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "82599": {
+        "transactionFees": 1772451,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "82626": {
+        "transactionFees": 20210632,
+        "finalizationReward": 0,
+        "bakerReward": 2627815617
+    },
+    "82701": {
+        "transactionFees": 52313632,
+        "finalizationReward": 446659559,
+        "bakerReward": 7007508312
+    },
+    "82702": {
+        "transactionFees": 308228870,
+        "finalizationReward": 581460697,
+        "bakerReward": 10219282955
+    },
+    "82705": {
+        "transactionFees": 44105388,
+        "finalizationReward": 447241576,
+        "bakerReward": 6715528799
+    },
+    "82826": {
+        "transactionFees": 5365398,
+        "finalizationReward": 0,
+        "bakerReward": 583959026
+    },
+    "83002": {
+        "transactionFees": 31962506,
+        "finalizationReward": 327674923,
+        "bakerReward": 5255631234
+    },
+    "83028": {
+        "transactionFees": 26360758,
+        "finalizationReward": 0,
+        "bakerReward": 3503754156
+    },
+    "83075": {
+        "transactionFees": 4430331142,
+        "finalizationReward": 12314887657,
+        "bakerReward": 208765351803
+    },
+    "83078": {
+        "transactionFees": 6452475784,
+        "finalizationReward": 12316289520,
+        "bakerReward": 204969618134
+    },
+    "83079": {
+        "transactionFees": 2549653362,
+        "finalizationReward": 6769271954,
+        "bakerReward": 103652727119
+    },
+    "84042": {
+        "transactionFees": 1720283,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "84134": {
+        "transactionFees": 5530964,
+        "finalizationReward": 0,
+        "bakerReward": 583959026
+    },
+    "84252": {
+        "transactionFees": 2377197,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    },
+    "84292": {
+        "transactionFees": 5426781,
+        "finalizationReward": 0,
+        "bakerReward": 291979513
+    }
+}

@@ -1,0 +1,1307 @@
+{
+    "passiveDelegation": [
+        {
+            "account": "4TSZG5wPCYTJTUq6ZfQFNbJkPeSrDxPnnYkn2yG8FYUG6ZhPN9",
+            "stakedAmount": 13632758,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4BHU9Fvr1bdQR4japcssssxRn3jzswiFsaen9P8oNRk2XeBuDY",
+            "stakedAmount": 34305249,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4WCZfRHunBkFqu85jcNhVbcBw5riTmcxoUAm8dVo1zTUWSzpkq",
+            "stakedAmount": 40446569916,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3LDPEYkHwFXSQicutbL5vGGupGeERQ3UKRAnXgAnzYa611SpwS",
+            "stakedAmount": 50868735372,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4N1oX7SMkrQrih4VYa96tfy4s43KjTqJJ1NaMQE2MYGKFGn1R5",
+            "stakedAmount": 305101266299,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4H6yBdtHmcX418GZwox2A2pPKHBdSWwAe5XXWQMPiLfp8GgA6F",
+            "stakedAmount": 207000000000,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3LREPeEdRFx43oCRnhC2r4bKr9SGbNhxjMqfN1juoGc6q6Pfrx",
+            "stakedAmount": 427503187330,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4FJGojRdFxdENBbRDGv3pgCMCX4MnKaL16iUxdvKZho8gg5ZEy",
+            "stakedAmount": 153633146952,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "36esGKyRHV1eZnxhAYXMs97XXTEMn3vi7CNZhmoci29TZEfVwP",
+            "stakedAmount": 661196276835,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3bVNWBkeFqK56NtywvBrF9cqNrEETyAzV76YFZQ7qFfkDMmReL",
+            "stakedAmount": 1298781701329,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3tHafwdK2B8dsBQLM7DA8h99iLqRzspYLqaEVdad4YP73fhWoB",
+            "stakedAmount": 46626922545,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3ah8ixRpUoRnX8uKtXiXWZbhEt9Z5RXqj9NqrfMrFXwAcKq7Fo",
+            "stakedAmount": 50882678093,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3bJbiw5f6ewsZfqdYXL2B6iiVktDM6rCpSzWMYaG9P92BJaQV8",
+            "stakedAmount": 503600480764,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4iyCayzYtMZDHaojVPgZZrR8Kzcr94Nqn9WUEPrKRg9a83tD4d",
+            "stakedAmount": 559098632587,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4Y4c8R4XhxipUc3yETvoFRV8UUa57VYfqch5zECFz2PewLJCCg",
+            "stakedAmount": 423671178381,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3h7ocCdJQM8YxzaRge6VdDAF3d6qBasshi4THMc89navHdDkNY",
+            "stakedAmount": 89528974305,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3U7Wt8CsA6fsbTF48kKibPp4AzdsXmwP3Auc3GDhS4sbQ7n8N4",
+            "stakedAmount": 14289027721,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "38XeGFYFPmuBz67sCb3TnqqJhgEXtR1sWVVX9TUVV3yoUqPRZm",
+            "stakedAmount": 141341867603,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3Gv2BV3WWLo3j4fFWx8qtF6adwAVh2w2bw54wKVF175jE9ptBb",
+            "stakedAmount": 95464541275,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4YMAfdMBpZFhAddz6Gskj5h9bcTPh8Qv7yp84ouC7pyiKJo2qZ",
+            "stakedAmount": 89122024420,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4WmMPXwRSRhsJi2XZD225xWEEUkmaL1iK4PReSLMJ6zKmum27X",
+            "stakedAmount": 5088267752,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4AHWB2eWu2ibSxPReHpnjdigZguKoLzBgAikeF3eU9go7ERDbH",
+            "stakedAmount": 1933011881,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4Fic4defacKC6TxtdoahwgkCNDhxWy4wRQpsAaNp5CQT4u9jz8",
+            "stakedAmount": 30004354212,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3FLxjfcTBCv3cUTWU6pu7e1Hxa8suKeeJhnWKRRXbC4qe4XA3Y",
+            "stakedAmount": 13517789917,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4Q8khCruL2WCsGssyFR6i73vyVQtdTYfyuyJUUokHG7M96xTuh",
+            "stakedAmount": 15993846408,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3RSULbwstVNufZJ1nmdBisLtBdsYcE7DmYr2gafbiq9RjopoPt",
+            "stakedAmount": 112197370,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4hCHGt1Vy8e3TUnWfxmAcrZzmatstpD7BXY6Yf3am8MUy17aDT",
+            "stakedAmount": 23711818024,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "46KCaTyh9CDJcTc83Gjs5BRsTSZ23H9vyMuxVaanv36fR66nHC",
+            "stakedAmount": 1689304852,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3WvfBwFcTGh5nr4tq3DXrkymkPma5BhLxaJZrg2AvcTn86AbMp",
+            "stakedAmount": 18312678,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4iKgMfwjVwyMQDpq3i6ZDWy5xCT2dfUrUZ3QUbmPQxv5GVYfHo",
+            "stakedAmount": 80103173,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4TtjZuJd5SkGhcu7BiRFaTeguyeU4N9LMGqSuoPvqzgt3bUkxi",
+            "stakedAmount": 61042418,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "31Q4mqtKErcrTyeFobZMRuxoSnULiFjE96aL6uEa2VrqmYaVbZ",
+            "stakedAmount": 81076517,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3Y7sGEGA5Rexwt6CnnSGSPHRdJMiN3e7ZYagWFdjGYjrhaAhY4",
+            "stakedAmount": 42729737709,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3ooDx9PvDjhmuFrK5FvEPLe4B7122mTTPC6HmUNjMJdZc7qjvg",
+            "stakedAmount": 84400000,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3Y8LX1aPPCP965aDY6HkDsViHcMZgKcfyjcPNCNzzEkYwEVZxa",
+            "stakedAmount": 50856161,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4hdKQ2pNYVWsqFZxiZn2wp5PgyuayyJyXWxTgp3qun1vugUM9K",
+            "stakedAmount": 13225813,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4S2qnFLa5YC3ANuGe6N9W5LB8b6AYzttF1aZwjhrvJnDezXDVZ",
+            "stakedAmount": 1029067883,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "48XuCzuJQ8cj1qPyUYn1iboBFdXdm7bJYM8uERSzNc7tZaTKQS",
+            "stakedAmount": 14239295,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3UFtgLb3DckKYD7mBNutHsKbYupYJTKZBEKtBR54qR5zuAL7V8",
+            "stakedAmount": 13225813,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "48tBLLSDcnftTRBDXgx2RHKdDtG8nvnVE4xREgw1yygSxHxiu1",
+            "stakedAmount": 17752374587,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3Z39qFFu4MRK7cGQ1SvqtjoFErzRgZNk6fK6dsmKvAsHj1GzjB",
+            "stakedAmount": 207616405,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4nZkZ4v1zhogcshrqqKdpqM5EfLoaY3msaocpxHfbGC79nVwHD",
+            "stakedAmount": 66129292,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "39P6xARZFkmWTj4P7oqAJ7racAKbGMpz516h3Gr19oaDu9aNuV",
+            "stakedAmount": 1800000000,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4AcCxFKJ1GFX3cmhVX2faKFxEUbS2vTYLoRCoLumiPuqsfPLYE",
+            "stakedAmount": 71216164,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4eMXpkMfzsRCyGeATwxfw4RbgYXM75wmHaXsmQJyFVBnXNiRRB",
+            "stakedAmount": 12000000,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4ns24bNxZDxMwi5xQh4xpfSgSmkGKpTVLWSKW8sCBkbwrS9ZaL",
+            "stakedAmount": 68164042,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3sKFGXoyrMDaYtPozAwUXGv51eAS7nC18rkNAb92oWTg9tRFbb",
+            "stakedAmount": 57084711,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3YbhC4Aa66quwfWna5Pm2ucAFS4wJh6YJHjn4y6rGvbJiqVvkk",
+            "stakedAmount": 13000000,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4JwYnN8NwfxUVgzZjNmHpmoSky7wKANoNdD5FHqCXEu3kieniG",
+            "stakedAmount": 42234693,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4SeT6EftLgCtWEDaaRQ2HVbuhXqS4T6HeuQ2XTrCCN7JTMsa6y",
+            "stakedAmount": 26346538,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4srcyaLRYMgMceoszMW67EvRLuujMMzmcyEyy1FFnHiP79FchB",
+            "stakedAmount": 55106731,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4pZz2yrP2dcipqctaTFydfVcCH1y8swKNurn2oNJfcLtPMZscx",
+            "stakedAmount": 1002805080406,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3m8crfYB9QaEw1CBZ7dJg4VqzH4UsJzite9PKG4pa3zCrW2ir5",
+            "stakedAmount": 20341867,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4hwq7zixrDv8jpG5jZW25Ca4gTQAJLkQrthjr542WnX1EvPSJn",
+            "stakedAmount": 110813463,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "31JAyr2AWuCk4YRP5kj6W7Zu1J1PFTJ4FapeoHKTQFbSoHZAVP",
+            "stakedAmount": 26044732,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4W2tvBuZ2VTjdCMovxtNzx8rEUmrVWT9gyGNu8XcxGwDtMvrDT",
+            "stakedAmount": 10173681,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4QfDnsZB5EEpdJp9aiaiELwNR7YjQJobrwvB3p28bxv4o7WxoM",
+            "stakedAmount": 600000000,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "47E1yeif3uvTYhZHMbhU66LLjYgCvVdXN2gXYXzmg82K1Lxkt3",
+            "stakedAmount": 1106117318,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3kazJXEfAd2qerGGfRyDEgp549UPfrVrKU9nqTmvgk9Bf2HDmr",
+            "stakedAmount": 30521170,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3tNgPVBEEnNgCkx3KHsJwz8nmG4v8nHG5jtNK2qa8tgSfTPFZn",
+            "stakedAmount": 152606140,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3h1ZKgfV5i51g64t8gq5jvdHhyuR8iSjmiZvqCpGpEZPvE71bW",
+            "stakedAmount": 10173681,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4iZYRi5SfcVKYcmETmmycpiDqyfgTxgxHMThDwKM7CsTWNuK3T",
+            "stakedAmount": 114963280,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3UKPbASVHZUupkBQGvSTZ8mxvGsE9sCWVQJqfqFjoeovNFj8vT",
+            "stakedAmount": 152564454,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4Lrekq9M826Ffdc4RWEYVNWQYinV1nm8V9VbrmzB64MDi5UP4g",
+            "stakedAmount": 26190262,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3g8xLcVNghXVatr9g1oCyAxaAq8mQiV4Ve8WCqLkfnos6bfEPu",
+            "stakedAmount": 29495742,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3f4u6WHsLVCFfoEJagtSWBk2NaZWxQ6j8WjrUnH5ibLSQ8gXMw",
+            "stakedAmount": 16545515019,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "46QDYkp1BMUcEMWqGyZeui8jhCNnSmwB3HWpR9KPtbaedpZSd3",
+            "stakedAmount": 25434303,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4H7npijnkmkSVpXSetKESn8Nac1BvNFpPw8LrdBET5UcDHGLK9",
+            "stakedAmount": 3052124064,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "41BytJCt3nExxcmZFH5Gu8sffLhdNTL8DsyPU1Bjnog5LLq8pt",
+            "stakedAmount": 4640500188,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3zH78VC4Pv7N833GAmRvokT4DVaQ3hp2c76eE1Q6VetAaZ4B6z",
+            "stakedAmount": 13935735802,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "41zrvZTPYe2a3cA6W7K3Mfr6nSuppM74LiVEiTAeNaVX14C7GP",
+            "stakedAmount": 174688733777,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4RGYbEZDyojkd9HucqWgV9XAnFHPMLcmEeQmg4aWW39wqbsSTf",
+            "stakedAmount": 5376825273,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3f6p3qD7B61HQ8QiABDrPJnQwj29TUgqG4J3si89ZJKVscSvnB",
+            "stakedAmount": 427180637068,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4UqygabcoXNuzwjq1tbxW89nZY78FZN4LBLq1NHMvX2LacxAEU",
+            "stakedAmount": 3204709777,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3kr3Zice8pSYiY4zDpr5P87kMWJBuqkLdJoCDt1g9fY2gquk2P",
+            "stakedAmount": 69000000000,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3JQyYN5Tm4Twpx1D2ouJpgRksWYYkKiY256taFdigWxpgKHtfK",
+            "stakedAmount": 508826781556,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3SSF8qKcmcnsMm2GJZJazyz17ADSaH7GrdZQNfBB9mYgcCKxNu",
+            "stakedAmount": 200000000000,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4AP1iDFUKL4JTHK5AgsmeN1gRRCGQT9VSh96K135tjH9NkjBXM",
+            "stakedAmount": 761149327,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "44MyGYnaKsDF9EFsD3931pFHJewiqfMyyf7xUg9p3HkKUmJEzM",
+            "stakedAmount": 38141128247,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3rZg5TP46r1BTnK7revwYHshsrjaKZosQ5qihwMb1afeWhVocL",
+            "stakedAmount": 3051106688,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4jSvTZiJ5oEUJBAhUgdpryZw6Jiv6kgvt7D9LcjmufQGoJBnAa",
+            "stakedAmount": 5039931145,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3XJp39MHzBBAUApp1YtdeCBFoy6Xr8imj4LbbpAHZnFkz2Hx3a",
+            "stakedAmount": 4322661145,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3DSZo8FutnPxUT9SpewBN6xKwDwjqp1eqmLen4YkeVJ6uLAxyK",
+            "stakedAmount": 11318475,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3ufTycrqZuSz8yXYFAQCA4WvXDatUs64mdT1N4paxEKfu2zbCa",
+            "stakedAmount": 101849067,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4WXTVzDeuyys7wiFrCBkPpu9MhDazz7fTTHwZvzwpnANuGaAKE",
+            "stakedAmount": 498535178152,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4k7e77DjsQmaNsfg4Xh1MEWgFxtFfr7AeVVgsqHe8GTmod3gde",
+            "stakedAmount": 49676816564,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4WJBVQhwS1fhf9nDRfG51rcgj7gFFDTC55rY5K4m3eAy61idpx",
+            "stakedAmount": 17290644766,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "3SNbobNBUT4PqXPBpU7kX8xPz1UH3EEDTR1f9VDHiw5vivPbgo",
+            "stakedAmount": 131612135559,
+            "delegationTarget": "passiveDelegation"
+        },
+        {
+            "account": "4fDjqVbhs51oCbpLAsWCBUv5bZ1JNEYNUUCwhAkDUqkqVjt1Vv",
+            "stakedAmount": 10230375615,
+            "delegationTarget": "passiveDelegation"
+        }
+    ],
+    "84292": [
+        {
+            "account": "4ezgXZJMFYFpqUrCc5tjLKVUUtmoCcqEMp92BT9xm9FPTwXfgk",
+            "stakedAmount": 300085037,
+            "delegationTarget": 84292
+        }
+    ],
+    "499": [
+        {
+            "account": "322hdEoNVsc2Yv4ZmiNz9qUvyRM55RCQFmkVYTEGnGNgN5cu1H",
+            "stakedAmount": 6824302999,
+            "delegationTarget": 499
+        },
+        {
+            "account": "3hDkrCo94T4gedjWYdTADCRw66WebPkhDdkjkwzG22S8dekQ55",
+            "stakedAmount": 34195802473,
+            "delegationTarget": 499
+        },
+        {
+            "account": "49nNeC9wj9SVC34ZsG2dxo3Fox13QTwanyybDWW2HC5ytATKvL",
+            "stakedAmount": 14052230,
+            "delegationTarget": 499
+        },
+        {
+            "account": "4NmrnxpPCHGvKcMZVuMq1HYiUbHkvWHqXiDRXLa8SSSErg4dTk",
+            "stakedAmount": 204958849685,
+            "delegationTarget": 499
+        },
+        {
+            "account": "3Ehr9A8vy2GDCxVeWSucV6Xc8jjGVAjXsCnthm9GrbeLChYhkR",
+            "stakedAmount": 630142776853,
+            "delegationTarget": 499
+        },
+        {
+            "account": "3hhcsN28bidy6fpX5R5D7iZXf3g3xXUahJVAxmFt1vmmzUuRMS",
+            "stakedAmount": 102077022451,
+            "delegationTarget": 499
+        },
+        {
+            "account": "4aSFzF8um5TuFnFukXiJJZ4y1a9SYFCCmiTGxNvwGbeP71tJRU",
+            "stakedAmount": 32980065143,
+            "delegationTarget": 499
+        },
+        {
+            "account": "2yqCxTt49cp9q4Y1GGm1j26pxGT9fYTiXqoUkmk7CT1mKNbiLs",
+            "stakedAmount": 68880662,
+            "delegationTarget": 499
+        },
+        {
+            "account": "3PWTFoJ7cekSGg1W4FpGwxrFBVuDRFEy8AfpEdRSq9EpTe8VSW",
+            "stakedAmount": 3470618706,
+            "delegationTarget": 499
+        },
+        {
+            "account": "4R92osdy4H6tNwQxkL4yju11LL6AQ1ng3KFbCmZgRXdNbEPUhk",
+            "stakedAmount": 10228504,
+            "delegationTarget": 499
+        },
+        {
+            "account": "3U3fNnjiorTUzGrBWY575ExqJ8BVZr85hywzUMVq9kCJkcKyF5",
+            "stakedAmount": 26388849,
+            "delegationTarget": 499
+        },
+        {
+            "account": "3q9hS5tFc6EveFxgPTrVXqjc1caFMNUsxV5ox2sbMMFT37wDKN",
+            "stakedAmount": 13780397979,
+            "delegationTarget": 499
+        },
+        {
+            "account": "3BUJQ2J7nzWfqKVPWjJuGcBY4gkERWaN3QDPtAW23zzvdZbTnm",
+            "stakedAmount": 44543350261,
+            "delegationTarget": 499
+        },
+        {
+            "account": "3Kgbf7PcdEv4BAb14WdZMvRfQFXUtPhivCv1QY3qBikcmnbGJY",
+            "stakedAmount": 73495456148,
+            "delegationTarget": 499
+        }
+    ],
+    "1175": [
+        {
+            "account": "3hLKzMDDyhHv4gKB9q5roYA1woBnSyHuP5T8JH77y5ne8oNvuu",
+            "stakedAmount": 9103296446,
+            "delegationTarget": 1175
+        }
+    ],
+    "76935": [
+        {
+            "account": "3cqcwnKURG8rMfC6ekP2JmWrrTRAae4THVe5B6n7SNBdnDk7wJ",
+            "stakedAmount": 23124313252,
+            "delegationTarget": 76935
+        }
+    ],
+    "82821": [
+        {
+            "account": "4sfifnPAdMQ2XSe27j2JXLpWMhnDSH7gQUUGhb9HTvf63Gcb6z",
+            "stakedAmount": 911650471,
+            "delegationTarget": 82821
+        },
+        {
+            "account": "3penwjTF1wDL7zQUyYEAxZD9ARpTpfTQ2VQtXCuqgmjRV6E3ko",
+            "stakedAmount": 39525046478,
+            "delegationTarget": 82821
+        }
+    ],
+    "82826": [
+        {
+            "account": "4jpbLErtPKKbPHuMVdwJ4oCKF3fzEfXeSMyp5JCREvrpUgseag",
+            "stakedAmount": 225028715152,
+            "delegationTarget": 82826
+        },
+        {
+            "account": "4Lt8wtMdVekPzPBy1UF1RUQQsXgE5yW6F5wj1zfTT6RprczYjw",
+            "stakedAmount": 1220148858585,
+            "delegationTarget": 82826
+        },
+        {
+            "account": "4h8GXzDYjXwkPfFibHVUTxEP4rKwUB35M9ffA8pyrqZi7uHZTy",
+            "stakedAmount": 346881404304,
+            "delegationTarget": 82826
+        },
+        {
+            "account": "4ULZ64Po62trM62gzQer1g2EgJhH15gYNqCskKUYBCUgBsfNsX",
+            "stakedAmount": 15000000,
+            "delegationTarget": 82826
+        },
+        {
+            "account": "4t7azGKFp8uN8BJ2unrvzjF4j7f1Db9HCQ9VBchcCWVRGDysHD",
+            "stakedAmount": 73790558651,
+            "delegationTarget": 82826
+        }
+    ],
+    "614": [
+        {
+            "account": "3UBiHgEvg7SjhZKT5KYWgSgMYdr147eYfRe9d28t7dHy9WN7My",
+            "stakedAmount": 150141760634,
+            "delegationTarget": 614
+        }
+    ],
+    "76670": [
+        {
+            "account": "4K131fvpEYQmT6cp67ZZEquRPfuUKdkAnpmtMwEAeAJ6qmtvFC",
+            "stakedAmount": 4035917931747,
+            "delegationTarget": 76670
+        },
+        {
+            "account": "3f2Z5M2CqTVXHomLSmQFDPB4HeSNrbsvtWnDbhcGLPQdYBaf3a",
+            "stakedAmount": 452740148891,
+            "delegationTarget": 76670
+        },
+        {
+            "account": "4sRifhDV6yCQmzze4oAUJRJEs9X98scxdhtCwJjtSFp5hiQwVu",
+            "stakedAmount": 152015837321,
+            "delegationTarget": 76670
+        },
+        {
+            "account": "3AXptodggm3sMz9qiByhpQNqDHb8dVn3BWtPHh27L5L4srR7FT",
+            "stakedAmount": 214122993696,
+            "delegationTarget": 76670
+        },
+        {
+            "account": "3t6EuhMRn2LBY23TiP24gNnWPnar61NrQpUdU17CWmXz5Leqkc",
+            "stakedAmount": 28000000000,
+            "delegationTarget": 76670
+        },
+        {
+            "account": "4pQAFtn5o7GAdKewHEviyjLd6hTBpWtPimzciJT8U2YuisrUDY",
+            "stakedAmount": 78304375111,
+            "delegationTarget": 76670
+        },
+        {
+            "account": "4aWhscFug2n4uGR5YT4LQVDKojB5FQugV6D5Xhtn7HFMi2Pi56",
+            "stakedAmount": 24942656358,
+            "delegationTarget": 76670
+        },
+        {
+            "account": "4pzKoBy8PbCCSdKETgPUN35Q9TQb5RNTVDms9oRu1aYuqhQGKP",
+            "stakedAmount": 64129624,
+            "delegationTarget": 76670
+        },
+        {
+            "account": "2xgHxfXJt8t4ofNW21c8hpCQX3Bkr2dL6shUwmczkTtNNUAvMN",
+            "stakedAmount": 244370196,
+            "delegationTarget": 76670
+        },
+        {
+            "account": "4VvieFqSFwr4cbSv17aJKEDiFHVc8EXNVM1znbPDtS6cmNcXUf",
+            "stakedAmount": 40061383,
+            "delegationTarget": 76670
+        },
+        {
+            "account": "4NxZwgANWJcULXyEqbD6GQ3LWGpbZkbGU9kuJgFjjuQTYpvtwZ",
+            "stakedAmount": 132367155,
+            "delegationTarget": 76670
+        },
+        {
+            "account": "35kqJb6ATih3ZfLEe9UQ8A7Bp3gSjCQkFvUiUDKh7QFVfPTsWa",
+            "stakedAmount": 1119724584,
+            "delegationTarget": 76670
+        },
+        {
+            "account": "3c3NeNDihirvddDiEL7VaUMfyQ1RhRuuyafw8idkW2hsZipYir",
+            "stakedAmount": 11000000000,
+            "delegationTarget": 76670
+        },
+        {
+            "account": "3LEygcRQqdcAVAP5zEANsS83RbQkWjEhpkwdFcUsRvmtPbeNqr",
+            "stakedAmount": 24029741611,
+            "delegationTarget": 76670
+        },
+        {
+            "account": "4CsT3ApUcejWpsr1794MkhayrqTz7aoBeUv2bzKGn2zbwZKjEf",
+            "stakedAmount": 50000000000,
+            "delegationTarget": 76670
+        }
+    ],
+    "1916": [
+        {
+            "account": "3GvbzBYB79G8zUuYdbgCwy3hPUkCMdvVzrDsJHn2vcKA6ux2hY",
+            "stakedAmount": 500000000000,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "37yP28tXhpAo6RixQskqM3k2uYYmsuV1r6rcYww4S3i3vwHsFQ",
+            "stakedAmount": 10173057596,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "36h8h4Usiu5uoawLyvbVrY7dCWiTdYRiQPmnQ7tFk1rKV627rQ",
+            "stakedAmount": 75983379102,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "4Lxb9JjDw3tGsyU4fDcjbTR74BGg9dFBPYc6r12TGgmEAWoNNv",
+            "stakedAmount": 2542724126,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "4m65vEKKZAKxsAYsGTqo7tkPJMRxrjmTi84miLpzNPrrVPKH7J",
+            "stakedAmount": 1017638233275,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "4o8Whc7JaFShoKMXyNG3XiJFqbhNC6xFEbvpK9UjoefHWjPYUf",
+            "stakedAmount": 305291403,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "4QNixJR7gTr9aebWUTd5KLGKAyA6A1MDva5WUiFGDWuRdEHirk",
+            "stakedAmount": 20089932957,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "3efrA9FQT6yrYPBhEk9qRFGpkt6wGAJNCUFjtZTKv4AWSXvrD1",
+            "stakedAmount": 56885977180,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "4NRwj3LMsuRpejFUPiduqCf4LUudf21HAg1SrVhNtWjUGV1khL",
+            "stakedAmount": 1729984933,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "3Q1AgnwU1AN8iSHTFZ73dr7QVXYAesGbmHpAr6y8LLZidgLM8u",
+            "stakedAmount": 12644154989,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "2yMdW1Gk4aSqKiAiMJdU58hXbH68VnSkFFrsd4sugNG7EXgJ1G",
+            "stakedAmount": 5088191105,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "4iM97imD1seoeyMeoAkSXSzoz5qev1ZrhTYEaFk2TtNhNj4FKe",
+            "stakedAmount": 42432780541,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "4rSUSBsj1SNMzcV3KinQVXER2eF2Nxi4Lb33aXBzrWNXM3XTw7",
+            "stakedAmount": 1221907176,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "34KLjJcyaF5bA9QZW945kr6AHqLpMhVL9ChPyEHJtL3hTFENdW",
+            "stakedAmount": 1224964494,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "3J2YLp1AMJwgHHsWvR8eaX3wEjw42njJ19RoVqrtZMtvubxZ8o",
+            "stakedAmount": 1376811183,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "4Su4TWJFFUk8yURn84b5MK8D4jnUdEG57z4ebgZXSRJbfwdNV1",
+            "stakedAmount": 1426747342,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "35KkyB11KmLa1mTdtjWkuGBRQVvBBJ1N9z2cDad1FHntwg1L4k",
+            "stakedAmount": 1128149488,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "4rU95mZ2XfuFv5gBTg9aCi45L1FUur7rQAnAGY58SNkFbrJFjZ",
+            "stakedAmount": 1205601502,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "4E1xiGQXCKK3yS2UkHp8bbtuyna6a6FKWbqsBTMUijMHCe2NbK",
+            "stakedAmount": 1005856859,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "4obYofK5Jk6HsooB8PruGXa6R7u4t4K7cXE3csxyan7Zg3EGtd",
+            "stakedAmount": 995665806,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "3c6pePKtaR5uB38jUUGbmDPjnaAe9ZicmcX66NGkCYrUHdYvSy",
+            "stakedAmount": 792863848,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "3w9vzqueXfvx38g6QGJxM59xLcpcyq9DvE7cPp842bJtcUkceh",
+            "stakedAmount": 660380158,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "39TXSGdeQ7cCnykxEsA7goKvX4DDzj2rSBRsam6jJXUZuqn7B9",
+            "stakedAmount": 7707493272,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "4TCLDjKoLxr7AWEbAZaHQg1xdqckwXdT3iCqywVfXcF2o36T5U",
+            "stakedAmount": 6655776607,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "3E8Es87aJy6n9CYraUWb9sqw9aQ3nq9i9QEToHvavKLageyh1B",
+            "stakedAmount": 4879476080,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "3wVRw53sKAopqi59kK9eQbyVd6jFjFhy5HUg5jMCyN2cw7YTfn",
+            "stakedAmount": 8909018414,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "3Tobc3kJGeUiZiiLSzo2mv2c7nFvXF3X7y9cJbxapzm6pT6ooQ",
+            "stakedAmount": 5375780359,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "3NYSfGmP6MDn2os8Mi3txLpz3az5mR94yuYzrLNcBCkoQy5C1B",
+            "stakedAmount": 3388525029,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "4WJY7NfgnJbSD9h4PBy8q3y4gsggr5uwytXm6mVFWKeRbJ3335",
+            "stakedAmount": 6432592543,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "4SNrCP6eDXaDneyXaDEhTVLb6feVL7ojWdpEuZ5ipiRpsGibHL",
+            "stakedAmount": 7484309209,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "37VToYYBSonKWKNWYcvBVtGJnQqcefH28LPQEgZX9fWvQSKGqH",
+            "stakedAmount": 2384706320,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "3ieg6z6jNEA3uWdFn8oGrFVoPG8ySaU7qHeqLWSGXpEJfKX9fF",
+            "stakedAmount": 14799447020,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "3qWDzVaeQ46iSHD6ofybzDjuvgAmmrzJgNcTqWqQGRAwyLNJ4f",
+            "stakedAmount": 1674389928,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "3knUSp8Bqq96QAtqrhZM5QVA1M1j9iy2x5W6HmXJvG7wH8oFTM",
+            "stakedAmount": 2263432787,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "4J2H96D2pi28SeGh1PADMTPMtrp7e2GhGvW7zhJZpQxeWmU8Pr",
+            "stakedAmount": 1569422083,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "4RSfAkR7GrXNt37GsszSQXdrTF4FYExcj9HmsopkFp8KV4kBAq",
+            "stakedAmount": 2037191410,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "4rSh7CnHqrhdC3Abb9jUQ3QPuUq3QHFUfmy1hEVY3C3tcBYC24",
+            "stakedAmount": 1696810242,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "47iVA1DgQruYQEpqeh7L92uEG1wSJrjFK4YgJfWdNoro1PFHj2",
+            "stakedAmount": 1067003173,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "45CckaXFwKEdRVz8W5SDnWki3KF9MV6oR7E7vnr68EdYMdE6KS",
+            "stakedAmount": 987512962,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "3xnqLXC1QWVCmdGrMFykEsv73uZt3EhP8uaVSZfgm5oB3VnPxy",
+            "stakedAmount": 542163944,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "3VC2D4cFQfFnHenNbJaUkKMtKHw7EaQoBTffqtWpvTFb4Ti8qt",
+            "stakedAmount": 759233376,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "41woQvVPVRZydS6CUD1USFYcVpyifxP6A6w5icNAp7R7ryaem7",
+            "stakedAmount": 919232896,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "38BHFTSFrCyQXqU9RVL1GiMZ6rziAa8K1LLZJaC9Vira4sh3QS",
+            "stakedAmount": 101880302,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "4rmPN6yxoj4dYatKZbuL9TyeSojz1WxRybmWWL5hSA6SBnJYBn",
+            "stakedAmount": 2126863847,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "47yERaxatkegaXjfinBf9AVZN14nFaM539uV3Zq6FQNmtD8Esc",
+            "stakedAmount": 2389414508,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "3yEHTbhBtrqaseyj28GLCzqi4g35G7oaP7g2shM9KHBPGzJKQT",
+            "stakedAmount": 1828695836,
+            "delegationTarget": 1916
+        },
+        {
+            "account": "3RYxQ76Dp3181VSb2B145KBH6JY9kM2puPfWdxJ67b215ixoxs",
+            "stakedAmount": 2035276401,
+            "delegationTarget": 1916
+        }
+    ],
+    "1915": [
+        {
+            "account": "4qgmsj6PsvgGqqBf3Lq9vFsn1KV2h7379CfQqzaNFujL6fNcm7",
+            "stakedAmount": 2321819051479,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "3w8Zu3wwJpNuLdZ9RLsJrJZq74YTQVEmW5eNzrShXs8d1AsL5N",
+            "stakedAmount": 202407187792,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "42MHeV4QcNVtidnUdDPdM2LedPb2QLKa7k1MQCXiRRPAZK3NtX",
+            "stakedAmount": 1989354050054,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "3jRkPxSpMFKquYuREj7C9j2L4ZH8mkdwjZewDAWKdjMXDMwAeg",
+            "stakedAmount": 94892504371,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "4RirT77xApf2hLe8SMFSLu73DefSx6yDUvwQcfs8FCKHcZz9vg",
+            "stakedAmount": 492650000000,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "3j55yBwpEeFzQsgMVVsYG4gZUFV3X8kzrncDjWwuCBnwbECEWW",
+            "stakedAmount": 1066633288018,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "3prut1n6DRcEdywT5CHrskaXXZo5KhavVpqiFmCKZbPqwA1LB9",
+            "stakedAmount": 95224322,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "45C9g17Fgvn5JfPrMEibs1kDst6xYy3UYDHRsz2GKxGtxLZCNr",
+            "stakedAmount": 30848868243,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "4mg5KDRqSsnFksXCSoffBLBqk6hAoKEXdEcnEJv68PycyJfo2H",
+            "stakedAmount": 161514278671,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "4gTCN3B3GyNkyF5EqWXZmVBjYeg27eMFmGxe5FZvBYsumK6htR",
+            "stakedAmount": 20000000000,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "4scweXKn57GTGspm3xwtvcnu8bVDCgUpgMwY94EL13xvHAtker",
+            "stakedAmount": 4719413755,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "3dcpcnTjWcQwyvgBhtDVP2xrToSMM4c9LV7TUiu5EHVqHv33Gn",
+            "stakedAmount": 1030969537,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "33AjfDPbGinN6qcX3JL1JR2N7C9atHB8omgEUJ9CDDn2B8NqGC",
+            "stakedAmount": 913392101,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "47E3gRPz9p3XvPN1RJu4x2W3z73sUGHxYL45BBCVDuuTYTZK6s",
+            "stakedAmount": 1263473076,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "4YikXnPLmCix4boKnKL4BXmgmKxXwEJ6DPpDiCDmfsQp2ANjSa",
+            "stakedAmount": 1139063293,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "3A8aBo5ancqY86R2bs6NqNTUf3gYyKR4ApUPZa28HyEChWaiGU",
+            "stakedAmount": 1402159394,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "4nbxETfEHCrDWoVtcasT4AvGGfeGmimv9QKaeMCHRSGENjkVKA",
+            "stakedAmount": 1265512583,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "3RoG68bRFKVkEZzPCNUeSQXUdspGyS3ZcJQ2wQmhBbQR5tK95f",
+            "stakedAmount": 1020772018,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "33pQUjUZWRTYkSJGMKXV4GkqrUyd1nAkEBunT8jeoUKThGP95L",
+            "stakedAmount": 1125806509,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "4ezonatLrqrSjw3RshZNK41AzhnRyHEVWmw7TS8us8yMnKPyp4",
+            "stakedAmount": 1222682987,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "4EC2zgRn9SVGKqG22M6gvzVvdpDSqQ2UJ5wCBNQeZZqs8xaKJ1",
+            "stakedAmount": 2053781136,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "4RhgJ8peug8ad1uzPLuxD9PekHTeo6ttEZnE7CJvh5tYyoWmHw",
+            "stakedAmount": 1598971598,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "4A2TMLcsXSoRhoyshyqneNFQp1pxrBSLrYssWqumnwvu16yd3J",
+            "stakedAmount": 5895188200,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "4W9U4hgHF5wm6FZCcsRVyntY34n2WsY1hgHcxvpj18RvSaC1eV",
+            "stakedAmount": 3859762533,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "4pNsUm9wPrkmdVAVYH8RpavBJek4VPe3KYZasdyYxoUrTFzapP",
+            "stakedAmount": 10196503568,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "4dY19ZEDsQz5e1Pr1mgAKd6edFKgFGpLhtGP6G3AajNqkYgyx6",
+            "stakedAmount": 12340022980,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "3L8TBekEVYGX1QEZWGgNXySLriynTvFmeGQ87xPBo7C5zEYBPN",
+            "stakedAmount": 1378705091,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "4K3y7AvjoPEcc1egdVvifkXtqAywPtqgozsytFJ6AfykQxwkwZ",
+            "stakedAmount": 1295085399,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "4hXX6AuFwnnBcb4ETBvBhKnon7YAakUqdzUv7XzRat1k72ZXTa",
+            "stakedAmount": 1480680323,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "3FLHGMZ815TMH7V6Ar4PMyBzKDcwfL5RJq67zGvbFpmk6sTZow",
+            "stakedAmount": 1537786456,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "4RpgwbjnZ84g6obTJTgAHCJRgVjdp7bktrRT6TpwDvU5Azeu6P",
+            "stakedAmount": 1885522002,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "34Zgbhe3P5aMzH5KC1XKVq1SS7Pjt98wyoFePeS65Q5HksFtT6",
+            "stakedAmount": 1759072717,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "3f1qiy1ipWoqcxSq5odsf3EPzrPMSpPbAG5YDacfV8re1MrBzy",
+            "stakedAmount": 1018732507,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "49cv55bCH2Es28sZMzH7cB1kRzebbqMczMFSn77f2BbWH5Aq7i",
+            "stakedAmount": 906559768,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "3PW5Ustv6uzUkvVGCHrS26FCafYPTffJkaT22Qo8zJ5aMHw62g",
+            "stakedAmount": 871888185,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "45rhPcUY8FVWsFGCJFgGVRzM6CizF5jVdQvhkmuagfSGUMuuvv",
+            "stakedAmount": 411979870,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "4jxB9jBge1X3vthUGYdvhgjcAWkW8ahCGp1ufaraHGRcgFjixz",
+            "stakedAmount": 1080364653500,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "3afZ6HSPLxmpUKhFYXbmXa85CcRyCeLu5Q8vQJwgCCd5B1LNJt",
+            "stakedAmount": 2026509404,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "3DWfeTtcjw6z6x4o4LdTi6AZt39vkUesTi7tUqvPW32JyReCc7",
+            "stakedAmount": 2238325463,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "3TSZQBnbSVz1aeF4uu9Fvcw2SPmq9wt26T2zUPtZVRwVYPwS19",
+            "stakedAmount": 377912223,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "3M3bvJ7CisH2LtvMaYV622hMc326xnTuajU3rgJBUeRiBNmnw4",
+            "stakedAmount": 2659000000000,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "4FqGuwU4Fh6asUu91XQURLNZ6FPetBPMhbWDEcNwR1kW5nB1wM",
+            "stakedAmount": 10593767636,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "4RQF9NWoyfGtxetTZUzPJDuiP3DxkD4KWbRszJ1MgUf6VNkbVb",
+            "stakedAmount": 2031601126,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "3RQcGBZc8GgrdUMRZzY7JeA1BRaU8KNNzz6v3b1yDPXU9DY1PP",
+            "stakedAmount": 20361739085,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "3rndcMhf1GmzoMdGMh1Zf55Le9UiVnvFNVbjYEGjvkzmwkiG9f",
+            "stakedAmount": 1077704188118,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "4HcCrfKDwVuWBrMMXZWGzEwzdBZvc4oEK2U7fqMJi1P99sV999",
+            "stakedAmount": 1058198345192,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "4RCx9YFrmYABsp1BqSfX3epfeYH5N2zWPQ1C3ZfFkCnR1kXQyf",
+            "stakedAmount": 206398971764,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "3uGLmswdMa6R6EHbz4N3QhkzckgGreB5FStNPCUEaF9GjVyETK",
+            "stakedAmount": 2033266132,
+            "delegationTarget": 1915
+        },
+        {
+            "account": "4fxEW212ULVyvDHPceJPAtBjuzWsaDfsiBzmvqcLz2CQQ6LZBU",
+            "stakedAmount": 2043089117,
+            "delegationTarget": 1915
+        }
+    ],
+    "830": [
+        {
+            "account": "3YkULKVjqTYpwyf4fMr379hJDs7QFefQPVfufE2BJgK8Y8htRS",
+            "stakedAmount": 16796107130,
+            "delegationTarget": 830
+        },
+        {
+            "account": "2wsuRWPiZ7YagFP2LHNtHpd6qxzifKDvxnud51sx7bu6cusr8R",
+            "stakedAmount": 4078211,
+            "delegationTarget": 830
+        },
+        {
+            "account": "3BhqGXJnf7T2Qd8v5LG4C3xCe8UsQfdepWoPz7xgsdZr1Kvn66",
+            "stakedAmount": 33093399661,
+            "delegationTarget": 830
+        },
+        {
+            "account": "4dMoytz44gem1o2mavKDm16JtU2fyWLcakTfTwneuJh9wDo6X4",
+            "stakedAmount": 13242464,
+            "delegationTarget": 830
+        }
+    ],
+    "1051": [
+        {
+            "account": "32L9UqWsd6HnuAzpAMuy7zDUtHUvNN7AYco4KqmeTueT4TQQ8W",
+            "stakedAmount": 31653465449,
+            "delegationTarget": 1051
+        }
+    ],
+    "1127": [
+        {
+            "account": "48cqTQTC7ncDKtLcWGqzjCSpQmKT3nBWKCeN27xLJrQvze7PmD",
+            "stakedAmount": 10188343,
+            "delegationTarget": 1127
+        }
+    ],
+    "1219": [
+        {
+            "account": "4T5hLnDFA9Wk7V5gP3UFwg9WrqzPmH6n9zGzThmtpvxgPvD6v6",
+            "stakedAmount": 640000000000,
+            "delegationTarget": 1219
+        }
+    ],
+    "1345": [
+        {
+            "account": "4bW7EWm2oVYPYzTUAqYuTrWSMj5emGbo6LpsrVRqxyM3BUNW2r",
+            "stakedAmount": 10000000000,
+            "delegationTarget": 1345
+        }
+    ],
+    "1637": [
+        {
+            "account": "4a3EbyMn79yn9NF7khHB4b265zNauT14VG2iftj1U1aKnjvzUy",
+            "stakedAmount": 39186221,
+            "delegationTarget": 1637
+        },
+        {
+            "account": "4kizzhYLQxdbHfghjmYfLRbLDCpZwyLzD3vCRPdCvJmbxu4ccG",
+            "stakedAmount": 39186221,
+            "delegationTarget": 1637
+        },
+        {
+            "account": "3Yn3qsvwSDyHnmFmZzCg1K6V2EbWr4XCDNUsxyk9cE5XHqEJbK",
+            "stakedAmount": 557650177,
+            "delegationTarget": 1637
+        },
+        {
+            "account": "3vVnh3qRVq8KPjdEKo85btZZg9r9W8zRMqhbKQGp6ZzjoZKSBP",
+            "stakedAmount": 12700357319,
+            "delegationTarget": 1637
+        },
+        {
+            "account": "48pvUQnBJXftkPEeEfDJMd1aLdSDzfZiMjxuCLtkLbq7k6FGFa",
+            "stakedAmount": 597841181,
+            "delegationTarget": 1637
+        }
+    ],
+    "73541": [
+        {
+            "account": "3VrAG6J3yWT6JQXwoJ1mYFoHga2oVy2jzJJHcvvi7b5dSmgpep",
+            "stakedAmount": 7332508395,
+            "delegationTarget": 73541
+        },
+        {
+            "account": "3Fnu1Gty8nZrPBVZ1si8jmbNoVta6wrrL5uKmmLxAbwKo8Kq78",
+            "stakedAmount": 19520743535,
+            "delegationTarget": 73541
+        },
+        {
+            "account": "3qYYzihVhExuG1Sq7517XzGHwA4Acm5DWt7y9Eebry3WQiiTZk",
+            "stakedAmount": 459191494,
+            "delegationTarget": 73541
+        },
+        {
+            "account": "44UfxkLDCbXHdcsJvpc5Ann4xBsnKMPN2XcZDKQ1rZrowkKtSp",
+            "stakedAmount": 12367498,
+            "delegationTarget": 73541
+        }
+    ],
+    "1317": [
+        {
+            "account": "31kR6qNjzNW1btXXz4RYDV5jBbsJctn8bgaBXZBvYitG2TdpZx",
+            "stakedAmount": 33603303825,
+            "delegationTarget": 1317
+        }
+    ],
+    "40374": [
+        {
+            "account": "3P2799wCgcGaqD3vwQ6w6VNfcB2wCoNBiFoJmcafzh8NXotg67",
+            "stakedAmount": 1017729274,
+            "delegationTarget": 40374
+        },
+        {
+            "account": "4ipbYF9ncfmJXVfciPtmAK4SxhDamr3ix4XBkHFJKkuaCwaiSz",
+            "stakedAmount": 1018748021,
+            "delegationTarget": 40374
+        }
+    ],
+    "44954": [
+        {
+            "account": "3asw6XKqRJvdVGsiJFqJE746A57cnUW18vckdSTT7Z9Ah6mWnj",
+            "stakedAmount": 10189435,
+            "delegationTarget": 44954
+        }
+    ],
+    "84886": [
+        {
+            "account": "3Bns6j3VuvshmGovkHcMVwBhuSjMfR4TwE3ok8U51gw2WgDKvr",
+            "stakedAmount": 20673703875,
+            "delegationTarget": 84886
+        }
+    ],
+    "77032": [
+        {
+            "account": "3g8HevPoKN7aKX8Qg2DqGPrr3m8okw3SiwJFmvmJDk5jZ5hrSs",
+            "stakedAmount": 4158757628,
+            "delegationTarget": 77032
+        },
+        {
+            "account": "35SnjMSJZM2CBebBPsEDfAtYyftthWfrY1racJRuw7mbCvx9NP",
+            "stakedAmount": 101981138,
+            "delegationTarget": 77032
+        }
+    ],
+    "78475": [
+        {
+            "account": "4GktwwfzRQaKAH1s8JzeJ9HCZ4banVGb99qzw9TWqSwAYhVS5H",
+            "stakedAmount": 40797471,
+            "delegationTarget": 78475
+        }
+    ],
+    "84424": [
+        {
+            "account": "3Jz3RfRhXKRPDfjpcm94XDisYL1SGpTN6TynCVAxL5kLFGaWv2",
+            "stakedAmount": 12045047458,
+            "delegationTarget": 84424
+        }
+    ]
+}

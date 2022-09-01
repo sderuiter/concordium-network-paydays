@@ -1,0 +1,5507 @@
+{
+    "2wopuh881hkTjGvJwZgSDYidTQwSdTPEQJ5TbMf8dqyGxHi52z": {
+        "bakerReward": 755698,
+        "finalizationReward": 0,
+        "transactionFees": 11
+    },
+    "2wsuRWPiZ7YagFP2LHNtHpd6qxzifKDvxnud51sx7bu6cusr8R": {
+        "bakerReward": 424,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "2xArssPZdJbaZzZQoqmf3soMSPgsHjGE1nLWgxTRXgAZ3DDK41": {
+        "bakerReward": 13167,
+        "finalizationReward": 0,
+        "transactionFees": 8
+    },
+    "2xCTChyBUEaDtinAQQerYyM6FAkcHEEy4gYJkLVH26s8j8saye": {
+        "bakerReward": 329538355,
+        "finalizationReward": 0,
+        "transactionFees": 5827
+    },
+    "2xFxxLMh65qHp7tb2gBSDmGMKbT7T6xHVfm6Y2PQyHcn2GLUor": {
+        "bakerReward": 17069,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "2xGaKCWRtvhriDLzSAumbdnv22ZAMM4m5hwBJVFSeUp4VyvAgj": {
+        "bakerReward": 20460,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "2xJdj3Czng6pzmBXg9keQvhAXC7HbdEcqwmU1BeG3fxFhJMAsq": {
+        "bakerReward": 37063123,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "2xQFNnByKTPtsWYqaiXQ34k9N9y5Sd7WxaJoujFTcLRHibCMeg": {
+        "bakerReward": 9291224,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "2xg6zSH5khfeeZVz4MJEAJhA9UW6TsjVFTEMZvYbLmQpT3YXBx": {
+        "bakerReward": 6275,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "2xgHxfXJt8t4ofNW21c8hpCQX3Bkr2dL6shUwmczkTtNNUAvMN": {
+        "bakerReward": 64010,
+        "finalizationReward": 0,
+        "transactionFees": 5
+    },
+    "2xzn63gCSKU2fRb11pHRL7HXvhJMsVmXnD2sJGof5ty33JiQ6q": {
+        "bakerReward": 15762,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "2yBDQtkLkjiQRNDZzs7jMhRfBLkbepmNk55EfAqDNAYX9ii6aE": {
+        "bakerReward": 22653,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "2yC397oR7kjXZDJQKRv5aSQuXD1TgaKvqSvwyFEdAMnHuHa41w": {
+        "bakerReward": 61576007,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "2yHCs3eGd1t3bsoa8mdEDgAS8gRhAmbrTPLZivZNw3qBfBaWcf": {
+        "bakerReward": 269353591,
+        "finalizationReward": 0,
+        "transactionFees": 24442
+    },
+    "2yMdW1Gk4aSqKiAiMJdU58hXbH68VnSkFFrsd4sugNG7EXgJ1G": {
+        "bakerReward": 1454051,
+        "finalizationReward": 0,
+        "transactionFees": 22
+    },
+    "2yNjhB35rZWuGAgZ3QkNGEUPRQqoEr54r8EuFHV1DUTEJYXdgD": {
+        "bakerReward": 188154853,
+        "finalizationReward": 0,
+        "transactionFees": 14706
+    },
+    "2yRNHp8b33nwtk5u88VvszTqSTxrkXRsdEQkFmvGFzJ8XpgKFG": {
+        "bakerReward": 6275,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "2yU1DgMUcUN9xr2ot3MQf5yZuUCVy4GYNQ9KAWsx8VsFnX9oWN": {
+        "bakerReward": 30014874,
+        "finalizationReward": 0,
+        "transactionFees": 3205
+    },
+    "2yqCxTt49cp9q4Y1GGm1j26pxGT9fYTiXqoUkmk7CT1mKNbiLs": {
+        "bakerReward": 36333,
+        "finalizationReward": 0,
+        "transactionFees": 25
+    },
+    "2yst8Uh9kT35Pb1rjxd9jGXtT193AtxHLK7r27HwEMCGQdrQ1K": {
+        "bakerReward": 1718733,
+        "finalizationReward": 0,
+        "transactionFees": 155
+    },
+    "2yx7b47du4XWF6BXiDznrd4QoTYh6aHcBfcy7BSKxLP7655Z9W": {
+        "bakerReward": 145714,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "2yx7tMNsywYJEWQUY67eYeMyQXkBeBkDEarnZQdaGAZYRqRnjq": {
+        "bakerReward": 5655493,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "2yygouQ79bCG6L6R4aBLNyfJQYXCmLJoQMHwsdLwoD2USBZFn2": {
+        "bakerReward": 38146020,
+        "finalizationReward": 0,
+        "transactionFees": 2823
+    },
+    "2zKmVXcsBV1vKdFmyiiy1DoM1U3tgmeGTtQNtSJXLnoVs7HHz6": {
+        "bakerReward": 126223,
+        "finalizationReward": 0,
+        "transactionFees": 11
+    },
+    "2zSZr4mihJyWexRrZPBvWDTvFhasttETZeoFYLCr5SCp9QZ7qe": {
+        "bakerReward": 1590898,
+        "finalizationReward": 0,
+        "transactionFees": 144
+    },
+    "2zW1ok7FG3MVsmx55v8ANAb1TM4MLftGWisqeTeTKomFQgjzzv": {
+        "bakerReward": 6275,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "2zWGRP6x8Yjo4Uqw3AX88E6tDARwLgMaMFbBbWb1CdAVHDYJGm": {
+        "bakerReward": 26908883,
+        "finalizationReward": 0,
+        "transactionFees": 18751
+    },
+    "2zbX9f1k2NSvwNLnWgu2cTGyoKo3XvFywbcnQhpdjywkDF5PZS": {
+        "bakerReward": 6430,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "2ziLbvYANgnPZdYRcQydR2tLY6ifPRVSSN6A6w1KyuButQddKm": {
+        "bakerReward": 249894116,
+        "finalizationReward": 0,
+        "transactionFees": 26690
+    },
+    "2zvZp2EBLEMbuGskzXvyp4gNJtfAnChgGuPTq92iT1FG9F88rR": {
+        "bakerReward": 6275,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "2zzVKVoWJcNLpVbmVooMfpbg6h2nDXDzwBAA6eoBHiAsLRFv3n": {
+        "bakerReward": 52180992,
+        "finalizationReward": 0,
+        "transactionFees": 866
+    },
+    "3136CGHmhxuUgimvsrKA1WumYUwoxocnMxjM8E2Ur7SXJP8qEc": {
+        "bakerReward": 19354,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "31GBTiYctvEDkmvUcBrySExMSMcNKnq1pJjAdBE9pDMHFmSgQH": {
+        "bakerReward": 13196538,
+        "finalizationReward": 0,
+        "transactionFees": 1197
+    },
+    "31JAyr2AWuCk4YRP5kj6W7Zu1J1PFTJ4FapeoHKTQFbSoHZAVP": {
+        "bakerReward": 6637,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "31MyUWpLxKZ9k7qWnGb3ajFL2b4UdJbNKuj7jXwJ7tsTUDnnjr": {
+        "bakerReward": 10311,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "31Q4mqtKErcrTyeFobZMRuxoSnULiFjE96aL6uEa2VrqmYaVbZ": {
+        "bakerReward": 20660,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "31bbeL6hSybjSvxqYEMcjAd3ZiS5edBpZySpi5nTm2PeJkwXdU": {
+        "bakerReward": 41749960,
+        "finalizationReward": 0,
+        "transactionFees": 693
+    },
+    "31kR6qNjzNW1btXXz4RYDV5jBbsJctn8bgaBXZBvYitG2TdpZx": {
+        "bakerReward": 7295439,
+        "finalizationReward": 0,
+        "transactionFees": 662
+    },
+    "31zGdF6yd2y6oCi5synhMaB6JeaQXAxnTbqQKYXTbD8SriRNrB": {
+        "bakerReward": 25276,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "322hdEoNVsc2Yv4ZmiNz9qUvyRM55RCQFmkVYTEGnGNgN5cu1H": {
+        "bakerReward": 3599680,
+        "finalizationReward": 0,
+        "transactionFees": 2508
+    },
+    "32CSj2NG627AAfWQTENdu99VcE317C9qf2acZ4b1LkzrYZPkNK": {
+        "bakerReward": 2146,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "32L9UqWsd6HnuAzpAMuy7zDUtHUvNN7AYco4KqmeTueT4TQQ8W": {
+        "bakerReward": 7321974,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "32YErNcHiNMusjMNRK1qNEgHJmtQVJToeyVaEBShxmr7iKc11w": {
+        "bakerReward": 290598488,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "32a8TLfE67iJYgCFeCUFS7cECahEKP9ZkrHjF26nQi6c4qpzPr": {
+        "bakerReward": 290598488,
+        "finalizationReward": 0,
+        "transactionFees": 3
+    },
+    "32e9kxy2gHFZoqu3gJqkk2yWPrARmaqiXXP7MFVNALMhDCn6Gp": {
+        "bakerReward": 9798433,
+        "finalizationReward": 0,
+        "transactionFees": 1046
+    },
+    "32ryuv8vAAG6yn8ku6EZYCzXS3RJcdnf4W1FdoX7J5sfCT7nQp": {
+        "bakerReward": 7666597,
+        "finalizationReward": 0,
+        "transactionFees": 818
+    },
+    "32sxL1ZVB3Yq6PbhwwA1Q12LfxoykYMKatePPBGfDNDfBce7AL": {
+        "bakerReward": 6171,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "32wdDxkoVt7EiFViCi9Tcg4tH4Joow7VtWUsZXSCjufsRtWQ4d": {
+        "bakerReward": 2055155,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "331AnQS74vwULPkgGodqhZEs13kkKMQ2T5hFFkVo1dep8K1DAB": {
+        "bakerReward": 1788872,
+        "finalizationReward": 0,
+        "transactionFees": 191
+    },
+    "331wL6e3HXz1kRR8X27GYGwLn4ghNmi9zZdJNKUP1wVXCd7prc": {
+        "bakerReward": 19587801,
+        "finalizationReward": 0,
+        "transactionFees": 2092
+    },
+    "334gd6apYn12qaBUcePCX6NeCeAT8oq8e7dsFaYLSSaoGgfw2q": {
+        "bakerReward": 6275,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "33AjfDPbGinN6qcX3JL1JR2N7C9atHB8omgEUJ9CDDn2B8NqGC": {
+        "bakerReward": 234128,
+        "finalizationReward": 0,
+        "transactionFees": 21
+    },
+    "33HAxCJicRbyRVPJL7DNsZB3WYdTejAD6aStQ3bWC1N8Y2VBPA": {
+        "bakerReward": 1030,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "33MRMg2HkNZjL4WpMB7sGmENoLhPUiVhLkMfmM3Dxy9jnsAfiH": {
+        "bakerReward": 1149989,
+        "finalizationReward": 0,
+        "transactionFees": 122
+    },
+    "33fUn8xxeQDpkAcAM6QTAv9XWMp3PjkT5nFFxXbCgJJDoPfsAD": {
+        "bakerReward": 1452992441,
+        "finalizationReward": 0,
+        "transactionFees": 12
+    },
+    "33gVJbAeUvhSZNFi1P14V3wZGH7ExDyrjeYt7hw8v7FtnsRff7": {
+        "bakerReward": 1695253,
+        "finalizationReward": 0,
+        "transactionFees": 153
+    },
+    "33jdgehzu3RFEMwLRRxyMtPxQgsGX3xzPagEx6L32Jsdphw7ys": {
+        "bakerReward": 4556335,
+        "finalizationReward": 0,
+        "transactionFees": 75
+    },
+    "33pQUjUZWRTYkSJGMKXV4GkqrUyd1nAkEBunT8jeoUKThGP95L": {
+        "bakerReward": 288576,
+        "finalizationReward": 0,
+        "transactionFees": 26
+    },
+    "33r5x2o1TAg48oaWPP63Toyn6HNRRyeVdwmUJAQGbdGv2Pqm3S": {
+        "bakerReward": 1447670,
+        "finalizationReward": 0,
+        "transactionFees": 131
+    },
+    "33zjQgSmGUEj39JVqY68SG6dfeVh3UNmx4xxRxpPapkEnV1HAb": {
+        "bakerReward": 854385,
+        "finalizationReward": 0,
+        "transactionFees": 91
+    },
+    "34GXQsiXMetZmP5eoDCaXbdmvAtcgsASkANLwQha3cdCPpF8LB": {
+        "bakerReward": 26965174,
+        "finalizationReward": 0,
+        "transactionFees": 18790
+    },
+    "34KLjJcyaF5bA9QZW945kr6AHqLpMhVL9ChPyEHJtL3hTFENdW": {
+        "bakerReward": 350057,
+        "finalizationReward": 0,
+        "transactionFees": 5
+    },
+    "34QHRiPxx3WUTaRMHk4RoJEvtFav1Gykxfi6sv2fjrsyv9EDPr": {
+        "bakerReward": 974287,
+        "finalizationReward": 0,
+        "transactionFees": 6
+    },
+    "34QsLobG84k6yi6o9DeekdUzCJxJcTnTk5FxgqfDqsajkUveEX": {
+        "bakerReward": 19823698,
+        "finalizationReward": 0,
+        "transactionFees": 2117
+    },
+    "34SEBjPziJazTbGXPb4Pqt8JR7Swfajkqpy5GGFgNmY1NRXKv5": {
+        "bakerReward": 55499124,
+        "finalizationReward": 0,
+        "transactionFees": 921
+    },
+    "34Zgbhe3P5aMzH5KC1XKVq1SS7Pjt98wyoFePeS65Q5HksFtT6": {
+        "bakerReward": 450900,
+        "finalizationReward": 0,
+        "transactionFees": 40
+    },
+    "34gYbScKSv7pRjoDnnYTEkNL1JSbNMBQUXBjJUDeTnyHrBLMbH": {
+        "bakerReward": 4059,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "34vHJYc2cEM1WvUyzdjsnBZ4DMZErAhmi2fP41rBXjokDMYnAn": {
+        "bakerReward": 312263281,
+        "finalizationReward": 0,
+        "transactionFees": 33351
+    },
+    "34wsVhacjJYGdofpRXybHZkardSZeNK9ZE7xHSVFyMedRzwoM9": {
+        "bakerReward": 2736,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "34zME8BBN6Ds1WzA2uJQakB6J4cmopdAsWF6q8MYkaVTdH4YFg": {
+        "bakerReward": 111909,
+        "finalizationReward": 0,
+        "transactionFees": 10
+    },
+    "3594whgHC3sKrNswbmDvoJpph4xPwoJBGQBTkPeLihe8DjQ6qW": {
+        "bakerReward": 82446,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "35AGYQC9ArExG1XsQtYrRgzNAMAeq9WN1mH7X2f7q5m7FmfZqx": {
+        "bakerReward": 6683765228,
+        "finalizationReward": 366870160,
+        "transactionFees": 125492
+    },
+    "35FpsWumMe8KJGW2VqZjVu3SkRgi8PqVa2jiJNoKMQ1sybM9hs": {
+        "bakerReward": 15521,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "35KkyB11KmLa1mTdtjWkuGBRQVvBBJ1N9z2cDad1FHntwg1L4k": {
+        "bakerReward": 322391,
+        "finalizationReward": 0,
+        "transactionFees": 4
+    },
+    "35PExNiTo7NYRAQ3rA9LQnXziA3XpNpmiBVjAVGL7wo4hCvSXC": {
+        "bakerReward": 2615386393,
+        "finalizationReward": 0,
+        "transactionFees": 110967
+    },
+    "35RR849AEGr2tgwBKRmnDYJW8ZWtvF5hBtVZYWeodqVYbWYH9P": {
+        "bakerReward": 201912346,
+        "finalizationReward": 0,
+        "transactionFees": 14482
+    },
+    "35Zf2bdpe5JtYxNJWsnMniiVJhtUM6fQJ1KcxiD3nBLueEWS6V": {
+        "bakerReward": 38004835,
+        "finalizationReward": 0,
+        "transactionFees": 631
+    },
+    "35aT61yjyDkcbTkXrTwgjmLrdxu5ZmGyq1CrRFctjqRtDojocJ": {
+        "bakerReward": 30821842,
+        "finalizationReward": 0,
+        "transactionFees": 2796
+    },
+    "35eXiDG4r9fzf5qyMp2oXYPseNUa6CDA97TKmqp95QM41D7LSi": {
+        "bakerReward": 4262939,
+        "finalizationReward": 0,
+        "transactionFees": 455
+    },
+    "35hTbtyUthz6BowgQYacVM4MdTqugvoYaLngaUuhvyitevjkFz": {
+        "bakerReward": 3868619,
+        "finalizationReward": 0,
+        "transactionFees": 413
+    },
+    "35jpVzUj9YKCYyEiAduuNb4NkNzBYenKT8BeRw8qitxTqKLTJG": {
+        "bakerReward": 25891190,
+        "finalizationReward": 0,
+        "transactionFees": 395
+    },
+    "35kqJb6ATih3ZfLEe9UQ8A7Bp3gSjCQkFvUiUDKh7QFVfPTsWa": {
+        "bakerReward": 293300,
+        "finalizationReward": 0,
+        "transactionFees": 22
+    },
+    "35mtUSzAnNaMuo8SyPWztL7DEExe3Qxq9TTHPkYH7nRw9draa5": {
+        "bakerReward": 1192183,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "35vaRC2PSqcEdBEgq8d4VjGFe26rpXVD1RjcXiCiCuabDJ5XP6": {
+        "bakerReward": 44397156,
+        "finalizationReward": 0,
+        "transactionFees": 4741
+    },
+    "36X9iMg4bJAGiaTYyPdntvP6mK1BVCZjZEMomkAXugXTbsUBRL": {
+        "bakerReward": 6460,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "36bMQNgFgtFqaQjmbhFifZuFCXb7C4aowkPwN39UZtbPgBpyMX": {
+        "bakerReward": 2944308,
+        "finalizationReward": 0,
+        "transactionFees": 314
+    },
+    "36esGKyRHV1eZnxhAYXMs97XXTEMn3vi7CNZhmoci29TZEfVwP": {
+        "bakerReward": 168494399,
+        "finalizationReward": 0,
+        "transactionFees": 17996
+    },
+    "36h8h4Usiu5uoawLyvbVrY7dCWiTdYRiQPmnQ7tFk1rKV627rQ": {
+        "bakerReward": 21713758,
+        "finalizationReward": 0,
+        "transactionFees": 331
+    },
+    "36hCjoVnArLxBb4pXeWd5Kw7UtXVZyoocmw8xsN7EkXadPLH6m": {
+        "bakerReward": 131558,
+        "finalizationReward": 0,
+        "transactionFees": 11
+    },
+    "36vaPtZbJd9gBrA2Sao4p9YcPQA2eKED5YCBTPXJpH4ZNuAvq9": {
+        "bakerReward": 8705876,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "37BCkKg7D29nm2DBHKugBZccYtA1zBvazuZnQ99wXhstU3Y185": {
+        "bakerReward": 6231,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "37S5Q3bDDaZr278vwK4Z1T9rbMoNSVFPjkos48W9Kz3kGJAiNg": {
+        "bakerReward": 2324787905,
+        "finalizationReward": 0,
+        "transactionFees": 682753
+    },
+    "37VToYYBSonKWKNWYcvBVtGJnQqcefH28LPQEgZX9fWvQSKGqH": {
+        "bakerReward": 681477,
+        "finalizationReward": 0,
+        "transactionFees": 10
+    },
+    "37WzscPLwwmYmR62ngyD8KhRe9peuT6FCSSzY2gF1b761Aj7tk": {
+        "bakerReward": 42080,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "37ZWkyq232fTSTsnCSS3yPz8kxyqEQihV6tBacB8Gk2WCXDY9L": {
+        "bakerReward": 28543134,
+        "finalizationReward": 0,
+        "transactionFees": 2590
+    },
+    "37d8rF4LjUQC3zNReUyoKyRepRKdxkc51ee4rcBqLkYY1XFAvH": {
+        "bakerReward": 8023754,
+        "finalizationReward": 0,
+        "transactionFees": 627
+    },
+    "37mLGnD3QShGy54Mac2XJqhvkazYhJmQaFiYR2ZkhejacGQCbT": {
+        "bakerReward": 7844153,
+        "finalizationReward": 0,
+        "transactionFees": 613
+    },
+    "37pYNZxXE6SVGs8XbaTu6WNq3iYaoCM58sA1N2JwNF8zvN5yp8": {
+        "bakerReward": 81837,
+        "finalizationReward": 0,
+        "transactionFees": 8
+    },
+    "37uSZd3DL4HgGfrMLmjDwci9nwpM4w6bkviUeLHrHCcJR59uic": {
+        "bakerReward": 2146,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "37xMX5HamAQJSSedPoPKgXP59jgLSLQT7C24PqV2oqo8pKSpQh": {
+        "bakerReward": 3587979,
+        "finalizationReward": 0,
+        "transactionFees": 280
+    },
+    "37yP28tXhpAo6RixQskqM3k2uYYmsuV1r6rcYww4S3i3vwHsFQ": {
+        "bakerReward": 2907153,
+        "finalizationReward": 0,
+        "transactionFees": 44
+    },
+    "37zCdRxWRzAegU2uX1goLevbA1jsmU9qfGKcHht8wS8pHajunf": {
+        "bakerReward": 518237,
+        "finalizationReward": 0,
+        "transactionFees": 55
+    },
+    "3884suW5RGbzjyVAue8SfF6o88YcZbhXBLYq1YTFTSJCcLgYnS": {
+        "bakerReward": 828050994,
+        "finalizationReward": 0,
+        "transactionFees": 83852
+    },
+    "38BHFTSFrCyQXqU9RVL1GiMZ6rziAa8K1LLZJaC9Vira4sh3QS": {
+        "bakerReward": 29114,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "38DmwVuAwtCpscipaKGgAY1fs1huZS66LNqgyiMPTNk1NrgTzN": {
+        "bakerReward": 2905984882,
+        "finalizationReward": 214283621,
+        "transactionFees": 326556
+    },
+    "38JFpP98RYs8Z3oNsSPmMsr3zW27VYUbC53fVAvFfmTgXrDYWi": {
+        "bakerReward": 22867893,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "38LQrwoYB8TwDypLADDP4ZSwbfAxvFSgVYg1jhCbKsa19spUW9": {
+        "bakerReward": 11617083,
+        "finalizationReward": 0,
+        "transactionFees": 177
+    },
+    "38XeGFYFPmuBz67sCb3TnqqJhgEXtR1sWVVX9TUVV3yoUqPRZm": {
+        "bakerReward": 36018522,
+        "finalizationReward": 0,
+        "transactionFees": 3846
+    },
+    "38kGkMJh4sBhPXPdZLjjxuSgzUXFtxNpnGavm9Xv67gABAtNP8": {
+        "bakerReward": 123734748,
+        "finalizationReward": 0,
+        "transactionFees": 9169
+    },
+    "38rCjp3kDGHXyqGuAV6Nsys7oJnFffu4Mv84umhvh2ZbQoLQPu": {
+        "bakerReward": 10297,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "38wTPLnmv4T7dpbTFEXQcAHCS4r2pmmg2Exo26YfPBAMGRj9qv": {
+        "bakerReward": 141585,
+        "finalizationReward": 0,
+        "transactionFees": 12
+    },
+    "3956KPsBzq6kUWX1JJN8kbkzVRBAMRB5dsK41pTMmTkacMBPFf": {
+        "bakerReward": 62201,
+        "finalizationReward": 0,
+        "transactionFees": 5
+    },
+    "398UQmYCTedug3ocEAGvPzobYPqGrrnVK5fAFHuzKPfsYaMWQi": {
+        "bakerReward": 80570250,
+        "finalizationReward": 0,
+        "transactionFees": 1338
+    },
+    "39CwpmWKPpoWZJQe129ABw35mF6z1bDwmo6hLxE7izC3NXc1Vo": {
+        "bakerReward": 20277707,
+        "finalizationReward": 0,
+        "transactionFees": 358
+    },
+    "39HPKDB9fTkPb7HnCmCKhn69LjsKDiFSDjC5J5XuuKTaDbWmK6": {
+        "bakerReward": 53076083,
+        "finalizationReward": 0,
+        "transactionFees": 5668
+    },
+    "39P6xARZFkmWTj4P7oqAJ7racAKbGMpz516h3Gr19oaDu9aNuV": {
+        "bakerReward": 459995,
+        "finalizationReward": 0,
+        "transactionFees": 49
+    },
+    "39TXSGdeQ7cCnykxEsA7goKvX4DDzj2rSBRsam6jJXUZuqn7B9": {
+        "bakerReward": 2202569,
+        "finalizationReward": 0,
+        "transactionFees": 33
+    },
+    "39UBLW3A2TFALoPQL8rYSyJF6j9XJrR6nybbHmoLcVLwt3cUtY": {
+        "bakerReward": 121916,
+        "finalizationReward": 0,
+        "transactionFees": 11
+    },
+    "39ZWMGNqioMqJ7vWuzGutv7AxLub9kZbRuaaiLFpCUqAm9TGCU": {
+        "bakerReward": 121799,
+        "finalizationReward": 0,
+        "transactionFees": 11
+    },
+    "39j8JmwZpJbrH5pH3wDhEE6B7DwuEg9iUsNpLox5LrzmQ2oWx7": {
+        "bakerReward": 119457,
+        "finalizationReward": 0,
+        "transactionFees": 10
+    },
+    "39zihpXRPT9UypVjXcmZCwoVnx5smb85TmReVqTGDEMJdcfyGR": {
+        "bakerReward": 24689294,
+        "finalizationReward": 0,
+        "transactionFees": 436
+    },
+    "3A27jnLLz9E7DbcRcEpQ2gHwuioyLK8VK5rJxENzEWPtG35MK9": {
+        "bakerReward": 37797218,
+        "finalizationReward": 0,
+        "transactionFees": 3429
+    },
+    "3A2scYTGP7cXmiZ8GFrtLbekofRjdLE6Pe3mZeBSfUshg3LG9r": {
+        "bakerReward": 12105331,
+        "finalizationReward": 0,
+        "transactionFees": 1292
+    },
+    "3A8aBo5ancqY86R2bs6NqNTUf3gYyKR4ApUPZa28HyEChWaiGU": {
+        "bakerReward": 359413,
+        "finalizationReward": 0,
+        "transactionFees": 32
+    },
+    "3ACFiPNUs6S7RBhh5vCeQEvfAi7xVjsuLvgJiLwmFve47Hqnx4": {
+        "bakerReward": 32616949,
+        "finalizationReward": 0,
+        "transactionFees": 2959
+    },
+    "3ASpcqzB9ukd32E8fUmXuLj5ChrfwR5QPEs3X3uZdTmi438khm": {
+        "bakerReward": 6848975,
+        "finalizationReward": 0,
+        "transactionFees": 113
+    },
+    "3AVvmpPH6Z9MNQzUCGZZFrmycYQCTFwkc11QkFucEz9RJyfTpf": {
+        "bakerReward": 290598488,
+        "finalizationReward": 0,
+        "transactionFees": 40
+    },
+    "3AXWDaKFd1CHxgCX12HPbhcEAn54RWy4X8ncJ9Pshkf7ffDudA": {
+        "bakerReward": 6658610,
+        "finalizationReward": 0,
+        "transactionFees": 711
+    },
+    "3AXptodggm3sMz9qiByhpQNqDHb8dVn3BWtPHh27L5L4srR7FT": {
+        "bakerReward": 56087318,
+        "finalizationReward": 0,
+        "transactionFees": 4383
+    },
+    "3AZ9nrbrEG7FJuEc9sdkxisyHYhyrAbioSCwSLBhA1xEtPL2tw": {
+        "bakerReward": 6231,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3AoCqfjPvAUkQRonNTQ9qLeGnhdkrQ6hx7ULcnocX7gDjtX2YX": {
+        "bakerReward": 843575119,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3Askp6y4Vm9Z7YtuKuLp6yG4uPQPHsKmLnyfAB19gXP8pfKXx8": {
+        "bakerReward": 10289,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "3AvNU4Hm4cez7uuS6TMnivJZqjrDNZWLQ4TNChzdGU3XqizwTG": {
+        "bakerReward": 11030374,
+        "finalizationReward": 0,
+        "transactionFees": 1178
+    },
+    "3AvRRQ5xC4EzBv4ePGdj5mH53wuswq8DkStouNBJ2ETnwNkgeF": {
+        "bakerReward": 1426270,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3AxLaW7RLUXNMF8yiiJF9Smw4XfKZcqP3dXxaQDzoGEbbRmHff": {
+        "bakerReward": 6442,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3B7KZusMzxtciizSApCdSQHFdMMvJH4ysZYeRVTxZQ2KtP1os7": {
+        "bakerReward": 128826,
+        "finalizationReward": 0,
+        "transactionFees": 11
+    },
+    "3B85HEnBzjFcLm2ZN6Ggb9ig7CWT4vsBXM9j46v8o94stmzv9L": {
+        "bakerReward": 4358977323,
+        "finalizationReward": 214461201,
+        "transactionFees": 41483
+    },
+    "3B9V2jY9iBHgsGwNuRzUfb1YyYwSyjygBR2PEHA6xnpKfFS8Rg": {
+        "bakerReward": 5968189,
+        "finalizationReward": 0,
+        "transactionFees": 466
+    },
+    "3BFChzvx3783jGUKgHVCanFVxyDAn5xT3Y5NL5FKydVMuBa7Bm": {
+        "bakerReward": 17791987,
+        "finalizationReward": 0,
+        "transactionFees": 1390
+    },
+    "3BUJQ2J7nzWfqKVPWjJuGcBY4gkERWaN3QDPtAW23zzvdZbTnm": {
+        "bakerReward": 23495708,
+        "finalizationReward": 0,
+        "transactionFees": 16372
+    },
+    "3Bd2m1js7XQgt2cqsH27E43JXmCRDdzbWWtGjC3QtUVFRg83ya": {
+        "bakerReward": 2617,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3BeDSd2yjG8krADt93ZwAwFkRQwh45LhwomNUhEFi61DyM95xi": {
+        "bakerReward": 76471,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3BfENMU1Bgsx5dNFvrGttmvwNSQjHZjS5Vhu7hUoF5iyZeQhLJ": {
+        "bakerReward": 24124152,
+        "finalizationReward": 0,
+        "transactionFees": 2576
+    },
+    "3BhqGXJnf7T2Qd8v5LG4C3xCe8UsQfdepWoPz7xgsdZr1Kvn66": {
+        "bakerReward": 3445333,
+        "finalizationReward": 0,
+        "transactionFees": 255
+    },
+    "3Bm2hznv7EPcNoAHHDqF3w5yUVc6TShX32u6QdhBJdfkfgJwJo": {
+        "bakerReward": 2682779,
+        "finalizationReward": 0,
+        "transactionFees": 44
+    },
+    "3BmhqxLqs1zdxNatSe5ZegTpKkZSu2YY6TDF2Yfiskm9VjPPk5": {
+        "bakerReward": 513324,
+        "finalizationReward": 0,
+        "transactionFees": 54
+    },
+    "3Bns6j3VuvshmGovkHcMVwBhuSjMfR4TwE3ok8U51gw2WgDKvr": {
+        "bakerReward": 5866764,
+        "finalizationReward": 0,
+        "transactionFees": 1253
+    },
+    "3BtQqf4wj79NKY3H6PdLaiPpWkVY7jBybYJgfoteoh1M3szinN": {
+        "bakerReward": 4567713,
+        "finalizationReward": 0,
+        "transactionFees": 487
+    },
+    "3BuWHC6c7uZdEZK5mVAbPvoXwkv4ZLdaEhfuLoaeeLzEG1635K": {
+        "bakerReward": 23206365,
+        "finalizationReward": 0,
+        "transactionFees": 1813
+    },
+    "3C31UHhkhuKTgkSsRW2a3EUwsMYALuQp6ZofNFX9xUb7n5JJ4Y": {
+        "bakerReward": 2931676408,
+        "finalizationReward": 237025133,
+        "transactionFees": 51241
+    },
+    "3C3j87rNfA6rhv1FLi6PdS2pmB77LM8KrgYqppG28CuQ8vUrN3": {
+        "bakerReward": 65686540,
+        "finalizationReward": 0,
+        "transactionFees": 1091
+    },
+    "3CH3Gx4crew2yfCZgUo2twvwjZSKVrDCGz9w2nsdup93x4CgHi": {
+        "bakerReward": 22343803,
+        "finalizationReward": 0,
+        "transactionFees": 2386
+    },
+    "3CJgKh84gxMJcaPiULuqK4ELY5x9CVDRyYANvmX9N8AoZdSkym": {
+        "bakerReward": 5180,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3CY55DQL4gRuUbGw1GZP8nqHrp1QyJQZNM16CzxZXqQVD5dxun": {
+        "bakerReward": 95804,
+        "finalizationReward": 0,
+        "transactionFees": 8
+    },
+    "3CafeGKhe6fiqMyaGiLRgDGPkutaxgzsuR3tZgDH15USR2R4Q7": {
+        "bakerReward": 64779,
+        "finalizationReward": 0,
+        "transactionFees": 6
+    },
+    "3D1UrSkFaPgA9ntmKdJz95krRehTPeaYLsS9hACGbDZZrJFAVd": {
+        "bakerReward": 6275,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3DCRcMhkf7yEU1V8rm6JhcGbWD4Fc6GFHCLYHPsxbF4VeVQAxF": {
+        "bakerReward": 53594483,
+        "finalizationReward": 0,
+        "transactionFees": 5724
+    },
+    "3DCxft7UC7c4MfzKjxgm9iPcFw1HvrmQkywV8h1YQ3izRMvKsP": {
+        "bakerReward": 31077358,
+        "finalizationReward": 0,
+        "transactionFees": 3319
+    },
+    "3DHBsisvJomxFthS9fpJ9WW9mH8bKiW1Lt9BQDbQAZAaiGCpJs": {
+        "bakerReward": 3123067,
+        "finalizationReward": 0,
+        "transactionFees": 283
+    },
+    "3DKdQtrfH3ZyjuzAoJ8HASbWahTgpNNsYBu1oSszLdJ6dgKYh3": {
+        "bakerReward": 833954,
+        "finalizationReward": 0,
+        "transactionFees": 89
+    },
+    "3DLD6CpYYa41FmvYdjxTKBhgkM63NtHZGBjBPZgzgSArm1sueS": {
+        "bakerReward": 4358977323,
+        "finalizationReward": 214255949,
+        "transactionFees": 8876
+    },
+    "3DSZo8FutnPxUT9SpewBN6xKwDwjqp1eqmLen4YkeVJ6uLAxyK": {
+        "bakerReward": 2884,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3DSefJjKpWoWvimB4iMCRR1gr9nCCU5PFK4r5MZrv5nWVFrbi3": {
+        "bakerReward": 3372025,
+        "finalizationReward": 0,
+        "transactionFees": 360
+    },
+    "3DUvd5xfUxaRkQEyQrehM5doTHFFJ65iwzFoH1eE3x9vYEBQ6T": {
+        "bakerReward": 87000,
+        "finalizationReward": 0,
+        "transactionFees": 9
+    },
+    "3DWfeTtcjw6z6x4o4LdTi6AZt39vkUesTi7tUqvPW32JyReCc7": {
+        "bakerReward": 573746,
+        "finalizationReward": 0,
+        "transactionFees": 52
+    },
+    "3DtCkdfMUiYf1DvNyEZcymBFtotyut9gjmztpsar4DgZsJVYrd": {
+        "bakerReward": 6915,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3Dzzbi2LG1CMtm8xWby8pc6aNxrwq825FGBA97U3pijcJTCpNM": {
+        "bakerReward": 1909665,
+        "finalizationReward": 0,
+        "transactionFees": 203
+    },
+    "3E34qVGMNJHAmi34CeoLDqa4vgxNFED87qEFmv8LVianQg3tzg": {
+        "bakerReward": 11610049,
+        "finalizationReward": 0,
+        "transactionFees": 1053
+    },
+    "3E6kfciR6Rwn1kLFg96NyD1cZaRzMDMGPMoYQr26Ng2J8CjSsi": {
+        "bakerReward": 2739,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3E8Es87aJy6n9CYraUWb9sqw9aQ3nq9i9QEToHvavKLageyh1B": {
+        "bakerReward": 1394407,
+        "finalizationReward": 0,
+        "transactionFees": 21
+    },
+    "3E8sD7AKhd5UeHBHVdCH5ZYA8W3FKHkdcKCxiUW4ofdaKUrLiu": {
+        "bakerReward": 79954,
+        "finalizationReward": 0,
+        "transactionFees": 8
+    },
+    "3EE9sgGQA8X2ftWvnFpShC1ACb2aH6fLX3K7dRw9LeCnyRjwSB": {
+        "bakerReward": 1450018,
+        "finalizationReward": 0,
+        "transactionFees": 131
+    },
+    "3EFuzzEjqoRR9xTPToFrvKs1Cxvho31uv8XYYJS2ysPPtfMf9G": {
+        "bakerReward": 23295,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "3EPUYfTXpSqGFSH8KivHUJuBuJjXyQyMu98AT7RLQWCU6L5UrL": {
+        "bakerReward": 24388572,
+        "finalizationReward": 0,
+        "transactionFees": 2604
+    },
+    "3EQjJeKM7qqVDGGxy17PT1wNz2qVvjgXMZcARPJDv5tMbecysG": {
+        "bakerReward": 170386,
+        "finalizationReward": 0,
+        "transactionFees": 15
+    },
+    "3EYgqS7TfV3ENZBYRnwxT2KnVtZjkUcRsdSTt6wUADFK284umz": {
+        "bakerReward": 854033,
+        "finalizationReward": 0,
+        "transactionFees": 91
+    },
+    "3EZA5y7srH5DCx7QVq4U8oVGJvsEkBDtZTf1KoBAtREqKdZwkz": {
+        "bakerReward": 26058861,
+        "finalizationReward": 0,
+        "transactionFees": 2783
+    },
+    "3EctbG8WaQkTqZb1NTJPAFnqmuhvW62pQbywvqb9VeyqaFZdzN": {
+        "bakerReward": 231606995101,
+        "finalizationReward": 13511754830,
+        "transactionFees": 24470679
+    },
+    "3EgLLpKpANhEtXJ9biZLaKzWRvpnx7inqqh6b3pQsjJv7ywL8B": {
+        "bakerReward": 3889380,
+        "finalizationReward": 0,
+        "transactionFees": 415
+    },
+    "3EgU4nWk3TSWFCS5ZyeZXfsQV8gGudMMqsUooirpowtkrKpt4f": {
+        "bakerReward": 11854846,
+        "finalizationReward": 0,
+        "transactionFees": 1266
+    },
+    "3EhXQVQojaCctKZgLP1Qoc6paivKvP6ap4eqWhtbYqYC6EfSr3": {
+        "bakerReward": 18563781,
+        "finalizationReward": 0,
+        "transactionFees": 1982
+    },
+    "3Ehr9A8vy2GDCxVeWSucV6Xc8jjGVAjXsCnthm9GrbeLChYhkR": {
+        "bakerReward": 288402349,
+        "finalizationReward": 0,
+        "transactionFees": 200971
+    },
+    "3EodcmQDn5vga4t2ppBf2ue1PPcmQt1yNQC4RHX45xBWEWmMjU": {
+        "bakerReward": 56143404,
+        "finalizationReward": 0,
+        "transactionFees": 5094
+    },
+    "3FEV1WirnCAsZiM8MVX4e1pASiDXLPDNnjFshybssLDj9tj8L4": {
+        "bakerReward": 434440,
+        "finalizationReward": 0,
+        "transactionFees": 46
+    },
+    "3FFgB7cA14yrejakXCAhvsQvBoJ3jq9r9xqU83xKSmh2xLQFpJ": {
+        "bakerReward": 1323932,
+        "finalizationReward": 0,
+        "transactionFees": 141
+    },
+    "3FLHGMZ815TMH7V6Ar4PMyBzKDcwfL5RJq67zGvbFpmk6sTZow": {
+        "bakerReward": 394178,
+        "finalizationReward": 0,
+        "transactionFees": 35
+    },
+    "3FLdNMJfQAqXhZMiBhmx535CYeJ1nBWXPXuvfSVuCtcm46bo7r": {
+        "bakerReward": 1865886,
+        "finalizationReward": 0,
+        "transactionFees": 145
+    },
+    "3FLxjfcTBCv3cUTWU6pu7e1Hxa8suKeeJhnWKRRXbC4qe4XA3Y": {
+        "bakerReward": 3444774,
+        "finalizationReward": 0,
+        "transactionFees": 367
+    },
+    "3FYJZJkxgMtby5tqkwhq8dKWztLkAJYdVKKR3EbgNkNPbuN9Bi": {
+        "bakerReward": 1328027,
+        "finalizationReward": 0,
+        "transactionFees": 8
+    },
+    "3FcUq8c8bzR3fbA5J7gAkD4qAiJee34MMNYhKXtLFtgK8bT7d5": {
+        "bakerReward": 7622538,
+        "finalizationReward": 0,
+        "transactionFees": 814
+    },
+    "3Fnu1Gty8nZrPBVZ1si8jmbNoVta6wrrL5uKmmLxAbwKo8Kq78": {
+        "bakerReward": 4600677,
+        "finalizationReward": 0,
+        "transactionFees": 59
+    },
+    "3FpbKYbFhp1CPNszJQ39mix1yqcDf5yFdDQahDCgNsf8g99fdm": {
+        "bakerReward": 617345,
+        "finalizationReward": 0,
+        "transactionFees": 65
+    },
+    "3FyzwC11apYRiS8PErTi1RHKaTQuCG9Wyn3ukTSeXPA1u15aso": {
+        "bakerReward": 32890773,
+        "finalizationReward": 0,
+        "transactionFees": 3512
+    },
+    "3GULrFiT6fd28McD4MBFKHQHPYMb9sCS5fVYWWLJJNBjDJEwGR": {
+        "bakerReward": 7602952,
+        "finalizationReward": 0,
+        "transactionFees": 689
+    },
+    "3GfcGpiRzz8CzJyd9gY9b6A8EicpdCKBxHm9y8cKfG5LY5tQE3": {
+        "bakerReward": 20660,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "3GmhzyZwL8LexEKhayNx8YbsGCFVvw9HSXhhkZzuByM3sdkYm3": {
+        "bakerReward": 51231018,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3Gv2BV3WWLo3j4fFWx8qtF6adwAVh2w2bw54wKVF175jE9ptBb": {
+        "bakerReward": 24327482,
+        "finalizationReward": 0,
+        "transactionFees": 2598
+    },
+    "3GvaEkFWxbowEC1tQ86bfU4Ucyddy5Zot6BqfpAPRyRHjhNsJf": {
+        "bakerReward": 225297459,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3GvbzBYB79G8zUuYdbgCwy3hPUkCMdvVzrDsJHn2vcKA6ux2hY": {
+        "bakerReward": 143297623,
+        "finalizationReward": 0,
+        "transactionFees": 2186
+    },
+    "3HDw7aR8P4TcTqCmLFCaoiTKi4emtpZKD2Pxy7wUTrAKitBnko": {
+        "bakerReward": 746059295,
+        "finalizationReward": 0,
+        "transactionFees": 67699
+    },
+    "3HFSXTaofbefpTncBYKPwBHzKzVCVRBjs3W9ug5N56gahF1dcG": {
+        "bakerReward": 1563653012,
+        "finalizationReward": 0,
+        "transactionFees": 119818
+    },
+    "3HJEVYsCDbAZdWVuEF8w7e5PzPnHyDGre6iNUVmpJHjKqAAf2x": {
+        "bakerReward": 132045,
+        "finalizationReward": 0,
+        "transactionFees": 11
+    },
+    "3HQs6mLQPAvjwJmdhmfpg3KkmvDPKBuRbPJm2iffbYSCcFYuV6": {
+        "bakerReward": 292774938,
+        "finalizationReward": 0,
+        "transactionFees": 3804
+    },
+    "3HRLECpcnvietMHF6MANaDN9im8eqaSEyQVq1CkkwKjw4ktLFN": {
+        "bakerReward": 4000837,
+        "finalizationReward": 0,
+        "transactionFees": 25
+    },
+    "3HWahZdKV5K5ra4ukWJKchSvJeHxRKcuxn2B5GbnLFFy8FDfnd": {
+        "bakerReward": 3963773,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3HWkyrUvXrHWd3KRYBKsx55bUE381aV2ED2pm64Sa4iFZHhz8R": {
+        "bakerReward": 8555961,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3Hbhap7iJGhW7Qn2xb591NzkgL2sWu4H3W2xFLTd68NziqptGt": {
+        "bakerReward": 239516346,
+        "finalizationReward": 0,
+        "transactionFees": 21734
+    },
+    "3HcuCL2EFEYKPvGe5fjNSMHZEC4FyvgBzSk37vAogtguhsJYZP": {
+        "bakerReward": 3536,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3HjjRG6bXC1kpoZhUcmQvUMN5c5t7mY3FL6RF1d9TQxouF1Jk4": {
+        "bakerReward": 222288324,
+        "finalizationReward": 0,
+        "transactionFees": 20171
+    },
+    "3HnSh2HaFGtFXMfdPejCupXBa6y3hHP1P5V2fKeq6jBuntbtJ2": {
+        "bakerReward": 1082323,
+        "finalizationReward": 0,
+        "transactionFees": 34
+    },
+    "3HrtZsmvU6jg2h6Do3d6D2oRYYSnb66SMRuocmZWJStSwwiNCx": {
+        "bakerReward": 8161,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3Hvw1EvGNRFbrcq9F1fRUtYbtkzSdUWCWSeUHMZdRf9ob8a7pu": {
+        "bakerReward": 13051530,
+        "finalizationReward": 0,
+        "transactionFees": 216
+    },
+    "3J2YLp1AMJwgHHsWvR8eaX3wEjw42njJ19RoVqrtZMtvubxZ8o": {
+        "bakerReward": 393451,
+        "finalizationReward": 0,
+        "transactionFees": 6
+    },
+    "3JLj8zSMGjF3S6auVdK8vjyqtV1omWjVRVLKZjXgRrvabn5LnD": {
+        "bakerReward": 68041579,
+        "finalizationReward": 0,
+        "transactionFees": 4879
+    },
+    "3JQyYN5Tm4Twpx1D2ouJpgRksWYYkKiY256taFdigWxpgKHtfK": {
+        "bakerReward": 129665677,
+        "finalizationReward": 0,
+        "transactionFees": 13849
+    },
+    "3JXTDsh7QcHZguHxruG2H8SvQqfx1Kpum5zDXTQFVuEW3H3KB5": {
+        "bakerReward": 51137021,
+        "finalizationReward": 0,
+        "transactionFees": 5461
+    },
+    "3JfoMUrdXaWP3i3Cvp9rieXmYTUutk7wkfvyyJ9mWrqT5hJXDW": {
+        "bakerReward": 5171458,
+        "finalizationReward": 0,
+        "transactionFees": 552
+    },
+    "3JwifyEPdMcDhpsv7SsS1ow5HtiM9wwRh5iuJb4eHDWs7r7Eny": {
+        "bakerReward": 5940271,
+        "finalizationReward": 0,
+        "transactionFees": 634
+    },
+    "3Jz3RfRhXKRPDfjpcm94XDisYL1SGpTN6TynCVAxL5kLFGaWv2": {
+        "bakerReward": 2426192,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3JzZMubUc1yXLs53qr3yri96RGtZqx8X3k9ios8VP9SrCHv4fm": {
+        "bakerReward": 12864835,
+        "finalizationReward": 0,
+        "transactionFees": 1374
+    },
+    "3K8Su15KC3x71yKqZzZ3AEpVWTGqDmPA56uvFucCuoTZRyA9AW": {
+        "bakerReward": 178288,
+        "finalizationReward": 0,
+        "transactionFees": 16
+    },
+    "3KPMrcBEejZnZLvAnMQh5yanSTzx9deG2DVG7k1LUF7jTnvjn6": {
+        "bakerReward": 16891915,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3KYoKREBbMqTtdiZc6PccWHnwEtzwousbTP5osWUnQFBDXBMmx": {
+        "bakerReward": 2739,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3KbPd4EX1rNLcyYLJSojtbuvYWsFTKp9GJetEUkN8zGrcbrpoj": {
+        "bakerReward": 212327189,
+        "finalizationReward": 0,
+        "transactionFees": 3711
+    },
+    "3Kgbf7PcdEv4BAb14WdZMvRfQFXUtPhivCv1QY3qBikcmnbGJY": {
+        "bakerReward": 38767354,
+        "finalizationReward": 0,
+        "transactionFees": 27014
+    },
+    "3L2ReaGYwMj2x9KcBmXH5gVBj2qrN5daTp35N5AzJrzTss5daS": {
+        "bakerReward": 94313,
+        "finalizationReward": 0,
+        "transactionFees": 10
+    },
+    "3L6fbgwHJBha311dC5KxPaWhRaqV2FbMzZRBNEQMxjtEwfFDD8": {
+        "bakerReward": 112,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3L8TBekEVYGX1QEZWGgNXySLriynTvFmeGQ87xPBo7C5zEYBPN": {
+        "bakerReward": 353401,
+        "finalizationReward": 0,
+        "transactionFees": 32
+    },
+    "3LDPEYkHwFXSQicutbL5vGGupGeERQ3UKRAnXgAnzYa611SpwS": {
+        "bakerReward": 12963014,
+        "finalizationReward": 0,
+        "transactionFees": 1384
+    },
+    "3LEygcRQqdcAVAP5zEANsS83RbQkWjEhpkwdFcUsRvmtPbeNqr": {
+        "bakerReward": 6294343,
+        "finalizationReward": 0,
+        "transactionFees": 491
+    },
+    "3LHJHVwxidaAay51kxh1UGSWLZRD1rHsyCESpBuvb1gVRtKYF4": {
+        "bakerReward": 1031693,
+        "finalizationReward": 0,
+        "transactionFees": 110
+    },
+    "3LMn2PbgtxN3rMuSZLEdrPNZ4fBWDKwG76jAKG787rtkfwX7qf": {
+        "bakerReward": 25276,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "3LREPeEdRFx43oCRnhC2r4bKr9SGbNhxjMqfN1juoGc6q6Pfrx": {
+        "bakerReward": 108941770,
+        "finalizationReward": 0,
+        "transactionFees": 11635
+    },
+    "3LRUyxHpgdhjkDk8RMyixQaf6A6habAWbqAjmLA22VTpdRZ5rY": {
+        "bakerReward": 1160838,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3LdZwmNTznkTwa5ebuPXWGn864CA39JzwcCV62LV7DydW2Z3SP": {
+        "bakerReward": 3836351,
+        "finalizationReward": 0,
+        "transactionFees": 348
+    },
+    "3LkMJD45BSRqg8NQkT2B6FPzDAwvg4h4Bmu8ygrqQMet3nr7Bn": {
+        "bakerReward": 2672544,
+        "finalizationReward": 0,
+        "transactionFees": 208
+    },
+    "3LxfqHFhwJCjuVur935qhfBFt5N6jL6gKYKSjjBGPQkfjEYKXG": {
+        "bakerReward": 6844,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3LyN8NMcYAekvHnEmMwwGG4A4mHPnKLVQdCHvccnz8dpSTQAac": {
+        "bakerReward": 1460975,
+        "finalizationReward": 0,
+        "transactionFees": 132
+    },
+    "3M3bvJ7CisH2LtvMaYV622hMc326xnTuajU3rgJBUeRiBNmnw4": {
+        "bakerReward": 683558160,
+        "finalizationReward": 0,
+        "transactionFees": 62028
+    },
+    "3M4fNpHPR5WrvSiWK6XWoygfJi3PpDUWuCJwTbHpuGjLB2YRZT": {
+        "bakerReward": 192337141,
+        "finalizationReward": 0,
+        "transactionFees": 20542
+    },
+    "3M5TwWp6K9xxKmEoAyDj7j5n327wkTLHGUoSqvrydPMv8opPpD": {
+        "bakerReward": 2940881,
+        "finalizationReward": 0,
+        "transactionFees": 314
+    },
+    "3MM38YCe5GLEeJw8UXBxNPN4QH2kAYf23KcerphBzmYtaYRtfB": {
+        "bakerReward": 2146,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3MNq4VnbwpbLcPDKMhY5kpcFrUUA3LEuazNr2pdTgubwrA1cTF": {
+        "bakerReward": 4319,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3MVE5VV1o66D246z1AvhfoXLPQDnzn8dDTrw7t9scpJLVUjVZC": {
+        "bakerReward": 1644449,
+        "finalizationReward": 0,
+        "transactionFees": 175
+    },
+    "3MZE7gYestKfHyZSun9Qjs4ovH572A8bNnRe6rQULRkFEUhq3i": {
+        "bakerReward": 25609,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "3MaUNBgVyZCJpgRTn1T1T8XUqEpjWeicoLTMCusaDZc4biWiQu": {
+        "bakerReward": 53557120,
+        "finalizationReward": 0,
+        "transactionFees": 889
+    },
+    "3McZJ9ZrKHTD5qukAUPurWcg9wmPZtz9oE67vdoenyrN5CdWMt": {
+        "bakerReward": 5122800,
+        "finalizationReward": 0,
+        "transactionFees": 547
+    },
+    "3MmT6DPkVNy8SwuiEDfC9JT6ryYszNHbxnVXGfHghoTqmPWzZq": {
+        "bakerReward": 102551,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "3MpwT9X6YNJDNduSt2zdSQXNbKPZQYXjEKgPnUrsaMr96LCVZ9": {
+        "bakerReward": 248413358,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3MtwMX737WH39eQy6K7oRUGdSNybx4q1gKSTdqwcBj2pPJg2L9": {
+        "bakerReward": 111389,
+        "finalizationReward": 0,
+        "transactionFees": 10
+    },
+    "3NBJ998gtVnFREPU1qiwLkvj37Q8JYKptTf7QCrhanWRPebc7p": {
+        "bakerReward": 6476208,
+        "finalizationReward": 0,
+        "transactionFees": 691
+    },
+    "3NYSfGmP6MDn2os8Mi3txLpz3az5mR94yuYzrLNcBCkoQy5C1B": {
+        "bakerReward": 968338,
+        "finalizationReward": 0,
+        "transactionFees": 14
+    },
+    "3NpjHhuxSYsGWN7Ed2C8pKUdBz2Jxo518y5cMvTM1kGDzoq29Y": {
+        "bakerReward": 35194783,
+        "finalizationReward": 0,
+        "transactionFees": 457
+    },
+    "3P2799wCgcGaqD3vwQ6w6VNfcB2wCoNBiFoJmcafzh8NXotg67": {
+        "bakerReward": 404636,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3P4J4m412GXnTJd19ad69cPemFC2AUwtg751s9AAVo1cKQ5Qyd": {
+        "bakerReward": 90295990,
+        "finalizationReward": 0,
+        "transactionFees": 9644
+    },
+    "3P4XTL35AJqg9ieRtYbLeHXbu8iaH34gcQN4GauUSUKA9u1s1s": {
+        "bakerReward": 114314013,
+        "finalizationReward": 0,
+        "transactionFees": 10373
+    },
+    "3P5thFi1AaEjc2JPsUUQNNQAvuJdFwA4vhtNxA4KiJNMe997vx": {
+        "bakerReward": 169903,
+        "finalizationReward": 0,
+        "transactionFees": 15
+    },
+    "3PQ8tvxh9Sc1cWQYBfXTXFGVRq2Wp8dDsUzsuf7JTVzrZTTaK2": {
+        "bakerReward": 565867,
+        "finalizationReward": 0,
+        "transactionFees": 51
+    },
+    "3PQeNXCNHGtej2D6hvYE5DX7taqFKXHUaqD872qS9cN2ajSZWJ": {
+        "bakerReward": 1832893,
+        "finalizationReward": 0,
+        "transactionFees": 195
+    },
+    "3PW5Ustv6uzUkvVGCHrS26FCafYPTffJkaT22Qo8zJ5aMHw62g": {
+        "bakerReward": 223489,
+        "finalizationReward": 0,
+        "transactionFees": 20
+    },
+    "3PWTFoJ7cekSGg1W4FpGwxrFBVuDRFEy8AfpEdRSq9EpTe8VSW": {
+        "bakerReward": 1830680,
+        "finalizationReward": 0,
+        "transactionFees": 1275
+    },
+    "3PdAZnckTmh6oKycVsSqR6puHgCt6c3L3VgBzF4vMqvgDC7TMo": {
+        "bakerReward": 7795,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3PfCcBUr72pxgv6dcfV5Gf1WBwhB9zvqxhYdmejAZSZeCtBeJU": {
+        "bakerReward": 3966953,
+        "finalizationReward": 0,
+        "transactionFees": 423
+    },
+    "3PuvEYHK7gevxdkFZbdHodi9SM4iKFuivDjdbt4748CEwaeN8e": {
+        "bakerReward": 6260201,
+        "finalizationReward": 0,
+        "transactionFees": 568
+    },
+    "3Q1AgnwU1AN8iSHTFZ73dr7QVXYAesGbmHpAr6y8LLZidgLM8u": {
+        "bakerReward": 3613318,
+        "finalizationReward": 0,
+        "transactionFees": 55
+    },
+    "3Q6auaCXY27S9cw7wWxnL9NLRKeZ98BuhxNSwogkHEbApxt18C": {
+        "bakerReward": 4940174299,
+        "finalizationReward": 235430442,
+        "transactionFees": 443846
+    },
+    "3QNAtsjXZXuXcEqje5hzsEe4bd7LAsw73UWBMD94MSkkJ3eaqp": {
+        "bakerReward": 4432468335,
+        "finalizationReward": 0,
+        "transactionFees": 402216
+    },
+    "3QeAG1ACno7pXcMTdQnT2buw414kJ82zrAY81cJo1kmZV5a7V3": {
+        "bakerReward": 1990825,
+        "finalizationReward": 0,
+        "transactionFees": 212
+    },
+    "3Qf7cP9XeckFTe26xuGr1auQLguiSnvZukEf44hmJvKr4RX33P": {
+        "bakerReward": 290598488,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3QovJ8ouiit7dtfSvLTJssmqHk8BLq2BBjm6HpF3Z5HKpUkRJ7": {
+        "bakerReward": 173066,
+        "finalizationReward": 0,
+        "transactionFees": 15
+    },
+    "3R4MVHhmbHnxom6bPrv7FCSJnF8q41xT56ZVi8zZMbAR4G3ddC": {
+        "bakerReward": 18015040,
+        "finalizationReward": 0,
+        "transactionFees": 1634
+    },
+    "3R9YSCVeAyzLv1K77BTnmSWa6rnMPWJGnujdVGw7DZBGUjqEdX": {
+        "bakerReward": 6275,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3RBnjp46mUu63pfdZVXtFNCMBXfkYc7d9b3WCKGjD7Ud4SBob3": {
+        "bakerReward": 119197,
+        "finalizationReward": 0,
+        "transactionFees": 10
+    },
+    "3RJyeig9aEQr1BPskdq8ZgJ5WVuhYBHn7jV1usyHNmURksj2GZ": {
+        "bakerReward": 6712363,
+        "finalizationReward": 0,
+        "transactionFees": 102
+    },
+    "3RQcGBZc8GgrdUMRZzY7JeA1BRaU8KNNzz6v3b1yDPXU9DY1PP": {
+        "bakerReward": 5219289,
+        "finalizationReward": 0,
+        "transactionFees": 473
+    },
+    "3RSULbwstVNufZJ1nmdBisLtBdsYcE7DmYr2gafbiq9RjopoPt": {
+        "bakerReward": 24488,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "3RVEa83MH4TkaqfSTt24AWEMjmmDPs4UsD1679mXGMANaCuV6C": {
+        "bakerReward": 1388970,
+        "finalizationReward": 0,
+        "transactionFees": 126
+    },
+    "3RYN8WM7QBwRZu43pUvu1PsSQMik331q9KfPdpujBR14MsBVCC": {
+        "bakerReward": 6392,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3RYxQ76Dp3181VSb2B145KBH6JY9kM2puPfWdxJ67b215ixoxs": {
+        "bakerReward": 581620,
+        "finalizationReward": 0,
+        "transactionFees": 8
+    },
+    "3RfRdETVYzo5p4p2wbnsPuvXhTQwTB1a7MbUAKoXjwNBiZkV92": {
+        "bakerReward": 6275,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3RkfMDNwk6T5ncn9GGophudqeDH5aU634L8C47Q4Z4gFdKzhUq": {
+        "bakerReward": 290598488,
+        "finalizationReward": 0,
+        "transactionFees": 10
+    },
+    "3RnS677JwVYT1DBbSC7ajUUTWQDnJNiwyR1ExRT7u4CskYeowZ": {
+        "bakerReward": 19143361,
+        "finalizationReward": 0,
+        "transactionFees": 2044
+    },
+    "3RoG68bRFKVkEZzPCNUeSQXUdspGyS3ZcJQ2wQmhBbQR5tK95f": {
+        "bakerReward": 261652,
+        "finalizationReward": 0,
+        "transactionFees": 23
+    },
+    "3S2DqmoA5XXPEH7DCJFmdEoiLFXN4LCwsdRaBa2AkfqpYo5xPT": {
+        "bakerReward": 26127,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "3S2GF5a4HwRLypbB7tKGLMCP76gM9bcZCQL1KeByTDwbVGzVmv": {
+        "bakerReward": 2697364,
+        "finalizationReward": 0,
+        "transactionFees": 288
+    },
+    "3S4HQpPoVzH5D7xiQR9778wVz38mgQxwrzAsDDaDJKRAyR9g3m": {
+        "bakerReward": 117115,
+        "finalizationReward": 0,
+        "transactionFees": 10
+    },
+    "3S5enm7uJCcA9BjpjUAUZLwHYRk5drKKFCM3hea9SLmHBQTmzQ": {
+        "bakerReward": 2847207,
+        "finalizationReward": 0,
+        "transactionFees": 304
+    },
+    "3SJAQWG1ckAHKRt7SgfxHfig69CK8Fx5FPJCSd3aDsCXoU3SBH": {
+        "bakerReward": 116594,
+        "finalizationReward": 0,
+        "transactionFees": 10
+    },
+    "3SJHNtBHRtyFDsaGmUYr3yxPFqQdfeNBA1UVhr19gjoRsLBbzi": {
+        "bakerReward": 567691185,
+        "finalizationReward": 0,
+        "transactionFees": 3573
+    },
+    "3SNbobNBUT4PqXPBpU7kX8xPz1UH3EEDTR1f9VDHiw5vivPbgo": {
+        "bakerReward": 33539069,
+        "finalizationReward": 0,
+        "transactionFees": 3582
+    },
+    "3SSF8qKcmcnsMm2GJZJazyz17ADSaH7GrdZQNfBB9mYgcCKxNu": {
+        "bakerReward": 51110651,
+        "finalizationReward": 0,
+        "transactionFees": 5458
+    },
+    "3STXwEShJmDy2UTS7Zig7wLSE6WuFVBFJQ99K6X4927b6SkLjP": {
+        "bakerReward": 7756,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3T2rqmH32c9n39pTmGg7K1yLrZSapkSD8vBRX3oWAnhf89SLxU": {
+        "bakerReward": 77019844,
+        "finalizationReward": 0,
+        "transactionFees": 8226
+    },
+    "3T7kwfPFh4qoxp7jiHpmD8sTJbduZR9uBa3zUYDYYcBjDubPHt": {
+        "bakerReward": 25662827,
+        "finalizationReward": 0,
+        "transactionFees": 2740
+    },
+    "3TFoWV3mCJQfd5brCj8ZP2pKyjH8k1ASEePQ9HJTdktqgAxbFJ": {
+        "bakerReward": 283233,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3TJdqCyKeHrfXKqijKK6GnfSXQ7k57f3fcMeavmwokSJySjvVQ": {
+        "bakerReward": 175903,
+        "finalizationReward": 0,
+        "transactionFees": 15
+    },
+    "3TSZQBnbSVz1aeF4uu9Fvcw2SPmq9wt26T2zUPtZVRwVYPwS19": {
+        "bakerReward": 96869,
+        "finalizationReward": 0,
+        "transactionFees": 8
+    },
+    "3TUctJmULhmMVrJfYtx1aZafvYsTpDTJi5858epFWVXm9nRLu1": {
+        "bakerReward": 4121197,
+        "finalizationReward": 0,
+        "transactionFees": 440
+    },
+    "3TaiWkXL3MwhaqcdKwqmM9s7Fq8xMynArjJDwUrrUPnFejxMzk": {
+        "bakerReward": 290598488,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3TaqEbontqPuMkXrkqnL9Nmz445DKfLc9GHenBe5mY2G4BT6vr": {
+        "bakerReward": 5785361,
+        "finalizationReward": 0,
+        "transactionFees": 88
+    },
+    "3Ti1QGyt3rgpfHipip7MKPa5VhgP72HJD6ruWGTKBtfTYnxenC": {
+        "bakerReward": 74858332,
+        "finalizationReward": 0,
+        "transactionFees": 7995
+    },
+    "3TjeePbyxqqGXirE8wXumbK65mod58MesM9D2Qo39LmVz5KNEw": {
+        "bakerReward": 7644655,
+        "finalizationReward": 0,
+        "transactionFees": 816
+    },
+    "3To9hPZd5GMhM7igSzX4xrNm1KBCYAiuAkTy1vsL4fB77mf8AS": {
+        "bakerReward": 46059390,
+        "finalizationReward": 0,
+        "transactionFees": 4919
+    },
+    "3Tobc3kJGeUiZiiLSzo2mv2c7nFvXF3X7y9cJbxapzm6pT6ooQ": {
+        "bakerReward": 1536235,
+        "finalizationReward": 0,
+        "transactionFees": 23
+    },
+    "3TtBVkBcsYqkgsNVvP5r2D561qFEFcHWLddNEGzTr9TB5fGxZa": {
+        "bakerReward": 3933222,
+        "finalizationReward": 0,
+        "transactionFees": 356
+    },
+    "3U3fNnjiorTUzGrBWY575ExqJ8BVZr85hywzUMVq9kCJkcKyF5": {
+        "bakerReward": 13919,
+        "finalizationReward": 0,
+        "transactionFees": 9
+    },
+    "3U7Wt8CsA6fsbTF48kKibPp4AzdsXmwP3Auc3GDhS4sbQ7n8N4": {
+        "bakerReward": 3641310,
+        "finalizationReward": 0,
+        "transactionFees": 388
+    },
+    "3UBiHgEvg7SjhZKT5KYWgSgMYdr147eYfRe9d28t7dHy9WN7My": {
+        "bakerReward": 19445985,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3UFtgLb3DckKYD7mBNutHsKbYupYJTKZBEKtBR54qR5zuAL7V8": {
+        "bakerReward": 3370,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3UJPnVB6ewPTWeUvXUGXMGNntMVNYqJyh7S2PiavGfYeYBVweo": {
+        "bakerReward": 10995378,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3UKPbASVHZUupkBQGvSTZ8mxvGsE9sCWVQJqfqFjoeovNFj8vT": {
+        "bakerReward": 38878,
+        "finalizationReward": 0,
+        "transactionFees": 4
+    },
+    "3UMFWZxQcQ9EvbHx52mBnCPBwF1zcDxj4LSkdUhnrrwxTcqKCd": {
+        "bakerReward": 1034220,
+        "finalizationReward": 0,
+        "transactionFees": 110
+    },
+    "3USgJaoLTTtLF7o23qjPP2Tuis3X6PTwCTbkCNd8B3nTvtVoSW": {
+        "bakerReward": 5521371275,
+        "finalizationReward": 235430531,
+        "transactionFees": 1210391
+    },
+    "3Uh43Mxv73hRZrx44DtBos3QL4sTiMZW53QN3yLG3dBU45JU1x": {
+        "bakerReward": 3229,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3UkuaCdwgyuJDEESfjWgcxKAtXRWAuRCwDBk5LNHs9mrwe7LN3": {
+        "bakerReward": 11770339,
+        "finalizationReward": 0,
+        "transactionFees": 919
+    },
+    "3UnkCHjmqa6aDGnBrzengCEZzUMpYqUmQQPX75cosdjmF4pdT5": {
+        "bakerReward": 8084504,
+        "finalizationReward": 0,
+        "transactionFees": 863
+    },
+    "3UwHa1mvFfP24r9xrPTDdAgLERfsM8wYoYe9kw8ucBJso1cDbC": {
+        "bakerReward": 10733544,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3V9Fx1HDES54SVYfTL35jGPYtBU1ksXmS2TxZdKNEkwLVxNpqf": {
+        "bakerReward": 45791163,
+        "finalizationReward": 0,
+        "transactionFees": 4155
+    },
+    "3VBkA2mor8Fepo2FujBkYHADDVokHzrXsevT8H1Q8LwJ489w11": {
+        "bakerReward": 6480714,
+        "finalizationReward": 0,
+        "transactionFees": 588
+    },
+    "3VC2D4cFQfFnHenNbJaUkKMtKHw7EaQoBTffqtWpvTFb4Ti8qt": {
+        "bakerReward": 216966,
+        "finalizationReward": 0,
+        "transactionFees": 3
+    },
+    "3VCSAN4YQMXs3nQfZFWcLvzW3e1eDJQM2XHbVMpsXLBmP3k8Me": {
+        "bakerReward": 107350776,
+        "finalizationReward": 0,
+        "transactionFees": 8390
+    },
+    "3VSZsSTV6MAqjQsjyoCMe7t49fxQxcUvCjWzy4a3aJL7ibKQvy": {
+        "bakerReward": 818527,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3VUnw4WAFqZcZa2uCqwZQrXqdCy8AGcrEczuogjZdNctvUYy7W": {
+        "bakerReward": 8317775,
+        "finalizationReward": 0,
+        "transactionFees": 888
+    },
+    "3VfbVC7vwyqo4pHQWxucjP8A5s1C4dZZ12a6Pn3vuwdGuXALZE": {
+        "bakerReward": 1499587,
+        "finalizationReward": 0,
+        "transactionFees": 136
+    },
+    "3VmSoMaTspiVzX7XhTgKuB4KGrcASKD6yq5za9u7d7fp88V2Ke": {
+        "bakerReward": 2048504,
+        "finalizationReward": 0,
+        "transactionFees": 218
+    },
+    "3Vn2oPmSAnMJCzSEgSqAqXyi4y5G7eWe6o9Lxx5pkWPjAxr9fV": {
+        "bakerReward": 22732504,
+        "finalizationReward": 0,
+        "transactionFees": 143
+    },
+    "3VrAG6J3yWT6JQXwoJ1mYFoHga2oVy2jzJJHcvvi7b5dSmgpep": {
+        "bakerReward": 1728136,
+        "finalizationReward": 0,
+        "transactionFees": 22
+    },
+    "3WBCvk4CrHZxdc8gFV6Y8HvCpA4xF1caM8yDQa4buXPgH2uVzk": {
+        "bakerReward": 54569360,
+        "finalizationReward": 0,
+        "transactionFees": 4951
+    },
+    "3WMhW7F8kCRpGAcRGxpd1Qxo6L6Keapjfx8kRv2mypWdXg9VHz": {
+        "bakerReward": 2396036716,
+        "finalizationReward": 317003907,
+        "transactionFees": 183602
+    },
+    "3WdD1JdW8KoFNgHxrxFiYj8FC3J25bbBPKPCj9hebQn2LZ7yq2": {
+        "bakerReward": 3003460,
+        "finalizationReward": 0,
+        "transactionFees": 320
+    },
+    "3WvfBwFcTGh5nr4tq3DXrkymkPma5BhLxaJZrg2AvcTn86AbMp": {
+        "bakerReward": 4666,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3WxogXpi5wrVakiYQzqMFw4c23q9p8CiDvAjiJF7r5jn1mxSem": {
+        "bakerReward": 1460975,
+        "finalizationReward": 0,
+        "transactionFees": 132
+    },
+    "3X2o49TMPkNh5uxASmpKyrPzf9mH1PeJWd3kvDSEbSA3C6Do2b": {
+        "bakerReward": 122230,
+        "finalizationReward": 0,
+        "transactionFees": 11
+    },
+    "3XJp39MHzBBAUApp1YtdeCBFoy6Xr8imj4LbbpAHZnFkz2Hx3a": {
+        "bakerReward": 1101555,
+        "finalizationReward": 0,
+        "transactionFees": 117
+    },
+    "3XKUVeaoH8BU9HWfPZDNbSZDMuzaWkr91s9PM3x8TreYyNkWGH": {
+        "bakerReward": 2593874,
+        "finalizationReward": 0,
+        "transactionFees": 235
+    },
+    "3XPEJNhRLBzgZbnx57rveZE2mYUoSNDjEYSBiFobeT9r3i1jXC": {
+        "bakerReward": 51068,
+        "finalizationReward": 0,
+        "transactionFees": 5
+    },
+    "3XV1HxYUuxPKXmvJHYkDavjG4LB5jeGN2f39u3MGUxCnxAGDQh": {
+        "bakerReward": 1517849,
+        "finalizationReward": 0,
+        "transactionFees": 137
+    },
+    "3Xd9LkErkpxa3h51WDjgazyboioxd9tjSfvJwEGwbLFWeMMPcV": {
+        "bakerReward": 152651,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "3Xhdwp4Y2dXTTKaCs1G4QNy7vtUtmZDRzwtex1hSqw2ekUK7ZE": {
+        "bakerReward": 47948750554,
+        "finalizationReward": 2995883335,
+        "transactionFees": 5858690
+    },
+    "3XvT8EZs7v3UjbNbSst8SZdN45N4zxRJeBVJWCL2GU2muaq9YA": {
+        "bakerReward": 290598488,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3XwPBDyBVLS95TsWbZhAprZxd3NT12xWUXhnJRRssxiTDtgF2K": {
+        "bakerReward": 1561681547,
+        "finalizationReward": 0,
+        "transactionFees": 119667
+    },
+    "3Y727H8u1eSGBY9DMGW9Brs9Wyo68G5QFnZLRJn9rAgq7tRTPy": {
+        "bakerReward": 29710971,
+        "finalizationReward": 0,
+        "transactionFees": 493
+    },
+    "3Y7sGEGA5Rexwt6CnnSGSPHRdJMiN3e7ZYagWFdjGYjrhaAhY4": {
+        "bakerReward": 10888932,
+        "finalizationReward": 0,
+        "transactionFees": 1162
+    },
+    "3Y8LX1aPPCP965aDY6HkDsViHcMZgKcfyjcPNCNzzEkYwEVZxa": {
+        "bakerReward": 12959,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "3YAXEdg73XqU4D7wUuBTru2ygwpPQxYqMvX7pbLpBhTaMnFoZW": {
+        "bakerReward": 791065480,
+        "finalizationReward": 0,
+        "transactionFees": 4983
+    },
+    "3YGuNCGyUhm4Vg3U7C7UBbCLRseqwzyLoWVw6XPhsxmqGXXHwY": {
+        "bakerReward": 737886,
+        "finalizationReward": 0,
+        "transactionFees": 78
+    },
+    "3YHFqu5ZMbxbh579JcKjRZUuBCJnEDs13awNhTTaaKtJXHuNvK": {
+        "bakerReward": 634840,
+        "finalizationReward": 0,
+        "transactionFees": 67
+    },
+    "3YJ59emj7yPKngE2kwNh3S1oZz74agPhroimnHjF81nVhmX58U": {
+        "bakerReward": 140898,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3YbhC4Aa66quwfWna5Pm2ucAFS4wJh6YJHjn4y6rGvbJiqVvkk": {
+        "bakerReward": 3322,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3YjLCGaFAS2wBne3QksR7JYwTGwAAhanFxq5ctSNyoTZEZd9yR": {
+        "bakerReward": 20134740,
+        "finalizationReward": 0,
+        "transactionFees": 1443
+    },
+    "3Yjsnom3nyemwpVxyKW1BeeUCiBPQ2Qtpk52CoMJj1WMQs429q": {
+        "bakerReward": 258577058,
+        "finalizationReward": 0,
+        "transactionFees": 23464
+    },
+    "3YkQwErL8ewdjEz3gXaJnV9qE7XtFF6Qaw6DRDH3GNhipKA6Kn": {
+        "bakerReward": 46237,
+        "finalizationReward": 0,
+        "transactionFees": 4
+    },
+    "3YkULKVjqTYpwyf4fMr379hJDs7QFefQPVfufE2BJgK8Y8htRS": {
+        "bakerReward": 1748632,
+        "finalizationReward": 0,
+        "transactionFees": 129
+    },
+    "3Ypifhii64oGE5Hhrxwr3My9vkYcwuYrgYNz1nwCoGZDo582bq": {
+        "bakerReward": 284798,
+        "finalizationReward": 0,
+        "transactionFees": 30
+    },
+    "3YqTHWWMGmfmHt51vSWjYDD8XszhLRRdwbK1VbLzC957u4V23K": {
+        "bakerReward": 36418961,
+        "finalizationReward": 0,
+        "transactionFees": 604
+    },
+    "3YwDGtUcw1iTTwUgNaCZJZjDnTSYKxsGXkq4rBau3Kow8yyArU": {
+        "bakerReward": 17925805,
+        "finalizationReward": 0,
+        "transactionFees": 1914
+    },
+    "3YyifcS2f7GCazZzjKZ1BJZbgu96GbLmEyc6r5UXzy2FwghgGj": {
+        "bakerReward": 2155655,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3Z26fBKyrrDnboBstsGsv6LTDNBRNPsztuy1R4ecbDDn1XxQyJ": {
+        "bakerReward": 10838,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "3Z39qFFu4MRK7cGQ1SvqtjoFErzRgZNk6fK6dsmKvAsHj1GzjB": {
+        "bakerReward": 49458,
+        "finalizationReward": 0,
+        "transactionFees": 5
+    },
+    "3Z9Y1UWLNm7kNjyRwQGo5JZrCJFZvcNRcbsZELpe6LpDjpKcwB": {
+        "bakerReward": 3621743,
+        "finalizationReward": 0,
+        "transactionFees": 386
+    },
+    "3ZMj769KFJvTAv2gujcHkDbqpcyiTcXLsfDXx64NAJ2vUw3kUq": {
+        "bakerReward": 2162470,
+        "finalizationReward": 0,
+        "transactionFees": 196
+    },
+    "3ZNgzWfuZFSJkmQSkmK6rnavov7pBGh5c5jM5cW9jCwhv9r9xH": {
+        "bakerReward": 28621964,
+        "finalizationReward": 0,
+        "transactionFees": 3056
+    },
+    "3ZRDoZguaeFDeckF6gQGkn5ssQbZDtiZLe55VkREtVXcYjsDh9": {
+        "bakerReward": 6432,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3a9dgaLDjjwMVKCH6mWFMFPD4rabM5u53XM1yfMpNN5iWZG7YB": {
+        "bakerReward": 13136096,
+        "finalizationReward": 0,
+        "transactionFees": 1192
+    },
+    "3aCihwgDAddwDpTVeqwjYMtbNtWHxRtqrMohQt81sDUivh3eUY": {
+        "bakerReward": 1228916164,
+        "finalizationReward": 0,
+        "transactionFees": 131255
+    },
+    "3aK6y3yuHhbgLNv9ULTQ1sJVqJnR4teuF7kHq4A7DYHfm5xybp": {
+        "bakerReward": 657882,
+        "finalizationReward": 0,
+        "transactionFees": 10
+    },
+    "3aUra8RaFGUPTb7atqyqTp1c9tNPiAo3DPe9wgUYKdKDY91jWy": {
+        "bakerReward": 3757766,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3afZ6HSPLxmpUKhFYXbmXa85CcRyCeLu5Q8vQJwgCCd5B1LNJt": {
+        "bakerReward": 519451,
+        "finalizationReward": 0,
+        "transactionFees": 47
+    },
+    "3ah8ixRpUoRnX8uKtXiXWZbhEt9Z5RXqj9NqrfMrFXwAcKq7Fo": {
+        "bakerReward": 12966567,
+        "finalizationReward": 0,
+        "transactionFees": 1384
+    },
+    "3asw6XKqRJvdVGsiJFqJE746A57cnUW18vckdSTT7Z9Ah6mWnj": {
+        "bakerReward": 5633,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3au6q9McTQr4c3V4MCwFf5FnSRMNbDBCgdjT8E9UAu531tCSyu": {
+        "bakerReward": 258183,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3avQTKPgg2Ufj9MGyNjBMt18RrcvcNjfyzcCnGaeWZZmFA1JNz": {
+        "bakerReward": 22942,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "3b5wzCGYa98GMs62VhafceVnJ6nKU9QQASeHpAbJhwBmsFGwfq": {
+        "bakerReward": 218761275,
+        "finalizationReward": 0,
+        "transactionFees": 23364
+    },
+    "3bA4KQdZxyzQXFsG6WdGrjNXBehaZj6gjWhqXRuAqR3CAA1Jkb": {
+        "bakerReward": 10123895,
+        "finalizationReward": 0,
+        "transactionFees": 1081
+    },
+    "3bGCVuotpp6sKsADW5T6XMbtUaEXQL64eDnzfgyFAQRXhsctwf": {
+        "bakerReward": 36007404,
+        "finalizationReward": 0,
+        "transactionFees": 3267
+    },
+    "3bJbiw5f6ewsZfqdYXL2B6iiVktDM6rCpSzWMYaG9P92BJaQV8": {
+        "bakerReward": 128333844,
+        "finalizationReward": 0,
+        "transactionFees": 13706
+    },
+    "3bVNWBkeFqK56NtywvBrF9cqNrEETyAzV76YFZQ7qFfkDMmReL": {
+        "bakerReward": 330971982,
+        "finalizationReward": 0,
+        "transactionFees": 35349
+    },
+    "3bX75DBkwJwPNrqguKFrWPyAAS3mRacPFXgW8NhbA7Wet1vooL": {
+        "bakerReward": 2720586,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3bYDf2e6ijKCSctqkdLDTuwJ41zpZXrVyHu8ErJ75VBH4h24yR": {
+        "bakerReward": 28735792917,
+        "finalizationReward": 1529862265,
+        "transactionFees": 1383396
+    },
+    "3baZeVLB2ikaPoVvWs2uq4fNo8wJ8DYUor7Cj1EkroP8ey2J4b": {
+        "bakerReward": 6231,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3bdFT3GLqa9id2vDTbgd4toxoctrFQT4nhX7uDsiJXNVgHEyL8": {
+        "bakerReward": 1684271,
+        "finalizationReward": 0,
+        "transactionFees": 179
+    },
+    "3bdfBi3dejnwWLFxgb3e6H5GEb9NMrqshEPDSCyXPa5GGfuBKS": {
+        "bakerReward": 119197,
+        "finalizationReward": 0,
+        "transactionFees": 10
+    },
+    "3bjX2uQhvoVV8EL3QHZsxg4o7zQh1PgpJaNJWzRPCJN3HZcxMg": {
+        "bakerReward": 1387165,
+        "finalizationReward": 0,
+        "transactionFees": 125
+    },
+    "3bkNSWQmzMjoAfGcD6FVj1wqAaZr9u39Z3epP9NwDNn59zUjQR": {
+        "bakerReward": 5150106,
+        "finalizationReward": 0,
+        "transactionFees": 550
+    },
+    "3c3NeNDihirvddDiEL7VaUMfyQ1RhRuuyafw8idkW2hsZipYir": {
+        "bakerReward": 2889752,
+        "finalizationReward": 0,
+        "transactionFees": 225
+    },
+    "3c4kZtj6qaDFVtHXS58Bbww7phSkoFvkurCwZpFtXrK24X8WaL": {
+        "bakerReward": 13585447,
+        "finalizationReward": 0,
+        "transactionFees": 1232
+    },
+    "3c6Mvh8f84hCxtNXT2bUBmeqYACovnHZWSxhBxRJrPbpWqrhtH": {
+        "bakerReward": 1868604,
+        "finalizationReward": 0,
+        "transactionFees": 31
+    },
+    "3c6pePKtaR5uB38jUUGbmDPjnaAe9ZicmcX66NGkCYrUHdYvSy": {
+        "bakerReward": 226576,
+        "finalizationReward": 0,
+        "transactionFees": 3
+    },
+    "3cDCizhYMYbS6nBwhQoSoGqwYuDWE518UMgHte4y4u1R2L1VYf": {
+        "bakerReward": 9722120,
+        "finalizationReward": 0,
+        "transactionFees": 1038
+    },
+    "3cZzUD2GTost81818pQy88qCjn4v9LCSJyy6eqRhq5L6C7Ef85": {
+        "bakerReward": 2129767,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3cqcwnKURG8rMfC6ekP2JmWrrTRAae4THVe5B6n7SNBdnDk7wJ": {
+        "bakerReward": 6932740,
+        "finalizationReward": 0,
+        "transactionFees": 333
+    },
+    "3ctQKM4tB5YQV4RS7ojjLfnLRDT37NNs7eAfA6QG4J8sqNdKhj": {
+        "bakerReward": 426534397,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3cx1hJzqAC9LLMzM8gsNkAQGEngqehCSVthMwLuAdvCRWP1Kvz": {
+        "bakerReward": 127962651,
+        "finalizationReward": 0,
+        "transactionFees": 13667
+    },
+    "3d4tsSiBrJXn2aiNHdfqMq2b9oGttoKn2LDCZbHHMm1WZi2c95": {
+        "bakerReward": 25863265450,
+        "finalizationReward": 1527885415,
+        "transactionFees": 1330394
+    },
+    "3dPD5knD7joJJbMV3bWNYzqPu7wQ35uJF6Ayx9YkoADNcbYena": {
+        "bakerReward": 369787,
+        "finalizationReward": 0,
+        "transactionFees": 39
+    },
+    "3dUfqYpEMJz49UstE2kNi5hkq8rgupTjbTGBtMBPBTMXsYYXDr": {
+        "bakerReward": 13854822,
+        "finalizationReward": 0,
+        "transactionFees": 230
+    },
+    "3dcpcnTjWcQwyvgBhtDVP2xrToSMM4c9LV7TUiu5EHVqHv33Gn": {
+        "bakerReward": 264266,
+        "finalizationReward": 0,
+        "transactionFees": 23
+    },
+    "3e4TMerxtW7FWfEUGgZaCKDDwx9CQzakxFYDHVvCaCZeBxXQf4": {
+        "bakerReward": 6275,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3eHcaY2KBSVNHHckaDKcPpFk5hFrZVSbwuMhzaRwGRrgEq6sHN": {
+        "bakerReward": 1434886,
+        "finalizationReward": 0,
+        "transactionFees": 130
+    },
+    "3ePNfSxGr77m6dqLu6XGkWQWcwjMD151XUibcHAhmkXxu9gUd3": {
+        "bakerReward": 178447,
+        "finalizationReward": 0,
+        "transactionFees": 16
+    },
+    "3eQzgW9rkA5g98zRJR4B3hSdq1g2V7HdS1z2vyHTFCoassp2uh": {
+        "bakerReward": 11725120,
+        "finalizationReward": 0,
+        "transactionFees": 1063
+    },
+    "3eZrztphfbiPu8y5s6iYhZmgRxsVBMr8edNBJKgk2cKgqmXjG6": {
+        "bakerReward": 53921737,
+        "finalizationReward": 0,
+        "transactionFees": 5759
+    },
+    "3efrA9FQT6yrYPBhEk9qRFGpkt6wGAJNCUFjtZTKv4AWSXvrD1": {
+        "bakerReward": 16256296,
+        "finalizationReward": 0,
+        "transactionFees": 248
+    },
+    "3f1qiy1ipWoqcxSq5odsf3EPzrPMSpPbAG5YDacfV8re1MrBzy": {
+        "bakerReward": 261129,
+        "finalizationReward": 0,
+        "transactionFees": 23
+    },
+    "3f2Z5M2CqTVXHomLSmQFDPB4HeSNrbsvtWnDbhcGLPQdYBaf3a": {
+        "bakerReward": 118590631,
+        "finalizationReward": 0,
+        "transactionFees": 9269
+    },
+    "3f4u6WHsLVCFfoEJagtSWBk2NaZWxQ6j8WjrUnH5ibLSQ8gXMw": {
+        "bakerReward": 4216337,
+        "finalizationReward": 0,
+        "transactionFees": 450
+    },
+    "3f6p3qD7B61HQ8QiABDrPJnQwj29TUgqG4J3si89ZJKVscSvnB": {
+        "bakerReward": 108859573,
+        "finalizationReward": 0,
+        "transactionFees": 11626
+    },
+    "3fBDk2rwjCJdgbb4DfvrKTbQzKMoNeTKJMPL8SUFdQZ1YRgUMH": {
+        "bakerReward": 2328977,
+        "finalizationReward": 0,
+        "transactionFees": 248
+    },
+    "3fTyPjfQxokYvk5vvBuwCEhfXvnbfy9pWieFhPjekFHmFagc6k": {
+        "bakerReward": 2751362,
+        "finalizationReward": 0,
+        "transactionFees": 293
+    },
+    "3fVPb3FXkjhtnULFbUgs3es2Gazdjt8xKqG4PbSwgUa7erqQ23": {
+        "bakerReward": 97387671,
+        "finalizationReward": 0,
+        "transactionFees": 8837
+    },
+    "3fchNcy2bmkstrXdWCqvTY7vGymjAi233iRGZd7a968G5xiast": {
+        "bakerReward": 966502,
+        "finalizationReward": 0,
+        "transactionFees": 103
+    },
+    "3fdQDe32Spr73CZjTPN7MhRPErL5vw3PbAmHcKCcH8Ha4cHH8G": {
+        "bakerReward": 232100677,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3fj78KE5GAz7cdgsByX4N2xHy79YvzHeTEtxuveykk1FAXYmw9": {
+        "bakerReward": 18253183,
+        "finalizationReward": 0,
+        "transactionFees": 1949
+    },
+    "3g8xLcVNghXVatr9g1oCyAxaAq8mQiV4Ve8WCqLkfnos6bfEPu": {
+        "bakerReward": 7516,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3gGt8b5WTDwceDvL6GQMmp4N8X9GfQJmRiUtzMMRNHqrzTAym7": {
+        "bakerReward": 62077,
+        "finalizationReward": 0,
+        "transactionFees": 6
+    },
+    "3gJ61W2TCAjEoqFAVTkDorGZicL9Dq4oHEjv7XxL6bkm9vEhzM": {
+        "bakerReward": 6929874,
+        "finalizationReward": 0,
+        "transactionFees": 740
+    },
+    "3gL3JsVvxzECymadzBk7EVG6VNEPciEiT3k4Qzm4AZSYfhkLzH": {
+        "bakerReward": 150136,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "3gPCZXCCwRVN9WCCfmpRk2hq4L4ZQeMP5UrhHwrQF1VGrSbBp7": {
+        "bakerReward": 2146,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3gXGubnGhZQptjTUpBVaYwKY2sQwHMKDVwwF8iM66yWGPANaK8": {
+        "bakerReward": 2979865,
+        "finalizationReward": 0,
+        "transactionFees": 318
+    },
+    "3gY7tfwebZb3hUstkNR1QRKRySaePKtACLYWDeSQ9hJoN91ZqB": {
+        "bakerReward": 6836,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3gqBgmUYw5m5PS9caK5vENSrSgP2wdwvphkmyTCGDhdaGYmM7b": {
+        "bakerReward": 26975979,
+        "finalizationReward": 0,
+        "transactionFees": 411
+    },
+    "3gz7yN7pbVRwJ7B3mFpYVe5rN5u3guvkDtQDymP2vubTtteZrj": {
+        "bakerReward": 13870627,
+        "finalizationReward": 0,
+        "transactionFees": 1026
+    },
+    "3h1ZKgfV5i51g64t8gq5jvdHhyuR8iSjmiZvqCpGpEZPvE71bW": {
+        "bakerReward": 2592,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3h4MyUZmHCLv419z9cKpAfw4CpYZTHnpKCkawsdLxuMHwwkRYM": {
+        "bakerReward": 3368,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3h7ocCdJQM8YxzaRge6VdDAF3d6qBasshi4THMc89navHdDkNY": {
+        "bakerReward": 22814905,
+        "finalizationReward": 0,
+        "transactionFees": 2436
+    },
+    "3h8XwtPKuW1S4SVWGy18ceRBxeXuBB75EzJTri9jTsbthToNvg": {
+        "bakerReward": 38332,
+        "finalizationReward": 0,
+        "transactionFees": 4
+    },
+    "3hADZ2W6TbZnd1irruPJ9qxVyLSnizCoAniGH3NRTw3BNSfZBS": {
+        "bakerReward": 2736,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3hDCnBJ8qTxFAdzqmDBxkpt3jVysfX61JgvzMiB184KjJoVJN6": {
+        "bakerReward": 2399,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3hDkrCo94T4gedjWYdTADCRw66WebPkhDdkjkwzG22S8dekQ55": {
+        "bakerReward": 18037588,
+        "finalizationReward": 0,
+        "transactionFees": 12569
+    },
+    "3hLKzMDDyhHv4gKB9q5roYA1woBnSyHuP5T8JH77y5ne8oNvuu": {
+        "bakerReward": 1536910,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3hbjA6YcWq7sJFgoYF68zXSoNoj5aqSqMJqpEa2rVoPevhUxV3": {
+        "bakerReward": 130292,
+        "finalizationReward": 0,
+        "transactionFees": 11
+    },
+    "3heGjwGtJr1Qp7VBvGjHrfmGo2Gfgax7siGCBUpVqz5mH7r1SZ": {
+        "bakerReward": 2630,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3hg7nmJGKhjfNwYZMUwK47NtU5m4QciqHwC1FeKzDwcLiisQsQ": {
+        "bakerReward": 512162,
+        "finalizationReward": 0,
+        "transactionFees": 54
+    },
+    "3hhcsN28bidy6fpX5R5D7iZXf3g3xXUahJVAxmFt1vmmzUuRMS": {
+        "bakerReward": 53843547,
+        "finalizationReward": 0,
+        "transactionFees": 37520
+    },
+    "3hkGga7AFcgvHaSC6Fh7WH61FLHbATWW5SPTyX7XMNCFLh6SbN": {
+        "bakerReward": 6265,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3hkyjS8Wm7wfJ2gV34ezyepBZ1KbBFjC3UEZUAgAAY7BGMotWR": {
+        "bakerReward": 129465,
+        "finalizationReward": 0,
+        "transactionFees": 11
+    },
+    "3hvpcTZwWW3VbHsuJ4F4N5aKZVYBTo1RNDBoztkiyoCy3UYmhE": {
+        "bakerReward": 6275,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3hxLuF67LmdXWRyL2aF9g8SKMi8mptghkwmpyFutphk7Uqgaom": {
+        "bakerReward": 286055459,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3icnyHv9jw9QPLxd1UUPzojTWiQEf8cFW1zJdgEhyeor1iQY3q": {
+        "bakerReward": 29361074,
+        "finalizationReward": 0,
+        "transactionFees": 3135
+    },
+    "3ie1QFT42epARvYivJ63UyFm58GkRpADZ7V2o851xheFw2tCeF": {
+        "bakerReward": 194214846,
+        "finalizationReward": 0,
+        "transactionFees": 3226
+    },
+    "3ieg6z6jNEA3uWdFn8oGrFVoPG8ySaU7qHeqLWSGXpEJfKX9fF": {
+        "bakerReward": 4229235,
+        "finalizationReward": 0,
+        "transactionFees": 64
+    },
+    "3ioJo31NPMMA97ddLguTUs1PsYAize3qrp7B2reqMg2N3unfzn": {
+        "bakerReward": 178887,
+        "finalizationReward": 0,
+        "transactionFees": 19
+    },
+    "3iyki7WiqwdmADNkyqeYJJeQC3vcj3R7maWxMDFhGLbzzh9GVz": {
+        "bakerReward": 14092995,
+        "finalizationReward": 0,
+        "transactionFees": 1505
+    },
+    "3j55yBwpEeFzQsgMVVsYG4gZUFV3X8kzrncDjWwuCBnwbECEWW": {
+        "bakerReward": 273408283,
+        "finalizationReward": 0,
+        "transactionFees": 24809
+    },
+    "3j6DS73S7R7FPxwokuJBdy5zSUMsogCpdXvvnZwCxyRro7jNw2": {
+        "bakerReward": 4287394,
+        "finalizationReward": 0,
+        "transactionFees": 457
+    },
+    "3j8iiQcVMKDB9PrBNpkLrEuPSnhq7dRp6TViPRMnZRW4BcCidu": {
+        "bakerReward": 116594,
+        "finalizationReward": 0,
+        "transactionFees": 10
+    },
+    "3jCsngcsdoALBtiJG2VdFb5tVeBiwxCTLfHLYQEWX4VAkvmzKP": {
+        "bakerReward": 3520519,
+        "finalizationReward": 0,
+        "transactionFees": 376
+    },
+    "3jFo77f921aw7BUnZJ4TtekPkGwsUWaKQvgdK54qGcxYfUiDQJ": {
+        "bakerReward": 113471,
+        "finalizationReward": 0,
+        "transactionFees": 10
+    },
+    "3jG3CVmUyULWy3Pt8zaT7fdbLwoZYU5JgLy3FvjvSxRDNTu3c6": {
+        "bakerReward": 180713,
+        "finalizationReward": 0,
+        "transactionFees": 16
+    },
+    "3jGo3HTB3C8bSMg39E7dXtXwkstRrnN5vaxvQF8qQNHNMEBzrv": {
+        "bakerReward": 176399940,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3jR44UAbc2Dw7bHDVTJj3mD7U8Cd2xccVphKEcSsz8vWsJRrAK": {
+        "bakerReward": 23131,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "3jRkPxSpMFKquYuREj7C9j2L4ZH8mkdwjZewDAWKdjMXDMwAeg": {
+        "bakerReward": 24323633,
+        "finalizationReward": 0,
+        "transactionFees": 2207
+    },
+    "3jUekX8gTfdveLpU6eXz1n5fpU75YaAdUeXeaqPQva9yZpch1M": {
+        "bakerReward": 2736,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3jZSqqDu9rqKY3NS48hvrnf7cibFE3w2c56erk9kKEowEcQASh": {
+        "bakerReward": 2583771302,
+        "finalizationReward": 0,
+        "transactionFees": 234460
+    },
+    "3jbP7pTdhVBQYBqyAfrmWHvDG9wceqEZeCfLZbf3eB8urucssP": {
+        "bakerReward": 6275,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3jdt8qqLnmtgYgSvHWDNRPgAPG1gQESRPkg6Nf8J85aN1wSvGe": {
+        "bakerReward": 10874193,
+        "finalizationReward": 0,
+        "transactionFees": 1161
+    },
+    "3jpmY9LHyULLbz8hHmoxaNybJqUWssC3zMyAyMsWcJenFCXXZr": {
+        "bakerReward": 27873577,
+        "finalizationReward": 0,
+        "transactionFees": 2178
+    },
+    "3jwWvMsPregn1FTYSSRks1FM6ZKCifCnhSJcKdzAzUN6WZWMXt": {
+        "bakerReward": 1908,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3k2FNawU8JATA3FoWeMovbwxy63y2ykduWgajAWiwJfk7N4HQC": {
+        "bakerReward": 10232680,
+        "finalizationReward": 0,
+        "transactionFees": 1092
+    },
+    "3k4wThSiP2NziXMCdtMDDAs3HaoJnL7oZk2rQDvc3XtffSdWfk": {
+        "bakerReward": 29077229,
+        "finalizationReward": 0,
+        "transactionFees": 2272
+    },
+    "3kFtzBt8swLHoptdcLgzBVYaJJ4tSLxx4Qq2KT8E1pjAiuN5cS": {
+        "bakerReward": 2702741,
+        "finalizationReward": 0,
+        "transactionFees": 288
+    },
+    "3kT5vqxy9x1BMjuvpscqgT3DwFoD4LARggrDVoMaH7mL7ZCcch": {
+        "bakerReward": 12597892,
+        "finalizationReward": 0,
+        "transactionFees": 1345
+    },
+    "3kazJXEfAd2qerGGfRyDEgp549UPfrVrKU9nqTmvgk9Bf2HDmr": {
+        "bakerReward": 7777,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3kf61idh6mK65r3F15CF8WJL5jo19EWt6QiKjkFWkWhEdbvD6i": {
+        "bakerReward": 1570027,
+        "finalizationReward": 0,
+        "transactionFees": 142
+    },
+    "3knUSp8Bqq96QAtqrhZM5QVA1M1j9iy2x5W6HmXJvG7wH8oFTM": {
+        "bakerReward": 646820,
+        "finalizationReward": 0,
+        "transactionFees": 9
+    },
+    "3kr3Zice8pSYiY4zDpr5P87kMWJBuqkLdJoCDt1g9fY2gquk2P": {
+        "bakerReward": 14694312,
+        "finalizationReward": 0,
+        "transactionFees": 1569
+    },
+    "3kxnzZ75qvNtnTgSFR5SsuRp92nVRf7xhdrBzRj8fib6Rqn8WJ": {
+        "bakerReward": 79513,
+        "finalizationReward": 0,
+        "transactionFees": 6
+    },
+    "3kzBbJaakFNLEv5V45P9RWRYHGVvZdYc5q1HH2RpDifHdWyzCt": {
+        "bakerReward": 1487064,
+        "finalizationReward": 0,
+        "transactionFees": 134
+    },
+    "3m2zPoqBQazFChrSaV1Arbg983NAkwTUpEKr9QdDFGx9ya8FkV": {
+        "bakerReward": 9635445,
+        "finalizationReward": 0,
+        "transactionFees": 1029
+    },
+    "3m8crfYB9QaEw1CBZ7dJg4VqzH4UsJzite9PKG4pa3zCrW2ir5": {
+        "bakerReward": 5183,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3mFVFNTZCLnr4svMmD8b8xnPPtQ86cf56VmKbEe5j4styuuky7": {
+        "bakerReward": 12868310,
+        "finalizationReward": 0,
+        "transactionFees": 1374
+    },
+    "3mMG6DYpQv4Ffk2bRYiZCiK7jci4GNfAXz6nyZyy6QfY5SdU7A": {
+        "bakerReward": 52603517,
+        "finalizationReward": 0,
+        "transactionFees": 873
+    },
+    "3mmBS5uHxq88sFm5KShuKwJ8sTcEW2KCyRNSPe4voqLNRPTvWM": {
+        "bakerReward": 6275,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3mpvnZhWR6DJ4JLxbRFmhodvRZKdfTAXc8xeMNVGkRYXXH4ZJH": {
+        "bakerReward": 7846159181,
+        "finalizationReward": 506334120,
+        "transactionFees": 797905
+    },
+    "3mvLesVgQ6GaDLMqLYQFB49Dz1T3mEKxYWVdidq1GLSwRNFYJX": {
+        "bakerReward": 4507338,
+        "finalizationReward": 0,
+        "transactionFees": 352
+    },
+    "3mwY1mKfoBHAESQQyEKNgtanZ9i6XhdTegvLZotsWF2setB12u": {
+        "bakerReward": 125587606,
+        "finalizationReward": 0,
+        "transactionFees": 11396
+    },
+    "3my5Fd55nzKGYj5W62bv29CJ8QZpKTqZCZki7tofkaUbsm2ZTL": {
+        "bakerReward": 1542440,
+        "finalizationReward": 0,
+        "transactionFees": 139
+    },
+    "3n4hBEHnGAEtfSDw6rehQYVZdm8qXHTx9hhnsGQ62TPXQtd6rC": {
+        "bakerReward": 19328,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "3n6kiufrNDYaFgqaGAyLZitRwQqyxnWQybruygc3Cx8WUpEGk6": {
+        "bakerReward": 3777780346,
+        "finalizationReward": 294448702,
+        "transactionFees": 2448420
+    },
+    "3nDiUUeTrHYrG2oqTCzz9tzg8SCpiR4LL7TFBjgKVEeBpkQEwE": {
+        "bakerReward": 204000138721,
+        "finalizationReward": 11850748065,
+        "transactionFees": 18967417
+    },
+    "3nHTHHrit4wNgCRFkdvfFnLTL6AhViUE143eR7a6pMfWiazGKZ": {
+        "bakerReward": 11042742551,
+        "finalizationReward": 712758757,
+        "transactionFees": 860318
+    },
+    "3nHbrXzRCCTgt3zHWfGL84fJUPqhZ8bH3uGT5ZNbWv6ffxkJCG": {
+        "bakerReward": 23054,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "3ndcYbbV3hghDyjLxJw4q5cLK7HeK3z67BW7sBhzux8poZeMMb": {
+        "bakerReward": 2718,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3ngar6ffb4rVDYByt2C5B8zUMxbFFG9SRUGNBGgr1RV4ehSS4v": {
+        "bakerReward": 256520,
+        "finalizationReward": 0,
+        "transactionFees": 27
+    },
+    "3nmFrwMiwtAu8qDA1kpYauomu6UqPpkf4Y5WpUtHV3XNPMmNds": {
+        "bakerReward": 271997,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3nonM9x3ivtYJxwtiSNkW7ckCFzWXWZEzoadUgFuZLoXAt57cD": {
+        "bakerReward": 25890769,
+        "finalizationReward": 0,
+        "transactionFees": 2765
+    },
+    "3nrUmj5uFMpwccW9M4wo98svoNth2cLWM5BkdxTj8Ds7CktsJq": {
+        "bakerReward": 2739,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3nred1G4Vp5ve6A2fW5ficQPqTpNmxHSKHDhKejfQ2ig93sNak": {
+        "bakerReward": 5445643,
+        "finalizationReward": 0,
+        "transactionFees": 34
+    },
+    "3nruhRJBM1p2wfigGDYdtp3Vz2YKpZnoj4LJrPymjyrd21N2Jn": {
+        "bakerReward": 2293200,
+        "finalizationReward": 0,
+        "transactionFees": 244
+    },
+    "3nszYGZqAuNjQv94WcHb2oPFC33WUU3sRJbX8WELQktTSbuqrv": {
+        "bakerReward": 6393,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3nxFD3fqtUG6YGAPbg2zBGa81Pt1SvNNTDjvvVakjvHVYw1biN": {
+        "bakerReward": 19652554164,
+        "finalizationReward": 1199750471,
+        "transactionFees": 299925
+    },
+    "3nziiUYQ1EPcsxAvWiw8BQHyDEko85DgxuMf7Tm7VEK1q76b61": {
+        "bakerReward": 6663936,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3oLcNLZmeYh4yEqYCHQcsGcJn9NcScZCRY9NJLgC2LHTnvNYu8": {
+        "bakerReward": 229346143,
+        "finalizationReward": 0,
+        "transactionFees": 24495
+    },
+    "3oMhNeuM1tcPTRQY99EZxZojok4fyANGouA7xAbJ3WWiWiSy31": {
+        "bakerReward": 2998339761,
+        "finalizationReward": 0,
+        "transactionFees": 320239
+    },
+    "3oUqnTzsZurABbaMAuSdR4w1X9GAvGBmLCeeegRSNkNrnYySDW": {
+        "bakerReward": 1118474,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3oUwAkgywV1m5bZJvf9VaqsvppBYjT46jNGh2Xokkc2fFiW9QE": {
+        "bakerReward": 183974290,
+        "finalizationReward": 0,
+        "transactionFees": 19649
+    },
+    "3oVQWCXE2agMUVy6GSPKM56mvf3EarSes21C8dZ7HAncYDHby3": {
+        "bakerReward": 861430603,
+        "finalizationReward": 0,
+        "transactionFees": 113
+    },
+    "3ofwYFAkgV59BsHqzmiWyRmmKRB5ZzrPfbmx5nup24cE53jNX5": {
+        "bakerReward": 243230934629,
+        "finalizationReward": 15276984939,
+        "transactionFees": 22083579
+    },
+    "3ohU2DBQ4ExFT5W231hUwQoQz8FTMyqq6Q23fECxyX8r87xDQx": {
+        "bakerReward": 22839593,
+        "finalizationReward": 0,
+        "transactionFees": 1099
+    },
+    "3ooDx9PvDjhmuFrK5FvEPLe4B7122mTTPC6HmUNjMJdZc7qjvg": {
+        "bakerReward": 21568,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "3otNsLxtqpcMdYzcuAyKZFah6ohV5SHGHU6doYJTHXpJnGBWwS": {
+        "bakerReward": 2566620,
+        "finalizationReward": 0,
+        "transactionFees": 274
+    },
+    "3p4DYVvwXTv84S74Tc18YhSN6RZkihjMT5NmCqqjLdNG937ZHA": {
+        "bakerReward": 871795464,
+        "finalizationReward": 0,
+        "transactionFees": 8798
+    },
+    "3p7mvCGhxNXiPLeoVTUmPaGjHLtyZLB3XKLcsRxEaGPd6Sn4HP": {
+        "bakerReward": 12198260,
+        "finalizationReward": 0,
+        "transactionFees": 1106
+    },
+    "3pLDZpwdow3w1AbSCjFBLvi64dM574tMKimcS9cKXei1UyFkXJ": {
+        "bakerReward": 25310,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "3pMXDUDgBrPptxajJKxSvVk3r9vMEcAQVxmGncJ9aaM3MBWxsZ": {
+        "bakerReward": 63999940,
+        "finalizationReward": 0,
+        "transactionFees": 6835
+    },
+    "3pUMeHN59urdXw2FkjJCeufeJ71ELXYR5xDp5PnrL7FpQUA3Ne": {
+        "bakerReward": 70438863,
+        "finalizationReward": 0,
+        "transactionFees": 5505
+    },
+    "3pZsnZFpRPxEHfzGGxzRnitYi5utCyVQbHS7NCg9CJm2fyqsXL": {
+        "bakerReward": 6275,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3pau8rhkcRg4yGtVdr9ctuNH4A4EDGGX3hkQALCU25z6BrCFJF": {
+        "bakerReward": 42380707,
+        "finalizationReward": 0,
+        "transactionFees": 4526
+    },
+    "3pePB3P7pq7XFAYSCJLcULVqzrAMtUfGzq1sYsHcgxyv4vxTrT": {
+        "bakerReward": 1594297,
+        "finalizationReward": 0,
+        "transactionFees": 170
+    },
+    "3penwjTF1wDL7zQUyYEAxZD9ARpTpfTQ2VQtXCuqgmjRV6E3ko": {
+        "bakerReward": 18499933,
+        "finalizationReward": 0,
+        "transactionFees": 116
+    },
+    "3poyD8jJn3LAViVciwPWBSzNvrvrfGL4fD9wm2UX5zfecvNW4y": {
+        "bakerReward": 8000052,
+        "finalizationReward": 0,
+        "transactionFees": 854
+    },
+    "3prut1n6DRcEdywT5CHrskaXXZo5KhavVpqiFmCKZbPqwA1LB9": {
+        "bakerReward": 20798,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "3psusYpadda9esD1VYwtYyFeocY7DF16YXyLD9AVVuhdhQ2sMT": {
+        "bakerReward": 45813530,
+        "finalizationReward": 0,
+        "transactionFees": 4157
+    },
+    "3ptajoRVqG8Y65Tg11cgYzfJMfRE57ZpjEv49jE8QFgkRRBV78": {
+        "bakerReward": 54677205,
+        "finalizationReward": 0,
+        "transactionFees": 5839
+    },
+    "3pxoFWBWMH626Jx5fUwAYhGme9msk3i44dkJh3wsCgU6DSLjLU": {
+        "bakerReward": 15361976,
+        "finalizationReward": 0,
+        "transactionFees": 1640
+    },
+    "3pyxfiychcBdcnGwxWxKF5vcDU6qESUQYzCg181RGSS6DfxbJs": {
+        "bakerReward": 319634,
+        "finalizationReward": 0,
+        "transactionFees": 222
+    },
+    "3q2aZqJrTwzNejLhb5ByN9wjWQhFLawy8nCmJ9bj7o2vmHMZqs": {
+        "bakerReward": 4107446,
+        "finalizationReward": 0,
+        "transactionFees": 438
+    },
+    "3q8KtJ21h1pAfeCRB5Jaf3hW8CMi2N8A7op2efY3a5SF9hQxpd": {
+        "bakerReward": 173269,
+        "finalizationReward": 0,
+        "transactionFees": 15
+    },
+    "3q9ERsDZU3KRagzNgo3aDFEYBLVzF4WmYUsBuCsQtgMgMBhDzh": {
+        "bakerReward": 1252966,
+        "finalizationReward": 0,
+        "transactionFees": 133
+    },
+    "3q9hS5tFc6EveFxgPTrVXqjc1caFMNUsxV5ox2sbMMFT37wDKN": {
+        "bakerReward": 7268878,
+        "finalizationReward": 0,
+        "transactionFees": 5065
+    },
+    "3qA7NMA1p4wCiBs1iYbuG3YKZHhKXeL7yDcUaNNVts8CRGCWa8": {
+        "bakerReward": 26671757,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3qFH9Y5H5RXzf9KurnL6tHKs5WUhQREf3W3gt3KtBUEEmNa72L": {
+        "bakerReward": 33095870,
+        "finalizationReward": 0,
+        "transactionFees": 549
+    },
+    "3qGJi5rQ24FWVq4n8LZ3L2zZDE4YXL4kcJEEnt4CuZMEchJdyx": {
+        "bakerReward": 12917,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "3qJhBgJgTwX3SuvmYFexGqSFFZsUc8s2zZd7RvGfZQQkXWodZp": {
+        "bakerReward": 21948954,
+        "finalizationReward": 0,
+        "transactionFees": 2344
+    },
+    "3qSP2cT6YGXig9Nz1NGi5eXnm31uYZ75Zmvip1XogZgaffTeQ3": {
+        "bakerReward": 6456,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3qWDzVaeQ46iSHD6ofybzDjuvgAmmrzJgNcTqWqQGRAwyLNJ4f": {
+        "bakerReward": 478490,
+        "finalizationReward": 0,
+        "transactionFees": 7
+    },
+    "3qWhr8B4jNGui4YAGUjtCS1ABkWWoVoMQhe8GyktNvDookXpMF": {
+        "bakerReward": 4233899,
+        "finalizationReward": 0,
+        "transactionFees": 330
+    },
+    "3qYYzihVhExuG1Sq7517XzGHwA4Acm5DWt7y9Eebry3WQiiTZk": {
+        "bakerReward": 108222,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "3qhqXN3uPaGvYEWdLV1r3vg13aKs2qpqQTVPCN8SVwZQsvZjzz": {
+        "bakerReward": 147617454,
+        "finalizationReward": 0,
+        "transactionFees": 15766
+    },
+    "3qkWJQRqJUSMy4SxLC2T33qjkeTyTzHS4ikjGTRXJx4TcD3eeF": {
+        "bakerReward": 13528951,
+        "finalizationReward": 0,
+        "transactionFees": 1227
+    },
+    "3qwbEAKLdApM1xBrZsFkkRUkZ6VxwpRpY6VZ1xDAEL1XqeK3yu": {
+        "bakerReward": 6265,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3rH8Ny1CWCvY62wrMEqzt4V61AeTJ6CumZT58ZtP2irYcooHKq": {
+        "bakerReward": 3685082,
+        "finalizationReward": 0,
+        "transactionFees": 177
+    },
+    "3rPdky5pZ37Cu8Dc2VZZ3mB7rGuaWjrAVyeAucRJ4kirXfvSgB": {
+        "bakerReward": 148941439,
+        "finalizationReward": 0,
+        "transactionFees": 15907
+    },
+    "3rSm18eYbvFXWd7ySArFyhJaHeTJSRcjXjbNoEi95Kjr4Ycaag": {
+        "bakerReward": 6456,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3rZg5TP46r1BTnK7revwYHshsrjaKZosQ5qihwMb1afeWhVocL": {
+        "bakerReward": 777521,
+        "finalizationReward": 0,
+        "transactionFees": 83
+    },
+    "3regDMagkCBTXSHyYLZ74HEt8PrcYUFjZevf4wKKvr1JZuWz2m": {
+        "bakerReward": 290598488,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3rfJwWcM5AcdpchhXtQ1Zo5aVFjjPpM1DqNT2ucJRLZgu95R7s": {
+        "bakerReward": 1310718375,
+        "finalizationReward": 0,
+        "transactionFees": 139991
+    },
+    "3rhr56fc7eawshcPX16PSicQKnQaj8xp4n9x4iEkK3GMVJa7Sj": {
+        "bakerReward": 276585705,
+        "finalizationReward": 0,
+        "transactionFees": 64000
+    },
+    "3rj5DFYjeL1tapRZow8taMjPeWexU9p48pgDKSXefbh75uxZek": {
+        "bakerReward": 20690038,
+        "finalizationReward": 0,
+        "transactionFees": 2209
+    },
+    "3rndcMhf1GmzoMdGMh1Zf55Le9UiVnvFNVbjYEGjvkzmwkiG9f": {
+        "bakerReward": 307968124,
+        "finalizationReward": 0,
+        "transactionFees": 4699
+    },
+    "3s1Vi87vSwfjWKBYUWvf8NzxBM3EewR4S67jh6gNewxib52cK6": {
+        "bakerReward": 21741996,
+        "finalizationReward": 0,
+        "transactionFees": 331
+    },
+    "3sKFGXoyrMDaYtPozAwUXGv51eAS7nC18rkNAb92oWTg9tRFbb": {
+        "bakerReward": 11333,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "3sTsJFTVtJwJbG4pMibGMVPgU7qNbenq53ZDCp89v8QQadPjvv": {
+        "bakerReward": 122451698,
+        "finalizationReward": 0,
+        "transactionFees": 11111
+    },
+    "3sUhtvVh7EsDVRTUmMsuba7BNHB5325UujhRBoHoFnyKVEoGBQ": {
+        "bakerReward": 871795464,
+        "finalizationReward": 0,
+        "transactionFees": 51290
+    },
+    "3sWL9oxb1v5ogPRU7DqK4n3Z9SKCEmumbp4Eca5FiJNQMgwxKp": {
+        "bakerReward": 6275,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3sX8zgtehjuvzajnSW1RLkHa2vmd5L3n6VQseFqXBS8rBdvwvK": {
+        "bakerReward": 2325294,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3sYRmjQ8NmSfKL8fjMTCVySgrjdnKaA4Ygrea2ETyax1r7Cm3Q": {
+        "bakerReward": 508604,
+        "finalizationReward": 0,
+        "transactionFees": 54
+    },
+    "3t6EuhMRn2LBY23TiP24gNnWPnar61NrQpUdU17CWmXz5Leqkc": {
+        "bakerReward": 7355732,
+        "finalizationReward": 0,
+        "transactionFees": 574
+    },
+    "3tBNfWsjdqdJANVZr1jsFJENyXz3cKM8eQNPjKdKSzPHhGRypM": {
+        "bakerReward": 5148022,
+        "finalizationReward": 0,
+        "transactionFees": 549
+    },
+    "3tCzQbzpFiKpwwrc1ZxM7b9N9qbCTrhockSjnxvGeaRbPP8KCQ": {
+        "bakerReward": 295291069,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3tHafwdK2B8dsBQLM7DA8h99iLqRzspYLqaEVdad4YP73fhWoB": {
+        "bakerReward": 11878488,
+        "finalizationReward": 0,
+        "transactionFees": 1268
+    },
+    "3tNgPVBEEnNgCkx3KHsJwz8nmG4v8nHG5jtNK2qa8tgSfTPFZn": {
+        "bakerReward": 38889,
+        "finalizationReward": 0,
+        "transactionFees": 4
+    },
+    "3taQTr2vfAQmaKgStN6qWBwqAYpjCJatcugY7NK8SHQvUscCA8": {
+        "bakerReward": 26444462426,
+        "finalizationReward": 1527885415,
+        "transactionFees": 2095870
+    },
+    "3u15iMwZDvuLzzJkvZnu43tuxa6rbhiMNY5gVw68XZkJUa8Dze": {
+        "bakerReward": 1022748,
+        "finalizationReward": 0,
+        "transactionFees": 109
+    },
+    "3u4jGXHQJaG2dtUJmphGYVrF7u39x24YVzRMUTjxZ8YcUeEWif": {
+        "bakerReward": 5155672,
+        "finalizationReward": 0,
+        "transactionFees": 550
+    },
+    "3u58naeGUbB2q9TERxki4yM9zL7uPuaYt7pAkpXg6KZcBT1x94": {
+        "bakerReward": 5165,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3uAD6aEzk3VbT9NRPbdo1QZiHS7x76EnDQvS9yULfguaxFD4Cz": {
+        "bakerReward": 17899269,
+        "finalizationReward": 0,
+        "transactionFees": 1911
+    },
+    "3uFeBi3vrYtwbcBMoz4NqNnZKXFokNrK5Bn695DaBzKqW88NCN": {
+        "bakerReward": 214462,
+        "finalizationReward": 0,
+        "transactionFees": 19
+    },
+    "3uGLmswdMa6R6EHbz4N3QhkzckgGreB5FStNPCUEaF9GjVyETK": {
+        "bakerReward": 521183,
+        "finalizationReward": 0,
+        "transactionFees": 47
+    },
+    "3uRxC9TYwUDwMjoMXZySZLQHuSiHUa6YAcffwz24NXUZULTzxR": {
+        "bakerReward": 25911,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "3ufTycrqZuSz8yXYFAQCA4WvXDatUs64mdT1N4paxEKfu2zbCa": {
+        "bakerReward": 25954,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "3urA5pyeX2s4rhJNV1y88XQyqmHyTZEB6PFWu2UPV4UgzSRtvj": {
+        "bakerReward": 41265048,
+        "finalizationReward": 0,
+        "transactionFees": 4407
+    },
+    "3vE4c72bqeCegyUhNiebhvPXTGN1TQMCivAmdfZ1XqBrCutzzA": {
+        "bakerReward": 4940174299,
+        "finalizationReward": 316227013,
+        "transactionFees": 153061
+    },
+    "3vFHtBYENvCBPBuqo5P6TVL2KmaJDAgYGK4i6kfxx6WMcaoZyZ": {
+        "bakerReward": 12798174,
+        "finalizationReward": 0,
+        "transactionFees": 1000
+    },
+    "3vRBiSrqG7R4Yto2sNdyn6HWow1Hsx6VrfcnogR19zcSZxKnzZ": {
+        "bakerReward": 22503785,
+        "finalizationReward": 0,
+        "transactionFees": 1758
+    },
+    "3vTeUSMoZt1cwgp9kc6ZtVze23cU7W5WdRTb5zBsV7JKqwg2ug": {
+        "bakerReward": 37202432,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3vayicDdMCUG1Vgg3Bfp54MyFRC76DJNSUZN76h4U2YqMTPKaF": {
+        "bakerReward": 78347687,
+        "finalizationReward": 0,
+        "transactionFees": 5799
+    },
+    "3vioMxntBWRKMitrkorPZw4PoYifnYkba76Mvr8o6xuNQRGAZL": {
+        "bakerReward": 25617,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "3vqJQQ1v7HfkKCRAmMNekjYgjp33FNkQeFqqXEu5Q1DRs4B4XE": {
+        "bakerReward": 5037706,
+        "finalizationReward": 0,
+        "transactionFees": 538
+    },
+    "3vyzKn8Gup52JFqNwvVgcHKXktqW5Bj82ATnfwATQZ7uJiCTpw": {
+        "bakerReward": 2034189417,
+        "finalizationReward": 206176372,
+        "transactionFees": 768
+    },
+    "3w5qj8FafD9LgQV7wCZ3gmzk88PEZpF2rwxCRZrRmuwKRExZpg": {
+        "bakerReward": 13800388,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3w8Zu3wwJpNuLdZ9RLsJrJZq74YTQVEmW5eNzrShXs8d1AsL5N": {
+        "bakerReward": 51882687,
+        "finalizationReward": 0,
+        "transactionFees": 4708
+    },
+    "3w9vzqueXfvx38g6QGJxM59xLcpcyq9DvE7cPp842bJtcUkceh": {
+        "bakerReward": 188716,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "3w9ysjCcCG4NvRhRrjUmc5Hfw7cURURUnty4zLtcYk5iBuYvmU": {
+        "bakerReward": 9142845,
+        "finalizationReward": 0,
+        "transactionFees": 714
+    },
+    "3wDgtX8CmdcKg9peKubdEwm1iPi4tNNhhQYFuFfwtfG1LFgBEY": {
+        "bakerReward": 256803,
+        "finalizationReward": 0,
+        "transactionFees": 27
+    },
+    "3wELwEPu7gBa2pumquCFJ68n9JjRnwqAcT4RGeXLRPdEVK1xA7": {
+        "bakerReward": 6265,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3wFstfqvsCJSrS2RDjdHUmMXqq17qEX8Ayri6gHirdbNrxtHpS": {
+        "bakerReward": 28448,
+        "finalizationReward": 0,
+        "transactionFees": 3
+    },
+    "3wVRw53sKAopqi59kK9eQbyVd6jFjFhy5HUg5jMCyN2cw7YTfn": {
+        "bakerReward": 2545928,
+        "finalizationReward": 0,
+        "transactionFees": 38
+    },
+    "3wkjtUwE4UuHDHs8dFrz7HZ1RmPqsnJxAYWswErkHkEYVBWj5j": {
+        "bakerReward": 6393166740,
+        "finalizationReward": 303986178,
+        "transactionFees": 396895
+    },
+    "3wqQGg4PxbCobQdbCZDjKsyGacjZsog8wbmvnaFDmsQLtQRRNJ": {
+        "bakerReward": 1295593,
+        "finalizationReward": 0,
+        "transactionFees": 138
+    },
+    "3wwNn8ZZBrQkaFVZbEcFXjMPxYMgaeuvbHCv4H7rUVq7bhGZeT": {
+        "bakerReward": 23401934,
+        "finalizationReward": 0,
+        "transactionFees": 2499
+    },
+    "3x8gyucHuVoCbfLmNPEA3rw3X3qiUMgoL6inDM9h37krnaXaL2": {
+        "bakerReward": 6529307,
+        "finalizationReward": 0,
+        "transactionFees": 697
+    },
+    "3xEeoSapC5T3sSLBaHzbBTjkYpEvNyWtXPJwQy15mvBxNVMVqo": {
+        "bakerReward": 43744470,
+        "finalizationReward": 0,
+        "transactionFees": 4429
+    },
+    "3xJgpnedrLRqpGPZM65Mqce4b1yxjDhUbksJuJtWqbQkyX8H7r": {
+        "bakerReward": 7309875,
+        "finalizationReward": 0,
+        "transactionFees": 780
+    },
+    "3xUeNFMTg25aWLGVMDTDmZeaXcEGGU8VCKLq3MVe2FR7fHNSxm": {
+        "bakerReward": 3885724,
+        "finalizationReward": 0,
+        "transactionFees": 415
+    },
+    "3xWwPdhG7156QrwuBbpVfAhPhLHYu6DLHBUCoUGJfrPixbXWYs": {
+        "bakerReward": 18079,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "3xXPifWTVRHsR6W7HEzvKQxqhiCPBdnJQ1bJd6wVjS8SMs4wfX": {
+        "bakerReward": 41050251,
+        "finalizationReward": 0,
+        "transactionFees": 725
+    },
+    "3xeXuV8tm8xdjiFg6AZ9QtQVFDTaGhQGVCPnCP5TRJbEwsmUjV": {
+        "bakerReward": 30153927,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3xmttKn9kPxPTipu8YbLSfQqY2UkrVMrqNjvBtGpumV3HfNbuF": {
+        "bakerReward": 96192748,
+        "finalizationReward": 0,
+        "transactionFees": 10273
+    },
+    "3xnqLXC1QWVCmdGrMFykEsv73uZt3EhP8uaVSZfgm5oB3VnPxy": {
+        "bakerReward": 154934,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "3xviit4164u2n5zMRvd2XeZ13tM4xrLjE5DoW3UqPdJqZo4cyf": {
+        "bakerReward": 127870,
+        "finalizationReward": 0,
+        "transactionFees": 11
+    },
+    "3y2QKMm7nbXddC29WVEy8mprsAXB8rbbrsARbNBWpqJWijKPa4": {
+        "bakerReward": 50117352,
+        "finalizationReward": 0,
+        "transactionFees": 10708
+    },
+    "3yEHTbhBtrqaseyj28GLCzqi4g35G7oaP7g2shM9KHBPGzJKQT": {
+        "bakerReward": 522586,
+        "finalizationReward": 0,
+        "transactionFees": 7
+    },
+    "3yGjh73CBgrskL6wo5rdnM9reCVbUrZ51StszcZVeAyptK4gJg": {
+        "bakerReward": 38867,
+        "finalizationReward": 0,
+        "transactionFees": 4
+    },
+    "3yPcXh443ZcQ49FXXf3Cg6rjuQnwNtYkcVhtLWiKt8rriKMy4K": {
+        "bakerReward": 127431,
+        "finalizationReward": 0,
+        "transactionFees": 11
+    },
+    "3ySvRQCaUbkZMcicH8EobyR7NcpqzsYtBhFyc82K9GgeTi27WA": {
+        "bakerReward": 2693371,
+        "finalizationReward": 0,
+        "transactionFees": 287
+    },
+    "3yTi57duDqTaWePCfV3furvFPxaRrzFeoo7bZTRY7dz9RYjMhs": {
+        "bakerReward": 170483,
+        "finalizationReward": 0,
+        "transactionFees": 15
+    },
+    "3yfRh6AjBHip2VLSXWXP4C2VgujN9BK6djUGnnjjjT9GZjU5vT": {
+        "bakerReward": 6275,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3ynk2jy3d6sstnfXdwovYnUjvH5f4uL958dAQYr2xvbWTUWbfe": {
+        "bakerReward": 51925702,
+        "finalizationReward": 0,
+        "transactionFees": 4711
+    },
+    "3ypkY9M1HSZtu3Ws98fiu4ZKUPhbtFEw1YXqcmhbqqQABLw7UW": {
+        "bakerReward": 5155,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "3yrJMnzxaY6GjtMk39Af6zUwZj9yX8TbDG9LKNa6tC63cvC2eg": {
+        "bakerReward": 24562,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "3yrbaSPyACzZca9dZEf1TiF636tnp615kyxJbhiUi62CE5CjqX": {
+        "bakerReward": 290598488,
+        "finalizationReward": 0,
+        "transactionFees": 418211
+    },
+    "3z6Ui2fNTLVGBYaPkUU4c4Z1yYmkz97hXECumVjog18zeeHWYm": {
+        "bakerReward": 53761596,
+        "finalizationReward": 0,
+        "transactionFees": 37463
+    },
+    "3zH78VC4Pv7N833GAmRvokT4DVaQ3hp2c76eE1Q6VetAaZ4B6z": {
+        "bakerReward": 3551280,
+        "finalizationReward": 0,
+        "transactionFees": 379
+    },
+    "3zHDGGpNdPtEvK2Abc31X6YX4eXgFXai5bULY1XVuSXiixfWrq": {
+        "bakerReward": 3793550,
+        "finalizationReward": 0,
+        "transactionFees": 405
+    },
+    "3zQUk5dzz8oME1DYBHapDia1aKHhFMirGFbwcsjMoG6DaQ93Av": {
+        "bakerReward": 14008749,
+        "finalizationReward": 0,
+        "transactionFees": 3241
+    },
+    "3zs1uhqhdJGteta1uRQrH4BY4hXdgKTSR4M3EEkhr6nnmjXUWw": {
+        "bakerReward": 119069,
+        "finalizationReward": 0,
+        "transactionFees": 10
+    },
+    "3zsLjgPTFNHcVXBy4mTmGYKHyqDYVkRn6MQrSGmCnaqNkokpxv": {
+        "bakerReward": 180979,
+        "finalizationReward": 0,
+        "transactionFees": 16
+    },
+    "416qYqYDwPoFFCbcM3UVbJxrQuX1QkqHSWmQnm4DnHyJxG6Zsz": {
+        "bakerReward": 126074387,
+        "finalizationReward": 0,
+        "transactionFees": 11440
+    },
+    "41BytJCt3nExxcmZFH5Gu8sffLhdNTL8DsyPU1Bjnog5LLq8pt": {
+        "bakerReward": 1182550,
+        "finalizationReward": 0,
+        "transactionFees": 126
+    },
+    "41XTRgW9jQvyVQxaitjPEbjtBTRiAr9CTNhJsGWH1EnQ8HxzmP": {
+        "bakerReward": 18436548,
+        "finalizationReward": 0,
+        "transactionFees": 1441
+    },
+    "41jfyJL69xnFXjGWQdCFMQHcum55FDwo7McQckhCYwBk8qb9q4": {
+        "bakerReward": 2730730,
+        "finalizationReward": 0,
+        "transactionFees": 291
+    },
+    "41wftCBXcK2pqF4yriahELbzkTRY3nYywZy9ZzMwEpkrnxGA8y": {
+        "bakerReward": 641938,
+        "finalizationReward": 0,
+        "transactionFees": 68
+    },
+    "41woQvVPVRZydS6CUD1USFYcVpyifxP6A6w5icNAp7R7ryaem7": {
+        "bakerReward": 262689,
+        "finalizationReward": 0,
+        "transactionFees": 4
+    },
+    "41zrvZTPYe2a3cA6W7K3Mfr6nSuppM74LiVEiTAeNaVX14C7GP": {
+        "bakerReward": 44516392,
+        "finalizationReward": 0,
+        "transactionFees": 4754
+    },
+    "421PDDq6Kxprpt6N6zrUCZcnjcn38D82KDGnazZ2NRbYDBWLqS": {
+        "bakerReward": 3197723,
+        "finalizationReward": 0,
+        "transactionFees": 249
+    },
+    "421orso4y4hHWEUe2VqjPZR9fH7QPDW1DGAih6BD3TmtLw3qyc": {
+        "bakerReward": 82298359,
+        "finalizationReward": 0,
+        "transactionFees": 51290
+    },
+    "427gX4EfGSdyfqWuiXFTT15GzX9phS8hewAtEkp7cypz7WrJLf": {
+        "bakerReward": 118416,
+        "finalizationReward": 0,
+        "transactionFees": 10
+    },
+    "429je4znfa1MAKceaF6aateQZiATjgCfueTdEzMdJ2B6S6vPvZ": {
+        "bakerReward": 290598488,
+        "finalizationReward": 0,
+        "transactionFees": 93221
+    },
+    "42MHeV4QcNVtidnUdDPdM2LedPb2QLKa7k1MQCXiRRPAZK3NtX": {
+        "bakerReward": 509927715,
+        "finalizationReward": 0,
+        "transactionFees": 46272
+    },
+    "42eTQWhL8jsrVXMv1cUyGPGHGVrGGF8W2EnAUAy1LupA9HjJCX": {
+        "bakerReward": 2739,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "42hMhqb8hKasK2mc81E99FTnGhxJLQu1wvLuk8j2S6Dxyj2hpK": {
+        "bakerReward": 5154,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "42heH8fW679WvQXRiFWFC2HhHCj8ZAJ6g5WPFoguF1VoDC4Tkn": {
+        "bakerReward": 15513,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "42ifr4yK1ZWewL2wcRCk3LyNcv92AU8QuaBUcdAuh6kpeqAcY5": {
+        "bakerReward": 128175,
+        "finalizationReward": 0,
+        "transactionFees": 11
+    },
+    "42knbMvgi8p838pBNeJynAL1pbohvTWuMiRWPNFfoprc1LtuzM": {
+        "bakerReward": 370035,
+        "finalizationReward": 0,
+        "transactionFees": 39
+    },
+    "43B4J8QE3NweMVTQMVHLaftyqWt5haJivLyGoyLy2echmdXaGC": {
+        "bakerReward": 581196976,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "43FxV4cZCPhBqrMKAQcGCKXH6h8SW9WwmxncAzjVnPmQkg1Y3N": {
+        "bakerReward": 2739,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "43HESEtVH8acjt1gBKe8knH3K5HghMgkmVvAnA5wy1dhWXkSQF": {
+        "bakerReward": 1501413,
+        "finalizationReward": 0,
+        "transactionFees": 136
+    },
+    "43L4fNQbU9zTaeNMH98dRKvQf9E9xHuN7KMM66LCrXekiK3w1o": {
+        "bakerReward": 30711021,
+        "finalizationReward": 0,
+        "transactionFees": 510
+    },
+    "43PudPjyUoZ9gTvWHyoLujsxx3UGjozdmzbteKxiM7nyAH7d3C": {
+        "bakerReward": 4152740,
+        "finalizationReward": 0,
+        "transactionFees": 443
+    },
+    "43UBFLdhmunwDEpbyVLKEnDYrfTPiZx4Evu5Dtnnug8fW52gYV": {
+        "bakerReward": 5851894,
+        "finalizationReward": 0,
+        "transactionFees": 625
+    },
+    "43WTHNdfzVK585zJjRmB8hdQQgxAAnFLxfJXhdwFn27K8LX6Rz": {
+        "bakerReward": 20908,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "43dmbc9UuWesbyGtHuNwpFX8udtVceuphu8aQEPVzDh4fxB5MU": {
+        "bakerReward": 2739,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "43eTFg4NoNAN5Ug2cBDJXk72ND8db1aKq1n4sgzgSfU9xWYL2Q": {
+        "bakerReward": 6474,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "43rFYsA5poFfpAff7kQaf4fCBBQbDEe5LcTEzpqPtufoKAAWek": {
+        "bakerReward": 124275,
+        "finalizationReward": 0,
+        "transactionFees": 13
+    },
+    "43sPTsozscn3d2RbxHiaWy6Pp23KthNeNV6LKBhrco5SqoB3YW": {
+        "bakerReward": 3777780346,
+        "finalizationReward": 235430442,
+        "transactionFees": 23152
+    },
+    "43t7pZT75DDvUJzHhJKLJo2vDsfDFheFXjGf87Zw529ZXJEUn1": {
+        "bakerReward": 53003789,
+        "finalizationReward": 0,
+        "transactionFees": 5661
+    },
+    "4442EKykhiNefCLPLh6adN4L9Yd8m9gLZuqRbRHjk4XBNv6T1V": {
+        "bakerReward": 165178,
+        "finalizationReward": 0,
+        "transactionFees": 14
+    },
+    "4445Cw34vuppo6Wkpm5DZL1DESyTFy9hgVmzJwD9E6F91Diebj": {
+        "bakerReward": 11349068,
+        "finalizationReward": 0,
+        "transactionFees": 188
+    },
+    "44B2dg6FKQpkjuvS6BY2zfRP8TEGvKnSGZWRqUEJH37AuDXy5T": {
+        "bakerReward": 1930385,
+        "finalizationReward": 0,
+        "transactionFees": 175
+    },
+    "44BbpXks336TmHqAFfrJEvHVmzVziAd47hagRQf4QQbBuvJGHU": {
+        "bakerReward": 7765,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "44BddDqxPCQepqs5Aae7N4nUaFqqYr3nMMxEFtwQmuW7j1uK3L": {
+        "bakerReward": 32399362,
+        "finalizationReward": 0,
+        "transactionFees": 2532
+    },
+    "44Enrtf7pss6NG4st9ijtVAX5X1xgMh51B1DXJCaUoNjCQc4ZX": {
+        "bakerReward": 3858795004,
+        "finalizationReward": 365867220,
+        "transactionFees": 64119
+    },
+    "44MyGYnaKsDF9EFsD3931pFHJewiqfMyyf7xUg9p3HkKUmJEzM": {
+        "bakerReward": 9719604,
+        "finalizationReward": 0,
+        "transactionFees": 1038
+    },
+    "44PKXoncao4C9pQg5iVEms37oiEU7vN7BHRawPHqDBjL3ST36v": {
+        "bakerReward": 50335,
+        "finalizationReward": 0,
+        "transactionFees": 5
+    },
+    "44TUV1GgjL9BNYxoi1j1dbyE9AnVViifempGGdz7RYQhZBCdRA": {
+        "bakerReward": 191664,
+        "finalizationReward": 0,
+        "transactionFees": 20
+    },
+    "44UfxkLDCbXHdcsJvpc5Ann4xBsnKMPN2XcZDKQ1rZrowkKtSp": {
+        "bakerReward": 2914,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "44YboyMnVfV518DuUS3osNe7E5Fj7b7sqJQVZYUq3hbEjHkZKB": {
+        "bakerReward": 266974016,
+        "finalizationReward": 0,
+        "transactionFees": 24226
+    },
+    "44bxoGippBqpgseaiYPFnYgi5J5q58bQKfpQFeGbY9DHmDPD78": {
+        "bakerReward": 235675373936,
+        "finalizationReward": 13620546710,
+        "transactionFees": 21313931
+    },
+    "44k6p9smVdWAH89PgARqqJpriaxUdhdJGBzaDFTWYSKaWZGouf": {
+        "bakerReward": 7695609,
+        "finalizationReward": 0,
+        "transactionFees": 821
+    },
+    "45C5RzWrBGyywwvCFAmkVtHLQmC8jwEaaB9qP9kqL8EcfT1pdj": {
+        "bakerReward": 55665153,
+        "finalizationReward": 0,
+        "transactionFees": 5945
+    },
+    "45C9g17Fgvn5JfPrMEibs1kDst6xYy3UYDHRsz2GKxGtxLZCNr": {
+        "bakerReward": 7907437,
+        "finalizationReward": 0,
+        "transactionFees": 717
+    },
+    "45CckaXFwKEdRVz8W5SDnWki3KF9MV6oR7E7vnr68EdYMdE6KS": {
+        "bakerReward": 282201,
+        "finalizationReward": 0,
+        "transactionFees": 4
+    },
+    "45D5RepRTvcAfPX6zWGCFxrAhv4t8vcdVmEyNjJMu8K9e9j8tT": {
+        "bakerReward": 200782368,
+        "finalizationReward": 0,
+        "transactionFees": 21444
+    },
+    "45NmPTNgLmeLf6AxqSkuKCjLoAwUWUvifsTJNLCfAwEsYiJiHz": {
+        "bakerReward": 3042887,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "45WDrABAPKLp7grAAiaZfBUyJJjRSfzeb4n5Z1wYio33Dsrj1n": {
+        "bakerReward": 10806568,
+        "finalizationReward": 0,
+        "transactionFees": 980
+    },
+    "45XwJ7hZDJFZzJ94956iqwLHBa2EjPBUGLDsgJW73Ut2yCKDio": {
+        "bakerReward": 290598488,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "45p14XAdNzRKrhbSManqq4JmriL53yF24y9otU12LWqXQB9qGj": {
+        "bakerReward": 2712,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "45rhPcUY8FVWsFGCJFgGVRzM6CizF5jVdQvhkmuagfSGUMuuvv": {
+        "bakerReward": 105602,
+        "finalizationReward": 0,
+        "transactionFees": 9
+    },
+    "467mkNx7iEdY5vbzBq1zfEGs4KM2oMo7A9A91FrwN8XYz7CBiM": {
+        "bakerReward": 162508,
+        "finalizationReward": 0,
+        "transactionFees": 14
+    },
+    "46AvEHkmLbY526Z7mGJoTSYzsbPZRhymEQWwHwf6Q5w9CukD2W": {
+        "bakerReward": 1144009,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "46KCaTyh9CDJcTc83Gjs5BRsTSZ23H9vyMuxVaanv36fR66nHC": {
+        "bakerReward": 430490,
+        "finalizationReward": 0,
+        "transactionFees": 45
+    },
+    "46KKpv3b68J4nfnQc1qA3X2QvcNc76cUqz5D4eULMk7SZKMgNB": {
+        "bakerReward": 6102568252,
+        "finalizationReward": 425835878,
+        "transactionFees": 1033321
+    },
+    "46MLXPzyYp1XwEr1LFajDRSkPCCxYXaqmTGr4dwKBPRA2wu9Bw": {
+        "bakerReward": 20666,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "46QDYkp1BMUcEMWqGyZeui8jhCNnSmwB3HWpR9KPtbaedpZSd3": {
+        "bakerReward": 6481,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "46Zj35qYqM5D4k2jspj3VqAy2kYyNmZ5KD1H5eCfgudqxpWSmr": {
+        "bakerReward": 13495536,
+        "finalizationReward": 0,
+        "transactionFees": 1441
+    },
+    "46nCy5bnZp47Yrv9GwdPrcVJ5TG6fP4JGuCio3CQPes38u24Za": {
+        "bakerReward": 6275,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "47E1yeif3uvTYhZHMbhU66LLjYgCvVdXN2gXYXzmg82K1Lxkt3": {
+        "bakerReward": 281874,
+        "finalizationReward": 0,
+        "transactionFees": 30
+    },
+    "47E3gRPz9p3XvPN1RJu4x2W3z73sUGHxYL45BBCVDuuTYTZK6s": {
+        "bakerReward": 323863,
+        "finalizationReward": 0,
+        "transactionFees": 29
+    },
+    "47S3vGjDGmWHWtqxeva8KT3xwfYQWUrkjhK38NYnVLXb2JPA1w": {
+        "bakerReward": 6644,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "47iQmG5oHfTJehqyFv9nfYedrLRME7zfxhGdi9xmmZ8VMXwWdo": {
+        "bakerReward": 2332068,
+        "finalizationReward": 0,
+        "transactionFees": 249
+    },
+    "47iVA1DgQruYQEpqeh7L92uEG1wSJrjFK4YgJfWdNoro1PFHj2": {
+        "bakerReward": 304917,
+        "finalizationReward": 0,
+        "transactionFees": 4
+    },
+    "47qxkCu3bn1a3txXd7xUcRsNoriRFQEPARxQkkJmKQz8grBgoR": {
+        "bakerReward": 6704,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "47uKy77Ds7AEsTd7AAnyeesWL5wAyraVvafPEfhFw9dveuGym6": {
+        "bakerReward": 21504288127,
+        "finalizationReward": 1527885415,
+        "transactionFees": 1291792
+    },
+    "47xTHwtFra1d4Mq4DYZuZYJEYrDXY34C4CGkTTzT6eiwjEczuT": {
+        "bakerReward": 201094153839,
+        "finalizationReward": 12358104088,
+        "transactionFees": 20617177
+    },
+    "47yERaxatkegaXjfinBf9AVZN14nFaM539uV3Zq6FQNmtD8Esc": {
+        "bakerReward": 682822,
+        "finalizationReward": 0,
+        "transactionFees": 10
+    },
+    "48FwhitAjh9rSbVhj7d4avD9WMzSUHjZgA1goQbbSs2KCC47Wp": {
+        "bakerReward": 118416,
+        "finalizationReward": 0,
+        "transactionFees": 10
+    },
+    "48MnX9AzvkCwdsKFb7zxZwEDJ5QjnhvsRpNiUmFwfkp2PEsJer": {
+        "bakerReward": 6441111,
+        "finalizationReward": 0,
+        "transactionFees": 687
+    },
+    "48Mqeo9E7uDx8MntqqRdFzEYeQ5MQc6ABg2sdPoriat5aq8xVR": {
+        "bakerReward": 2659978,
+        "finalizationReward": 0,
+        "transactionFees": 284
+    },
+    "48SAMgkM4RFMGX4g8VktCXCvBbGPm9MNHm1iw3sxBFDRArZyGk": {
+        "bakerReward": 277233962,
+        "finalizationReward": 0,
+        "transactionFees": 25157
+    },
+    "48XuCzuJQ8cj1qPyUYn1iboBFdXdm7bJYM8uERSzNc7tZaTKQS": {
+        "bakerReward": 3628,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "48cqTQTC7ncDKtLcWGqzjCSpQmKT3nBWKCeN27xLJrQvze7PmD": {
+        "bakerReward": 4034,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "48gKY5pcLRifwRhPunsvJ5qiSbhgDgrKPyohDZv2c9r4iYWmPk": {
+        "bakerReward": 15500,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "48kQZeKxpjDgskADYgMC9wYfPJU1Z529onUqSrGyq2wMZrgufA": {
+        "bakerReward": 128655,
+        "finalizationReward": 0,
+        "transactionFees": 11
+    },
+    "48tBLLSDcnftTRBDXgx2RHKdDtG8nvnVE4xREgw1yygSxHxiu1": {
+        "bakerReward": 4523884,
+        "finalizationReward": 0,
+        "transactionFees": 483
+    },
+    "48w4eqphpQxYsyyTYMuPzga9SfQ5qzKyS1W4sFHMbgMFR33F1N": {
+        "bakerReward": 8243917,
+        "finalizationReward": 0,
+        "transactionFees": 644
+    },
+    "494XRkeP9mRHAe7o4bHWm5MEazuyJh9iZ2Nsn14bC1seNZ8yKR": {
+        "bakerReward": 19470098709,
+        "finalizationReward": 995099772,
+        "transactionFees": 628434
+    },
+    "49DHGW7CjUcEDhYfMBKWVCwg4pzD7sEiboGaiQvbgbUKTtz5iH": {
+        "bakerReward": 119197,
+        "finalizationReward": 0,
+        "transactionFees": 10
+    },
+    "49HsifoFPMGtsYiAQW2RppQcnQsLm8hVeksaA8XBCPg8ttaTCa": {
+        "bakerReward": 7476,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "49JLd5D9YxWh8hyi8kt1Tunnb5S1SdkbmGbV7DnjQdpphoxB1J": {
+        "bakerReward": 46879060,
+        "finalizationReward": 0,
+        "transactionFees": 3664
+    },
+    "49LSmMUXGiwV99zpwcJbEeRTQSVyWDRm7MTChzue1KWqe66GiK": {
+        "bakerReward": 756947,
+        "finalizationReward": 0,
+        "transactionFees": 80
+    },
+    "49QeagcdfaauMideUtsZmHSqZHasTqvWqZxVNfcnucFFKiyjfm": {
+        "bakerReward": 431589723,
+        "finalizationReward": 0,
+        "transactionFees": 33733
+    },
+    "49RkchTfEioZncZJFZiFXKdA5ek85FqByPkwJG2eqwczvUzEno": {
+        "bakerReward": 3345568,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "49T1oqb8T77gZrEr5Mty2rfgedY9TBy5Xh5ibVwiocjDEC4F9Z": {
+        "bakerReward": 129670,
+        "finalizationReward": 0,
+        "transactionFees": 11
+    },
+    "49VEbFqqJi8geLyZDZuwHomKPJ3bfHr4d4kJwCnayTw8xxnHxJ": {
+        "bakerReward": 11244,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "49cv55bCH2Es28sZMzH7cB1kRzebbqMczMFSn77f2BbWH5Aq7i": {
+        "bakerReward": 232376,
+        "finalizationReward": 0,
+        "transactionFees": 21
+    },
+    "49fxjyGYgku2vcL7rQvUBPVpKRXeHk8zu5QCf4E8dqrHByM1cQ": {
+        "bakerReward": 5165,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "49nNeC9wj9SVC34ZsG2dxo3Fox13QTwanyybDWW2HC5ytATKvL": {
+        "bakerReward": 7412,
+        "finalizationReward": 0,
+        "transactionFees": 5
+    },
+    "49vW8ohNKFTPHt3VgHXNwKg52vyNofP5Aomng73aUBFWVcWtot": {
+        "bakerReward": 12246559,
+        "finalizationReward": 0,
+        "transactionFees": 1308
+    },
+    "4A2TMLcsXSoRhoyshyqneNFQp1pxrBSLrYssWqumnwvu16yd3J": {
+        "bakerReward": 1511103,
+        "finalizationReward": 0,
+        "transactionFees": 137
+    },
+    "4AHWB2eWu2ibSxPReHpnjdigZguKoLzBgAikeF3eU9go7ERDbH": {
+        "bakerReward": 492594,
+        "finalizationReward": 0,
+        "transactionFees": 52
+    },
+    "4AP1iDFUKL4JTHK5AgsmeN1gRRCGQT9VSh96K135tjH9NkjBXM": {
+        "bakerReward": 193965,
+        "finalizationReward": 0,
+        "transactionFees": 20
+    },
+    "4ATdsWWLVa1vnd3ifxbpcxDjcngvPKmw9vL2z2hCaT9DSHvviq": {
+        "bakerReward": 272721,
+        "finalizationReward": 0,
+        "transactionFees": 4
+    },
+    "4AcCxFKJ1GFX3cmhVX2faKFxEUbS2vTYLoRCoLumiPuqsfPLYE": {
+        "bakerReward": 18148,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "4Ap1KkraGNT95bL2J5Vq7UA1jQewUqRt1c6rr65enuHHY3Ewwx": {
+        "bakerReward": 47310205,
+        "finalizationReward": 0,
+        "transactionFees": 32967
+    },
+    "4AwsdqXLSHKYtGBxKJtLps5yL8juiEdiaaZgZCpmZH8zbHewDQ": {
+        "bakerReward": 7081,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4AxewGDUReDLi8jCgjSLwHXLZ1fQzUTC15Y4eSAFYEsLDHJ262": {
+        "bakerReward": 3991513,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4Azc8viHHnX6j1gBZbbu41A5Sz881h5NaeNUGohuL4m2r6MKmN": {
+        "bakerReward": 5258680,
+        "finalizationReward": 0,
+        "transactionFees": 561
+    },
+    "4B4C1fvzRu9p2P3PpXCWYbfu1CYeRqNv5kBwpwNn4egP8E2sb1": {
+        "bakerReward": 6706,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4B4Fu7MUSvz2sKUZzXGZCHYtqQsPcMtXgLWstdgRmwX6Msu1TY": {
+        "bakerReward": 2215604,
+        "finalizationReward": 0,
+        "transactionFees": 236
+    },
+    "4B7NWsDHw1iNdjAWcyXzJHexPdA8F6zLxizykkDuMSJNngXqKu": {
+        "bakerReward": 4019371,
+        "finalizationReward": 0,
+        "transactionFees": 364
+    },
+    "4BHU9Fvr1bdQR4japcssssxRn3jzswiFsaen9P8oNRk2XeBuDY": {
+        "bakerReward": 8742,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4BHW1fUJQdYE57CQqDfwNY1vEgMJA2Z46BoEEhqWeEj5FnUUWe": {
+        "bakerReward": 12331546,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4BPgVgtmwZNzNzzxDptJroe8H2bPV2Uz28WJoHoBJJGoqvpixd": {
+        "bakerReward": 6275,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4Bt72jwRrNGP37WCNWeWvbjMyPx5sxdtrimXKEFAVN2AbMCrLZ": {
+        "bakerReward": 1277,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4C7YYRR7BJe2caNhbyFrSdvrsvB88FKSJCoxECXwEiZVbB8NzX": {
+        "bakerReward": 4677539,
+        "finalizationReward": 0,
+        "transactionFees": 499
+    },
+    "4CBtgxmQdjkf2X9LoNHzJJu1n5T9AYh6SYgvigeX9se6BEtg6Y": {
+        "bakerReward": 23054,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "4CC8wFxUJAQ4ZuhZo5cTasPq2CDGxMRx36pUbWDV88aPTuBBjR": {
+        "bakerReward": 6275,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4CCdDLhFnKTxHfytMo8BGMxmc2jZH46ip1g5jKE2FEMbYM6Ccu": {
+        "bakerReward": 1986,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4CUEuhsWH7459Q9jmv6EhFibe3ac5HRYmSYLG1q7zqrVHE2Z5K": {
+        "bakerReward": 258766,
+        "finalizationReward": 0,
+        "transactionFees": 27
+    },
+    "4CfNHCgrrj4uNS7LqT32f7CHdu7hp2hhBNw99d1p7bhroo6uSz": {
+        "bakerReward": 12211527,
+        "finalizationReward": 0,
+        "transactionFees": 202
+    },
+    "4CkGY6BZ9K5oXAxeicNyVYQ5kcfCimaCf7CokpfUmxVt1evgaJ": {
+        "bakerReward": 662428,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4CsT3ApUcejWpsr1794MkhayrqTz7aoBeUv2bzKGn2zbwZKjEf": {
+        "bakerReward": 13135237,
+        "finalizationReward": 0,
+        "transactionFees": 1026
+    },
+    "4D1xtS8ztmxvuHy3ddiVQDnv96nwDRBj5bgWZx9uixMppgndzv": {
+        "bakerReward": 9008553134,
+        "finalizationReward": 566019405,
+        "transactionFees": 1365384
+    },
+    "4D44RYigFqPkABrRAHXSBBQqG4VNhXEsyJrt2GH6V2H8tS1tN3": {
+        "bakerReward": 57686734444,
+        "finalizationReward": 4627122792,
+        "transactionFees": 5234784
+    },
+    "4D4N9tJCTw6XNE5Cg9BwfUPk3Mw4K6fZ9mc6ymTU1kiGafFTju": {
+        "bakerReward": 7230364,
+        "finalizationReward": 0,
+        "transactionFees": 565
+    },
+    "4DCUhfmXFHFT51rL9ActSqNVyY2NCKwr5KcB1BnedYZ5Fgcegp": {
+        "bakerReward": 1356,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4DRnMKmqVqk94kMBxMimEBTwSdnUYtBV7dL1mLKTSLuDs474Wz": {
+        "bakerReward": 133954888,
+        "finalizationReward": 0,
+        "transactionFees": 10470
+    },
+    "4DY7kyv96NzG84eNPwiAmoi7MRULRDaKAmgmV9L4YEATTRDyb2": {
+        "bakerReward": 6008904,
+        "finalizationReward": 0,
+        "transactionFees": 641
+    },
+    "4DgzmEempYekAHasCYTyobxexux9MnUuLuHutPSZiKJSQXcNK6": {
+        "bakerReward": 11942498,
+        "finalizationReward": 0,
+        "transactionFees": 933
+    },
+    "4DkbFzzKnhcJCD88ubw3izTeQ4vAhCRxp4tD37F4bQ5xuJC2hE": {
+        "bakerReward": 190441054,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4Dmy6mVKJz5zDhhgt6zT6Eeb4563RQX8vefYWyaNRzXAiss4iN": {
+        "bakerReward": 45324505,
+        "finalizationReward": 0,
+        "transactionFees": 4840
+    },
+    "4DoLG8Aeuq4rhgzMyvHN1TG1dnnbHpLmCQwiaC6r3Q86sG5dt8": {
+        "bakerReward": 37492549,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4DsZ2ecvSjeFZaVsJ3twKJdiP6Mm6p73gqfHYxzMYSsacwEF5R": {
+        "bakerReward": 2146,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4E1cG6bZjrupKFRVgzKx4HNdGzubPBUczFn1piKLS6hKr9kYtq": {
+        "bakerReward": 306663,
+        "finalizationReward": 0,
+        "transactionFees": 32
+    },
+    "4E1kRom9QbSLdRAwovu71CH5cXmizPNyAamMhU7F5znn5XsXZB": {
+        "bakerReward": 52649139,
+        "finalizationReward": 0,
+        "transactionFees": 5623
+    },
+    "4E1xiGQXCKK3yS2UkHp8bbtuyna6a6FKWbqsBTMUijMHCe2NbK": {
+        "bakerReward": 287443,
+        "finalizationReward": 0,
+        "transactionFees": 4
+    },
+    "4E3zmhjaNL7ssnv5e8mQBoTpNQCkDF85iG2mCNfFPQYRtn5hRE": {
+        "bakerReward": 706748,
+        "finalizationReward": 0,
+        "transactionFees": 75
+    },
+    "4EC2zgRn9SVGKqG22M6gvzVvdpDSqQ2UJ5wCBNQeZZqs8xaKJ1": {
+        "bakerReward": 526442,
+        "finalizationReward": 0,
+        "transactionFees": 47
+    },
+    "4ELigaAVVtyb5uwHP4s46nxxL3F2oZcV8YvPBKeJgv9Pvn7Gzp": {
+        "bakerReward": 516326,
+        "finalizationReward": 0,
+        "transactionFees": 46
+    },
+    "4ETKQ88mQH6oQ58Yh1AVE4wPt1jbADxXRbxgBvC5p9K5g6jpau": {
+        "bakerReward": 268088368,
+        "finalizationReward": 0,
+        "transactionFees": 24327
+    },
+    "4EhmbVLDMmVyetT3hgRqvPAg6bXVBF85fpY6X2S8RpFE7ZKXcp": {
+        "bakerReward": 13045506,
+        "finalizationReward": 0,
+        "transactionFees": 1019
+    },
+    "4EhzTGizhHGMiV4X3titFkd8u8Tx256vbGdKuqRnXq6wJn5kPR": {
+        "bakerReward": 9619512,
+        "finalizationReward": 0,
+        "transactionFees": 1027
+    },
+    "4EnN3862j9zb5drdCL7zfjdG4L8vSRSMG4a5THMtYEet8CbEr7": {
+        "bakerReward": 3106,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4EoT7m3g2WCXPtEcP95jr1VC2TZ9uX435HCeboCNAhtbVe9Fod": {
+        "bakerReward": 708904,
+        "finalizationReward": 0,
+        "transactionFees": 75
+    },
+    "4Er4kQnaTP4XKNQUEk78tn2xHkdUWUUXxD3i8hVTsyS6cnfreU": {
+        "bakerReward": 9524703,
+        "finalizationReward": 0,
+        "transactionFees": 1017
+    },
+    "4EvFVd8Yc8c8DAcM3w5KbZsNooSgsiyY7htg5XEnp31Qw8kun8": {
+        "bakerReward": 106184,
+        "finalizationReward": 0,
+        "transactionFees": 9
+    },
+    "4FJGojRdFxdENBbRDGv3pgCMCX4MnKaL16iUxdvKZho8gg5ZEy": {
+        "bakerReward": 39150741,
+        "finalizationReward": 0,
+        "transactionFees": 4181
+    },
+    "4FQRDF8pMKrrm3MudRT7ZAPXR4SSVyYhtewh8ThhNWcnzp7uRc": {
+        "bakerReward": 12044086,
+        "finalizationReward": 0,
+        "transactionFees": 1286
+    },
+    "4FcyaDnfcvbLgi5B1Qtp9rxJdKdwzWPpRMehby28dfXMBVi7YJ": {
+        "bakerReward": 59885437,
+        "finalizationReward": 0,
+        "transactionFees": 4680
+    },
+    "4FdWeeAS67bcW1apNWb4egNEh586eqHK2wKUPJLsAyb6wF2DJy": {
+        "bakerReward": 5808313,
+        "finalizationReward": 0,
+        "transactionFees": 620
+    },
+    "4Fic4defacKC6TxtdoahwgkCNDhxWy4wRQpsAaNp5CQT4u9jz8": {
+        "bakerReward": 7646089,
+        "finalizationReward": 0,
+        "transactionFees": 816
+    },
+    "4FpoAMu91KVWqVenLqAxZo6vDiTKmE7EdjERFvfWWv6FC9Goon": {
+        "bakerReward": 3693345,
+        "finalizationReward": 0,
+        "transactionFees": 394
+    },
+    "4FqGuwU4Fh6asUu91XQURLNZ6FPetBPMhbWDEcNwR1kW5nB1wM": {
+        "bakerReward": 2715482,
+        "finalizationReward": 0,
+        "transactionFees": 246
+    },
+    "4GASgU51G8n7oiYNAtTbrb6vzU7Yc2HkeomCpDNuf2fKgJZZFU": {
+        "bakerReward": 14055429,
+        "finalizationReward": 0,
+        "transactionFees": 1501
+    },
+    "4GWrRPPnr39D86vz7CUoPyZkzsmoQ2VBBysqyAWciM3ry5vaMs": {
+        "bakerReward": 7758,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4GYp53AvAFfnFndzmveVNxU4agRZFQqFu6QFgUVkTgwRXZUpi5": {
+        "bakerReward": 142955467,
+        "finalizationReward": 0,
+        "transactionFees": 12972
+    },
+    "4GktwwfzRQaKAH1s8JzeJ9HCZ4banVGb99qzw9TWqSwAYhVS5H": {
+        "bakerReward": 9568,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4GrnfKR5MVVBHoHYAk1ZT5kknSJnVCN5vtUH3Pivf7mdZX7Uke": {
+        "bakerReward": 6336379,
+        "finalizationReward": 0,
+        "transactionFees": 676
+    },
+    "4H268yTSYUH389XCtKKtKsSPDo9KHYpcasgcQcyk53Wn8tDFJg": {
+        "bakerReward": 102221,
+        "finalizationReward": 0,
+        "transactionFees": 10
+    },
+    "4H2aC1PRFWxb43sURKBCqGoqT3AxRGi9xtD5TAbXQGUXjhC5HH": {
+        "bakerReward": 1433024420,
+        "finalizationReward": 0,
+        "transactionFees": 153054
+    },
+    "4H588FapUs1KBmkhJbd8QmgnwUahiQuxedAanaqgCHjkGPSjmL": {
+        "bakerReward": 7684,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4H6yBdtHmcX418GZwox2A2pPKHBdSWwAe5XXWQMPiLfp8GgA6F": {
+        "bakerReward": 52899524,
+        "finalizationReward": 0,
+        "transactionFees": 5649
+    },
+    "4H7npijnkmkSVpXSetKESn8Nac1BvNFpPw8LrdBET5UcDHGLK9": {
+        "bakerReward": 777780,
+        "finalizationReward": 0,
+        "transactionFees": 83
+    },
+    "4HBvjiGYtLEVEKA6hBUW1REiYfWqMtqLjvNZWjntwJkZdSkfp1": {
+        "bakerReward": 245650918,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4HDCQrduhiafcKVq6N7EG5Dp8uQ8HJLcPGn8s6nrEJtxHGktrK": {
+        "bakerReward": 20617819,
+        "finalizationReward": 0,
+        "transactionFees": 2202
+    },
+    "4HUsPLUKdFHYyCcuJutqsyJGYmSu9DKmZ1HsgjkPcYa5cKRgnb": {
+        "bakerReward": 6275,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4HcCrfKDwVuWBrMMXZWGzEwzdBZvc4oEK2U7fqMJi1P99sV999": {
+        "bakerReward": 302394073,
+        "finalizationReward": 0,
+        "transactionFees": 4614
+    },
+    "4Hjk6AC5xy8zhSpi7hfpREhVpqrPffULmrvZPUxygow7yrcp9V": {
+        "bakerReward": 10272142,
+        "finalizationReward": 0,
+        "transactionFees": 1097
+    },
+    "4J2H96D2pi28SeGh1PADMTPMtrp7e2GhGvW7zhJZpQxeWmU8Pr": {
+        "bakerReward": 448493,
+        "finalizationReward": 0,
+        "transactionFees": 6
+    },
+    "4J9RtPD13y64s7fTWVjaCQeB19ieZ3EzD2y76sW9CTuKK2F428": {
+        "bakerReward": 3195025,
+        "finalizationReward": 0,
+        "transactionFees": 41
+    },
+    "4JFv2cw7nhoJANLeA2cKNT1ryU8GsiAvLSLQnNwcirynP35Vyx": {
+        "bakerReward": 266161801,
+        "finalizationReward": 0,
+        "transactionFees": 24152
+    },
+    "4JG7grYgjAdnyA9nukGGU49ijmP1DKBQQGLppCMGW7BUSB2NnE": {
+        "bakerReward": 290598488,
+        "finalizationReward": 0,
+        "transactionFees": 10
+    },
+    "4JLh2ufKSTtXjuhvFhbS3rfqcnFrxRazw73JX8PtnyAn5FHyLV": {
+        "bakerReward": 24254837,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4JP3SAfcctBke8abyVyXLwAWuQZSy58ECHAbc4CD1i4wcc3nSe": {
+        "bakerReward": 18135,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "4JQw5J2wUkSLSsG7mWXk8cVJE3EV8DAWUQpDBy1WvJ6fu4xvcd": {
+        "bakerReward": 25213915,
+        "finalizationReward": 0,
+        "transactionFees": 2692
+    },
+    "4JXkALAuQM1bmrwzAT7DYEVBfhjBGMTVLKovNJDAMU1igWWVBk": {
+        "bakerReward": 24589,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "4JZ4HgsMg2dwS15HsvUhoub1MqHbKMbvi6B4kRyJsmoVr94JAi": {
+        "bakerReward": 307598364,
+        "finalizationReward": 0,
+        "transactionFees": 5376
+    },
+    "4JdYuUD7ggXpMtAKz1gBvA3Rp66Lmy8fnwxiXimdnc8Yy3VQqi": {
+        "bakerReward": 32455,
+        "finalizationReward": 0,
+        "transactionFees": 3
+    },
+    "4JhnZWwnBFGqsjaY5kvyiTUN6tHTMkuKYJ41vFZsEpah4kuF9T": {
+        "bakerReward": 128472,
+        "finalizationReward": 0,
+        "transactionFees": 11
+    },
+    "4Joq93xGMHZW8F9KT39rhpoyh394K1bLbUZzVkhukDLG5aiugh": {
+        "bakerReward": 135443,
+        "finalizationReward": 0,
+        "transactionFees": 14
+    },
+    "4JwYnN8NwfxUVgzZjNmHpmoSky7wKANoNdD5FHqCXEu3kieniG": {
+        "bakerReward": 10762,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "4K131fvpEYQmT6cp67ZZEquRPfuUKdkAnpmtMwEAeAJ6qmtvFC": {
+        "bakerReward": 1057167242,
+        "finalizationReward": 0,
+        "transactionFees": 82628
+    },
+    "4K3y7AvjoPEcc1egdVvifkXtqAywPtqgozsytFJ6AfykQxwkwZ": {
+        "bakerReward": 331967,
+        "finalizationReward": 0,
+        "transactionFees": 30
+    },
+    "4K8zULYRKmq1AmcLkEju6XbDYsp6RH6nqFuyg3MBRcfDQocpbh": {
+        "bakerReward": 4239456,
+        "finalizationReward": 0,
+        "transactionFees": 452
+    },
+    "4KLYN31GKVkQADZorNTJaNCrszD4AqayPPvtNnQmGWo1akPBVJ": {
+        "bakerReward": 29278317,
+        "finalizationReward": 0,
+        "transactionFees": 2167
+    },
+    "4KZ6tMTjRzpw6NAEDEGAMjMzYFdNR9E1yuTXzaxoQJ68zXxLX9": {
+        "bakerReward": 100198,
+        "finalizationReward": 0,
+        "transactionFees": 9
+    },
+    "4KZx22tjUof8DEUPwMNu22LXfNDyPmUM1xoB4zj5Q2sFQGMXGg": {
+        "bakerReward": 7155491,
+        "finalizationReward": 0,
+        "transactionFees": 764
+    },
+    "4Kjk268znPi72VAiFjrH7eMrEMqbuH72twtTvD3A43isDXbmdP": {
+        "bakerReward": 143263,
+        "finalizationReward": 0,
+        "transactionFees": 13
+    },
+    "4LMdAKYMZPxLrMyX5X5U2Kgd86nXiwoNM4ouAkHdtpMvz743RU": {
+        "bakerReward": 3070,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4LSXKTFDnNxEx5pvMV9Z6qbcFwi77ADKoXPMu54dWJobuAGWzu": {
+        "bakerReward": 4017792,
+        "finalizationReward": 0,
+        "transactionFees": 66
+    },
+    "4LVzXLGv9H7D4D4ynbeVnqKxG7tgdQjTvNHB2Hu5J1uSCQZthW": {
+        "bakerReward": 2374,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4LZiJnN9oq3qK1kXcGGF7PvjfZ7pyD9AmEik6aCTbkCojHFg6f": {
+        "bakerReward": 71535245,
+        "finalizationReward": 0,
+        "transactionFees": 1265
+    },
+    "4LmBtZLtmHt784X6z1btjQiDEWv1AjRmcfp5aKbeP1hqaxV5U2": {
+        "bakerReward": 789386218,
+        "finalizationReward": 0,
+        "transactionFees": 491965
+    },
+    "4Lrekq9M826Ffdc4RWEYVNWQYinV1nm8V9VbrmzB64MDi5UP4g": {
+        "bakerReward": 6674,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4Lt8wtMdVekPzPBy1UF1RUQQsXgE5yW6F5wj1zfTT6RprczYjw": {
+        "bakerReward": 293548503,
+        "finalizationReward": 0,
+        "transactionFees": 4876
+    },
+    "4LwaacKLRVkFEpfo7k15P4B4CguYrRTAmUCpzmoNM8jCPX39u1": {
+        "bakerReward": 10584133,
+        "finalizationReward": 0,
+        "transactionFees": 187
+    },
+    "4Lxb9JjDw3tGsyU4fDcjbTR74BGg9dFBPYc6r12TGgmEAWoNNv": {
+        "bakerReward": 726633,
+        "finalizationReward": 0,
+        "transactionFees": 11
+    },
+    "4MCzSiR2WkWvsLVsug6hQTCSKX3tUT3V1g2smmX4ohGYYZcUU4": {
+        "bakerReward": 113991,
+        "finalizationReward": 0,
+        "transactionFees": 10
+    },
+    "4MLtx6TDkezvHXpZ1UT6jcQXEv4nWyacyneXzevPSAQ7K8JjDA": {
+        "bakerReward": 710072786,
+        "finalizationReward": 0,
+        "transactionFees": 494821
+    },
+    "4MMhUB5PxWmaeidVwApzEYuZCxpQhsfrmc3YK3vCrjzhsaSJ78": {
+        "bakerReward": 2739,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4MP4keVe9AGnvuNWx234rJeGxFbNZ6Q5hfKh7FPeQcfhEjdYiZ": {
+        "bakerReward": 6477810,
+        "finalizationReward": 0,
+        "transactionFees": 84
+    },
+    "4MPJybKC9Kz7kw9KNyLHhuAEt4ZTxLsd3DBDbxtKdUiv4fXqVN": {
+        "bakerReward": 193829191634,
+        "finalizationReward": 11545503848,
+        "transactionFees": 29416865
+    },
+    "4MRLd7PeswSLXPHtC5e77wJnrQS7fo3wSa3CSxDpLaGw3rMyi2": {
+        "bakerReward": 5621,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4Mj2Jchdn9ED4q8SNdKY1UQxioXrQSzm2UkY1H4XkuvhwMzy6m": {
+        "bakerReward": 2146,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4Ms3nEDAjRWCkK3NP2r4VrjATfoGvEKQ9aPWW6MD4uczVBJ4Gp": {
+        "bakerReward": 30103185,
+        "finalizationReward": 0,
+        "transactionFees": 3215
+    },
+    "4Muska9BgaxNFmwmA8yJqBzLPvD4VwvPbbdPM4xKeoKYRndQ98": {
+        "bakerReward": 130062,
+        "finalizationReward": 0,
+        "transactionFees": 11
+    },
+    "4N1oX7SMkrQrih4VYa96tfy4s43KjTqJJ1NaMQE2MYGKFGn1R5": {
+        "bakerReward": 77749764,
+        "finalizationReward": 0,
+        "transactionFees": 8304
+    },
+    "4N2HjvwweE6u77YWbnRT8D4yipoiA9AormgkRitPKBZ8C3XYy1": {
+        "bakerReward": 211845356,
+        "finalizationReward": 0,
+        "transactionFees": 19223
+    },
+    "4N4szGbMGcxFLGFpssdKiyq1PPrvrY8NYUTmtQCy6Z4Fne2veq": {
+        "bakerReward": 2152581,
+        "finalizationReward": 0,
+        "transactionFees": 229
+    },
+    "4NKBzQGWQyVduaAmVnKYEBHxXhQmHdvW2KXVoYSEvB5s9zFYd1": {
+        "bakerReward": 119922078,
+        "finalizationReward": 0,
+        "transactionFees": 10882
+    },
+    "4NRwj3LMsuRpejFUPiduqCf4LUudf21HAg1SrVhNtWjUGV1khL": {
+        "bakerReward": 494377,
+        "finalizationReward": 0,
+        "transactionFees": 7
+    },
+    "4NWrUhoZH2T31iZaSJh3qhJev856f4mQD43U34ThRw79pAkG9J": {
+        "bakerReward": 8055092,
+        "finalizationReward": 0,
+        "transactionFees": 860
+    },
+    "4NYdZEUomhK51VUmQ5whosUNDTEiTJrEqopDoGQwE9pDwWZgaT": {
+        "bakerReward": 1481615,
+        "finalizationReward": 0,
+        "transactionFees": 22
+    },
+    "4NkXvPKZMTR4zuytPEeWghvyzrRxKXA3jYtuj12meXavvF2SR3": {
+        "bakerReward": 2719974,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4NmrnxpPCHGvKcMZVuMq1HYiUbHkvWHqXiDRXLa8SSSErg4dTk": {
+        "bakerReward": 108111613,
+        "finalizationReward": 0,
+        "transactionFees": 75336
+    },
+    "4NtyM1E1CE5iAuhwRRnc3rshBQejiW6WrSW6QhxyKY8qX9UV4f": {
+        "bakerReward": 129607,
+        "finalizationReward": 0,
+        "transactionFees": 11
+    },
+    "4NxZwgANWJcULXyEqbD6GQ3LWGpbZkbGU9kuJgFjjuQTYpvtwZ": {
+        "bakerReward": 34672,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "4NzfH65vSzxFrezFwCmDma4qEARYakWxDqxzur8ZYnbuiWWtY9": {
+        "bakerReward": 6275,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4P1qhyehXTQEB4mY7VknBHvuLW3RqW89MCoPrnjA5BWAtnokQd": {
+        "bakerReward": 72863,
+        "finalizationReward": 0,
+        "transactionFees": 7
+    },
+    "4P6SjEYAPpecsH4WuQEv5Dee7qqwUsK4ZpbqQJg2aN8YQ5EDn8": {
+        "bakerReward": 3862501,
+        "finalizationReward": 0,
+        "transactionFees": 350
+    },
+    "4P9gJET9yZVjz4Qi6a4DmWpsMn8yWtrtF5g1e7KXKrGaGGe5H8": {
+        "bakerReward": 47316,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4PNbMGXPNb1X8DJN9fzvQYxxV85Uf7s4tBA23LJJa63jabt8Qd": {
+        "bakerReward": 87359195,
+        "finalizationReward": 0,
+        "transactionFees": 1451
+    },
+    "4PPPFC73ty1p32Juif8Q1EBuD5XzpwmCGhpQYvrbzs5VWGb8WH": {
+        "bakerReward": 15938,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "4PWHQ2w2xQuMFwFsuKVt7a3wLZ3iGSWZpM4wisTUTWpxCNb6Aa": {
+        "bakerReward": 370839,
+        "finalizationReward": 0,
+        "transactionFees": 39
+    },
+    "4PZ5bwEcihgLPnDjbXDwwagknmZab2T8z7o6cDxrscTb1NwcH9": {
+        "bakerReward": 3205619,
+        "finalizationReward": 0,
+        "transactionFees": 342
+    },
+    "4PhHrnbPW4MKYCgAU8V2QVhg1NnMoH1HyjBkVKfGmVPtpgM75Z": {
+        "bakerReward": 7838341,
+        "finalizationReward": 0,
+        "transactionFees": 837
+    },
+    "4PhPYp5Vd93rq9fghxeA8SgDaE8nJTktErvwTZBmtYxQjWaD3y": {
+        "bakerReward": 167805,
+        "finalizationReward": 0,
+        "transactionFees": 15
+    },
+    "4Py6nA7BbXvSfVD2ju9aG1tqw5oEX66w8PL1xJPP78id8gw5ac": {
+        "bakerReward": 3487181858,
+        "finalizationReward": 264473425,
+        "transactionFees": 776131
+    },
+    "4Q6hByYnpTd2oLgxZeWG1x5XboPoPw2TApFMpzJeKfc5MRhTUQ": {
+        "bakerReward": 4262744,
+        "finalizationReward": 0,
+        "transactionFees": 333
+    },
+    "4Q7gEWsXYKJMp85BHK6w8yUxc4QGoepAJbyKCMVaQn2pixqGid": {
+        "bakerReward": 21816271,
+        "finalizationReward": 0,
+        "transactionFees": 2330
+    },
+    "4Q8khCruL2WCsGssyFR6i73vyVQtdTYfyuyJUUokHG7M96xTuh": {
+        "bakerReward": 4075754,
+        "finalizationReward": 0,
+        "transactionFees": 435
+    },
+    "4QNixJR7gTr9aebWUTd5KLGKAyA6A1MDva5WUiFGDWuRdEHirk": {
+        "bakerReward": 5741096,
+        "finalizationReward": 0,
+        "transactionFees": 87
+    },
+    "4QV89CZ4oUqAG2FuDEUkK9o4HzBRWZWR8KfHBiidiKUoXGmSF1": {
+        "bakerReward": 413568,
+        "finalizationReward": 0,
+        "transactionFees": 44
+    },
+    "4QfDnsZB5EEpdJp9aiaiELwNR7YjQJobrwvB3p28bxv4o7WxoM": {
+        "bakerReward": 153331,
+        "finalizationReward": 0,
+        "transactionFees": 16
+    },
+    "4QhdAyofhufMDACBgRGJcP1S5RxZRc4LgRngF9QSaVtZSS89uJ": {
+        "bakerReward": 1452966963,
+        "finalizationReward": 0,
+        "transactionFees": 4008
+    },
+    "4QhtKL45g1pzSqvmfHXip4genSmZnZyNvEzKx8MS7gABpWCfa3": {
+        "bakerReward": 16521,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "4Qi2E8ht41LyBpxpvAKDSbef6UuBeZuoUv7fv7tLJjFVaaem7p": {
+        "bakerReward": 35570329,
+        "finalizationReward": 0,
+        "transactionFees": 621
+    },
+    "4QqF7yGAd1KDBezzC1WST13dkeRTSJyYJejNVDhmM7BY4vQSfX": {
+        "bakerReward": 154683,
+        "finalizationReward": 0,
+        "transactionFees": 14
+    },
+    "4R8zub9tLig8CmzAaKg7SRXTzyov4Kqa3oJedV2pzSyoRJdCWs": {
+        "bakerReward": 11318003,
+        "finalizationReward": 0,
+        "transactionFees": 188
+    },
+    "4R92osdy4H6tNwQxkL4yju11LL6AQ1ng3KFbCmZgRXdNbEPUhk": {
+        "bakerReward": 5395,
+        "finalizationReward": 0,
+        "transactionFees": 3
+    },
+    "4R98jdfQuiS714bED7RWNi3fXp9WjFbQH8Fx2HTQFvBfP1FP6C": {
+        "bakerReward": 108526,
+        "finalizationReward": 0,
+        "transactionFees": 9
+    },
+    "4RCx9YFrmYABsp1BqSfX3epfeYH5N2zWPQ1C3ZfFkCnR1kXQyf": {
+        "bakerReward": 52905894,
+        "finalizationReward": 0,
+        "transactionFees": 4800
+    },
+    "4RGYbEZDyojkd9HucqWgV9XAnFHPMLcmEeQmg4aWW39wqbsSTf": {
+        "bakerReward": 1370190,
+        "finalizationReward": 0,
+        "transactionFees": 146
+    },
+    "4RQF9NWoyfGtxetTZUzPJDuiP3DxkD4KWbRszJ1MgUf6VNkbVb": {
+        "bakerReward": 520756,
+        "finalizationReward": 0,
+        "transactionFees": 47
+    },
+    "4RSfAkR7GrXNt37GsszSQXdrTF4FYExcj9HmsopkFp8KV4kBAq": {
+        "bakerReward": 582167,
+        "finalizationReward": 0,
+        "transactionFees": 8
+    },
+    "4RY9BpaiaMBQ7cWCxvWCwLsHcCxfy2e8nRjpbc77WuNoKFaGnD": {
+        "bakerReward": 10243,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4Ras4xAx3zSo3gBC3ktzNSz81D51ugQbUurMYPAEj1se51ARLj": {
+        "bakerReward": 2323705582,
+        "finalizationReward": 0,
+        "transactionFees": 75093
+    },
+    "4Rbbtr9RkfR7GR28k1ih1SxX8sVu4MPBNTGP8kCJF5YMyuhRgV": {
+        "bakerReward": 5311933,
+        "finalizationReward": 0,
+        "transactionFees": 567
+    },
+    "4RdU4SqoTjop3rMR8WdcVt7aGNXNB3uiAFn52Em66vaSuapmx1": {
+        "bakerReward": 1965049,
+        "finalizationReward": 0,
+        "transactionFees": 145
+    },
+    "4RhgJ8peug8ad1uzPLuxD9PekHTeo6ttEZnE7CJvh5tYyoWmHw": {
+        "bakerReward": 409861,
+        "finalizationReward": 0,
+        "transactionFees": 37
+    },
+    "4RirT77xApf2hLe8SMFSLu73DefSx6yDUvwQcfs8FCKHcZz9vg": {
+        "bakerReward": 126647208,
+        "finalizationReward": 0,
+        "transactionFees": 11492
+    },
+    "4RpgwbjnZ84g6obTJTgAHCJRgVjdp7bktrRT6TpwDvU5Azeu6P": {
+        "bakerReward": 483312,
+        "finalizationReward": 0,
+        "transactionFees": 43
+    },
+    "4RweV5Cf3U1YqcjSBqjw8s2iNR4AAvSnmPHJQ2276LbkaZezWa": {
+        "bakerReward": 12808,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "4S2qnFLa5YC3ANuGe6N9W5LB8b6AYzttF1aZwjhrvJnDezXDVZ": {
+        "bakerReward": 7466,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4S4n49haJbLWfz5StV1xCczNaUywgNzkWKykxsr1MRNmCim7iZ": {
+        "bakerReward": 1866848750,
+        "finalizationReward": 0,
+        "transactionFees": 169404
+    },
+    "4SNrCP6eDXaDneyXaDEhTVLb6feVL7ojWdpEuZ5ipiRpsGibHL": {
+        "bakerReward": 2138789,
+        "finalizationReward": 0,
+        "transactionFees": 32
+    },
+    "4SeT6EftLgCtWEDaaRQ2HVbuhXqS4T6HeuQ2XTrCCN7JTMsa6y": {
+        "bakerReward": 6713,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4Su4TWJFFUk8yURn84b5MK8D4jnUdEG57z4ebgZXSRJbfwdNV1": {
+        "bakerReward": 407721,
+        "finalizationReward": 0,
+        "transactionFees": 6
+    },
+    "4T22DsgfE4UEAjdQwVzkwGBnAnrMDE5TPiD1wNpuiX7TKiZwuj": {
+        "bakerReward": 6814852,
+        "finalizationReward": 0,
+        "transactionFees": 727
+    },
+    "4TAHfyk2dngyPCZ2mXd4cu1DPbhhhjLLN7c4zY1nXrcutxL7Gt": {
+        "bakerReward": 290598488,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4TCBZnc7GJ4yWYTDDJA16UvmumWLm4MvnpRr6QNdChGSN9P1Ws": {
+        "bakerReward": 58497811,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4TCLDjKoLxr7AWEbAZaHQg1xdqckwXdT3iCqywVfXcF2o36T5U": {
+        "bakerReward": 1902020,
+        "finalizationReward": 0,
+        "transactionFees": 29
+    },
+    "4TJQHk2eBUU8GdFcBRzGXTxt2St5LPZ5T9QBpXVXgTMeLMJYxz": {
+        "bakerReward": 3622,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4TKg9GmWyzDVo6pro7me2C3cvW5JFNFofnp3tbU6stXHzYJGJD": {
+        "bakerReward": 659094,
+        "finalizationReward": 0,
+        "transactionFees": 51
+    },
+    "4TP2NnLpSLy16CW13GJts46eMQGmMso6f8h65zKKaGDz9smr2b": {
+        "bakerReward": 14940039,
+        "finalizationReward": 0,
+        "transactionFees": 1595
+    },
+    "4TSZG5wPCYTJTUq6ZfQFNbJkPeSrDxPnnYkn2yG8FYUG6ZhPN9": {
+        "bakerReward": 3474,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4TtjZuJd5SkGhcu7BiRFaTeguyeU4N9LMGqSuoPvqzgt3bUkxi": {
+        "bakerReward": 15555,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "4ULZ64Po62trM62gzQer1g2EgJhH15gYNqCskKUYBCUgBsfNsX": {
+        "bakerReward": 3619,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4UMTaqVABLLcm4oLQyfPjdWAcxdx62fsmGQa1cDwrZBma7jpRh": {
+        "bakerReward": 12641773,
+        "finalizationReward": 0,
+        "transactionFees": 223
+    },
+    "4UnBDsA4SDzdheDq5aqJytRfgyvJkRciNR62somdfeWUu9jiYX": {
+        "bakerReward": 6275,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4UnDZLr6XZmznovNEAQ1MuuWVXLePL7kk1fnH6XssC6cmW5A8D": {
+        "bakerReward": 13086149,
+        "finalizationReward": 0,
+        "transactionFees": 1397
+    },
+    "4UqPwQ9WB2whDNzMfUySFFgXw1x3WENugWk8R2qncmvyiZLFEL": {
+        "bakerReward": 2739,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4UqygabcoXNuzwjq1tbxW89nZY78FZN4LBLq1NHMvX2LacxAEU": {
+        "bakerReward": 590447,
+        "finalizationReward": 0,
+        "transactionFees": 63
+    },
+    "4V5UAk77H9MWViDMkWw2Jqn7khYm39xN7uPjAVYyEwiCdwpUBC": {
+        "bakerReward": 6386645,
+        "finalizationReward": 0,
+        "transactionFees": 4450
+    },
+    "4V5jS1kzK7zC8WoWaDgzWVmjQiJFDd1ErHYxsyBbyFnXydKcaC": {
+        "bakerReward": 509823,
+        "finalizationReward": 0,
+        "transactionFees": 36
+    },
+    "4VRwtCBXRkoZ55cNcc8FdywSHHu49WDjhgZLVnhmooqj2Zbm2o": {
+        "bakerReward": 6275,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4VVHgHPxgf5GjQLVi3YqwftQT7ffP5S85m8ACkrXWTdioZ2vMD": {
+        "bakerReward": 18084075,
+        "finalizationReward": 0,
+        "transactionFees": 1931
+    },
+    "4VYiSeL1zgVqY4Svrcjy6Ak63n1gGRTZQjbwoywurhXaqAB5Fo": {
+        "bakerReward": 455438991,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4VYm2qx7dViwhqobzznLBM4oeixZxDmWZ6pYCckczXePJ4ZvdZ": {
+        "bakerReward": 196735176516,
+        "finalizationReward": 11891757287,
+        "transactionFees": 25381278
+    },
+    "4VksTuwefYdrKYSReFvrWbvL5urzLjKfNAxwapKUF2R2PuQiJ8": {
+        "bakerReward": 111909,
+        "finalizationReward": 0,
+        "transactionFees": 10
+    },
+    "4VsJj1qe2Ur8qMw91AX8Runu7yhDfkdHAkZWK9jDRavHpd9PvX": {
+        "bakerReward": 12242639,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4VvieFqSFwr4cbSv17aJKEDiFHVc8EXNVM1znbPDtS6cmNcXUf": {
+        "bakerReward": 6905,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4W2tvBuZ2VTjdCMovxtNzx8rEUmrVWT9gyGNu8XcxGwDtMvrDT": {
+        "bakerReward": 2592,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4W9NLsMndmUqEcbefKmB1GbPHpACJJjayRM5G6SDF3CWJBZkhz": {
+        "bakerReward": 4257379,
+        "finalizationReward": 0,
+        "transactionFees": 332
+    },
+    "4W9U4hgHF5wm6FZCcsRVyntY34n2WsY1hgHcxvpj18RvSaC1eV": {
+        "bakerReward": 989366,
+        "finalizationReward": 0,
+        "transactionFees": 89
+    },
+    "4WCZfRHunBkFqu85jcNhVbcBw5riTmcxoUAm8dVo1zTUWSzpkq": {
+        "bakerReward": 10307106,
+        "finalizationReward": 0,
+        "transactionFees": 1100
+    },
+    "4WH48D5PAPbmqQj5eMkpJy45v5yYxcJwgCXjWd6C5aogfkC9MM": {
+        "bakerReward": 2272998,
+        "finalizationReward": 0,
+        "transactionFees": 242
+    },
+    "4WJBVQhwS1fhf9nDRfG51rcgj7gFFDTC55rY5K4m3eAy61idpx": {
+        "bakerReward": 4406220,
+        "finalizationReward": 0,
+        "transactionFees": 470
+    },
+    "4WJY7NfgnJbSD9h4PBy8q3y4gsggr5uwytXm6mVFWKeRbJ3335": {
+        "bakerReward": 1838240,
+        "finalizationReward": 0,
+        "transactionFees": 28
+    },
+    "4WUem5VFRUxbK4tesgYf82jer4XAJrFu4xHFFg9KdbL1vGPLfP": {
+        "bakerReward": 3627662,
+        "finalizationReward": 0,
+        "transactionFees": 387
+    },
+    "4WXTVzDeuyys7wiFrCBkPpu9MhDazz7fTTHwZvzwpnANuGaAKE": {
+        "bakerReward": 127043040,
+        "finalizationReward": 0,
+        "transactionFees": 13568
+    },
+    "4WkgyxDmQRBqCpyKBBrjspReb5ZxN7TQ6rm7yhHSNoeJmD1jwo": {
+        "bakerReward": 2303636,
+        "finalizationReward": 0,
+        "transactionFees": 35
+    },
+    "4WmMPXwRSRhsJi2XZD225xWEEUkmaL1iK4PReSLMJ6zKmum27X": {
+        "bakerReward": 1296656,
+        "finalizationReward": 0,
+        "transactionFees": 138
+    },
+    "4Wrd8Q7QHqeK9daYi95UP5QT8MHSvzoH5msVsfktF2RT9Z3LFk": {
+        "bakerReward": 3887037,
+        "finalizationReward": 0,
+        "transactionFees": 64
+    },
+    "4WsWsF83SMwv4tTikBPAMdJWg2HfG4R7fPvuaA8KDx6PHVGeUg": {
+        "bakerReward": 121018,
+        "finalizationReward": 0,
+        "transactionFees": 10
+    },
+    "4Wt2m957qQXhAscWqWq9C9Lp3wfSRQoB5jCmPKNg6oxpfFx5gi": {
+        "bakerReward": 3757221,
+        "finalizationReward": 0,
+        "transactionFees": 401
+    },
+    "4X2LeviTjyK7M6jyuHado2FmHr27d1xRPdkZPU6iSEVDbk3MM1": {
+        "bakerReward": 12955,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "4XCeDz4Czm2d4hqEcdNL2FViV8yK32X4ETH4VMtotY31kRhx94": {
+        "bakerReward": 20655,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "4XP6Nk37B7VhJo3BZd9wRG8Q8dYprKEtYvRHQA615Spm3UdHou": {
+        "bakerReward": 23298628,
+        "finalizationReward": 0,
+        "transactionFees": 1821
+    },
+    "4XfDxQMmB6MewTF6zsqyFUcKUbCD4YkAvVKzHehsUYxQL6Z2MG": {
+        "bakerReward": 134700161,
+        "finalizationReward": 0,
+        "transactionFees": 2237
+    },
+    "4Xh3Zz2b7fadvYaWu7Wc24gWsMCohdi3FLBmk1vDNKr4aLHToi": {
+        "bakerReward": 161123367,
+        "finalizationReward": 0,
+        "transactionFees": 17208
+    },
+    "4XrWuDridR7oYAdECLJkEFv1NUysE6xtNsCVCgijPcPBiuXEg3": {
+        "bakerReward": 1673,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4XytBS3u7DjKQ999VS1vxGh79FQDWR5sdfY6b5hiUTeNVgs8K7": {
+        "bakerReward": 8936,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4Y4c8R4XhxipUc3yETvoFRV8UUa57VYfqch5zECFz2PewLJCCg": {
+        "bakerReward": 107965249,
+        "finalizationReward": 0,
+        "transactionFees": 11531
+    },
+    "4Y8cvvNajZ5dDpm2tqzC475RvMYJFX8AHJFWDbWySrguSMB9Bm": {
+        "bakerReward": 275279,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4YAHz1DW3vh5ggQXgEBob8JTFrMjMeaswsuFDBb51F6CvrfWvC": {
+        "bakerReward": 89523601,
+        "finalizationReward": 0,
+        "transactionFees": 9561
+    },
+    "4YMAfdMBpZFhAddz6Gskj5h9bcTPh8Qv7yp84ouC7pyiKJo2qZ": {
+        "bakerReward": 22711201,
+        "finalizationReward": 0,
+        "transactionFees": 2425
+    },
+    "4YPdn2qAbrp5WPMLuTnQx8wrrSqNfmW9TaC1GusLJkjyAgViQU": {
+        "bakerReward": 6275,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4YWdGN5MUbJoxoWw28u2gtsDRrAZ8j659eTBnjpmsMUVFrDFdG": {
+        "bakerReward": 3231234,
+        "finalizationReward": 0,
+        "transactionFees": 345
+    },
+    "4YikXnPLmCix4boKnKL4BXmgmKxXwEJ6DPpDiCDmfsQp2ANjSa": {
+        "bakerReward": 291974,
+        "finalizationReward": 0,
+        "transactionFees": 26
+    },
+    "4Yk2WSLvJPWY4weD4itSmM2G7c5bqgf5XYAQ9FN4HeoMh17tMw": {
+        "bakerReward": 3550624,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4Yr9tSE9sEMT574EP28DzGeFN7HG1VGuKgsTXUygmBRPQvQ1Rt": {
+        "bakerReward": 25478,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4YsuH4zBpBMsTNqabZQv8AxXmGCVTCYTU8nZgtReN6L5oVMPYa": {
+        "bakerReward": 82764585023,
+        "finalizationReward": 4653009984,
+        "transactionFees": 17684735
+    },
+    "4YvRuzb1Hu3mL6NwNpc79oeBdp9uCYqVMMu4D8AaEpS9kgKEck": {
+        "bakerReward": 24496,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "4Z3AhiTFgpUxda6v2fSXcq73KpmDmRu1MqSiGuoy2Qea51RJn4": {
+        "bakerReward": 170683,
+        "finalizationReward": 0,
+        "transactionFees": 15
+    },
+    "4ZM4rmHztAkVMWVzCSvxckwxUSsAd5Sas1mbBenNpreePRYd6h": {
+        "bakerReward": 3777780346,
+        "finalizationReward": 235430442,
+        "transactionFees": 31932
+    },
+    "4ZSFJc69tfiudHhZ212PEDyPSDmbpQ8pDLYjNsG9zNFTY7DCWd": {
+        "bakerReward": 10259530,
+        "finalizationReward": 0,
+        "transactionFees": 1095
+    },
+    "4ZZsLm3T1oTsPhfqvPS9gseQ1NGUbjGmM8kdQnViSBwmZoepnd": {
+        "bakerReward": 220071,
+        "finalizationReward": 0,
+        "transactionFees": 23
+    },
+    "4ZekavJTJbxYxo5B1Dq1Phq9r7fo4KUGy7aRoCoxjRkhhE3aYg": {
+        "bakerReward": 48264380,
+        "finalizationReward": 0,
+        "transactionFees": 4379
+    },
+    "4ZgyrHudwah1jgASHo6UVE2pDik5eW1kuAPXazXcfouiEGAgX7": {
+        "bakerReward": 11565726,
+        "finalizationReward": 0,
+        "transactionFees": 1235
+    },
+    "4Zq5TJCQxuXC78C1P19bYWLnFJtLk9UCDGmWAeBxeECcY7XdNa": {
+        "bakerReward": 31985364,
+        "finalizationReward": 0,
+        "transactionFees": 3416
+    },
+    "4a1vjh5bTKCUYjBVTHRbwK9NDeEgaxUy431gM5GSeN2Nqwsk9N": {
+        "bakerReward": 15784752,
+        "finalizationReward": 0,
+        "transactionFees": 1685
+    },
+    "4aAAvPdzdiWPP4tGccKMU9LXHWtGeSray3oYjAnUeqy5mfFv2E": {
+        "bakerReward": 3107,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4aAWHtg5yEbkXejambmb4PdUrokZvFAv9czvnfSSzmbXqBczRq": {
+        "bakerReward": 115423,
+        "finalizationReward": 0,
+        "transactionFees": 10
+    },
+    "4aAcyVNdKyvkmrqaut7p6GMGkFbS59mLeDAvkes18VcEywi1fP": {
+        "bakerReward": 2039147,
+        "finalizationReward": 0,
+        "transactionFees": 159
+    },
+    "4aLZNqgmdM1N5JJRd9h88idXypPbri6odXR9rMEuD7VQxTeGvv": {
+        "bakerReward": 105196652731,
+        "finalizationReward": 6534346996,
+        "transactionFees": 17200388
+    },
+    "4aNi7mMUaPPnLWdgUbA9SdckMC1rC9VRawomAZM9vav9nBdj86": {
+        "bakerReward": 229224701,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4aSFzF8um5TuFnFukXiJJZ4y1a9SYFCCmiTGxNvwGbeP71tJRU": {
+        "bakerReward": 17396311,
+        "finalizationReward": 0,
+        "transactionFees": 12122
+    },
+    "4aSpzEBQ6X2yg7jfAXkVmiUcTeoAKR6mFKe9qfSxAyBvjowVGp": {
+        "bakerReward": 10466983,
+        "finalizationReward": 0,
+        "transactionFees": 185
+    },
+    "4aUGQ2zFvM1HnmoVZwF1Bx5kSwwk7MXDNKNo3AwhCZZRV8WPtc": {
+        "bakerReward": 5997493,
+        "finalizationReward": 0,
+        "transactionFees": 468
+    },
+    "4aWhscFug2n4uGR5YT4LQVDKojB5FQugV6D5Xhtn7HFMi2Pi56": {
+        "bakerReward": 6533472,
+        "finalizationReward": 0,
+        "transactionFees": 510
+    },
+    "4ac6svh9FbBvot8Q8bqRmfPnXCcy2h4fPUgrzENquNfzqGwFsG": {
+        "bakerReward": 2146,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4ad6b6gHXbJcyfPHDdykfCuBQXE1K2PJ3vTmnfTWLZCtJ2Ujmy": {
+        "bakerReward": 46096,
+        "finalizationReward": 0,
+        "transactionFees": 4
+    },
+    "4ap24mbt6cr9LwSEpXeTC53bZHJMXzvvdx875FcD6NMxUpcACt": {
+        "bakerReward": 293944446,
+        "finalizationReward": 0,
+        "transactionFees": 4485
+    },
+    "4aq6XnzQeKoYFnDowePKgpbPYmFRXxW1shraZWexDQHDdvBMcq": {
+        "bakerReward": 15231718,
+        "finalizationReward": 0,
+        "transactionFees": 1626
+    },
+    "4arUwWcQcdhcSWSpiLYBx3jyqpkYuCPJjmvj6gWvny7tYD1iYQ": {
+        "bakerReward": 2811085,
+        "finalizationReward": 0,
+        "transactionFees": 300
+    },
+    "4b3VaUn4VrevtYkhEzpmnsgBnUF2YLjHaWWgik7pTXsbyJJ1CZ": {
+        "bakerReward": 1343408,
+        "finalizationReward": 0,
+        "transactionFees": 143
+    },
+    "4b6yfdpigMarPXTtth4khNdubVHuUypSXXMm9LF38zGbm49VZZ": {
+        "bakerReward": 917031,
+        "finalizationReward": 0,
+        "transactionFees": 97
+    },
+    "4bAXQYLSeBxDue3psqv8orRMfT5Zx87Uw8jU1qe1ZtwSCnGSX8": {
+        "bakerReward": 61125561,
+        "finalizationReward": 0,
+        "transactionFees": 1015
+    },
+    "4bE9mxSoZbL8Wx7LR6M7HDxErRuYJPLiJRhH7Y6BdRajY65Ab4": {
+        "bakerReward": 15333,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "4bEqdbhvMbcktqhQsiuaRA46ZEe7o8PNTuGj5KhwYhStcgbGde": {
+        "bakerReward": 9004552297,
+        "finalizationReward": 360030208,
+        "transactionFees": 56373
+    },
+    "4bKwY1Em8rvWpNdx5zkng9gpsLAfq7zYvquHQjSLMHhTT1HCg7": {
+        "bakerReward": 104284307,
+        "finalizationReward": 0,
+        "transactionFees": 9463
+    },
+    "4bZNCXkRjTWByYAYYX69ayB3iN1EK2D7mCqXZzb5o5H7DtzGcY": {
+        "bakerReward": 2739,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4bfqSB5kd1Va8fsXLdj8xhmFi5PJVNeKS87eY6oFJEov7fLY9J": {
+        "bakerReward": 18464168,
+        "finalizationReward": 0,
+        "transactionFees": 306
+    },
+    "4boi6JFLKbDam6TepaVSaq6mPjC64uWT3hAhtChMU74JkBMSnT": {
+        "bakerReward": 8596923,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4buWTixpDy91SsNegq34jHB5cDrfszjcJEGu5rycWgUcdmCx1h": {
+        "bakerReward": 2014859,
+        "finalizationReward": 0,
+        "transactionFees": 33
+    },
+    "4c9hyhy2c2nfh8GWyCKo3Rbcdjh5crH3g981ZhFpJYJsKGd4GS": {
+        "bakerReward": 147207,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "4cMZa8ASimPgx4Fb4rJJp9ektwoWSAd8y84Th5oT9bLBh8xgHU": {
+        "bakerReward": 41975055,
+        "finalizationReward": 0,
+        "transactionFees": 3280
+    },
+    "4cT6UwkfTiHqFPG2veXfPiyeoeo5gWCTUii58EQpdqCgGKqZqk": {
+        "bakerReward": 10435,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4cajGZ2dTM7XMbPXuVQyqYV9mPjN3c1hhQshP1PjHZjxY5PxnU": {
+        "bakerReward": 20453345,
+        "finalizationReward": 0,
+        "transactionFees": 1856
+    },
+    "4cbTBqv5X6VMySVTBvNTrv6XSnRynuwqYN7P9pNuHXpfzfUVcf": {
+        "bakerReward": 10364,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "4cbc9tb2vV4YwFuvRj4VsnCUXp3pfy9d8cubdC4XKFYd2NgQt2": {
+        "bakerReward": 298247462,
+        "finalizationReward": 0,
+        "transactionFees": 4551
+    },
+    "4ci6Kkj4TUzFg8HgbU37j91cDqLrbBRkXUobW4UDYsf4gCuQ5a": {
+        "bakerReward": 7206037,
+        "finalizationReward": 0,
+        "transactionFees": 769
+    },
+    "4cjmY9xvmCNCbFAx3je4HhkDeUyYXngrBV1QmYJNPJEMz284zJ": {
+        "bakerReward": 131082,
+        "finalizationReward": 0,
+        "transactionFees": 11
+    },
+    "4cptmQbfj2hcudEdXzTmt9hCzCySPxEpMoF4nj7qfqJfWNFmdu": {
+        "bakerReward": 290587234,
+        "finalizationReward": 0,
+        "transactionFees": 32
+    },
+    "4cyR5oLzy4gNwkHGf5WnUDcZ4wPWeaqCJxC9eHkwYPXGRZyLFj": {
+        "bakerReward": 23897,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "4d13WVDNKVGDUxRUb1PRQAJyTwWSVcjWS7uwZ1oqmDm5icQEPT": {
+        "bakerReward": 215624078249,
+        "finalizationReward": 13620801530,
+        "transactionFees": 18123541
+    },
+    "4dA4PKxaVh3EFjaVLtW6rDbg7jBikZoeJr6FGwPg8TRPMoghkn": {
+        "bakerReward": 2736,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4dJpZ4sR7pRCdMynbetriKRaSDjv3Nujj3xd3tB6w8QafNgqvg": {
+        "bakerReward": 6265,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4dMoytz44gem1o2mavKDm16JtU2fyWLcakTfTwneuJh9wDo6X4": {
+        "bakerReward": 1378,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4dWLFbmBXbhNRNR9DGYpYcqq9Mo9TH1hbDLa2kybZbGEb6gcj4": {
+        "bakerReward": 6275,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4dY19ZEDsQz5e1Pr1mgAKd6edFKgFGpLhtGP6G3AajNqkYgyx6": {
+        "bakerReward": 3163096,
+        "finalizationReward": 0,
+        "transactionFees": 287
+    },
+    "4ddPRox4iVYc9qz1g9ECpKX75sohVUvDSUhS9Eq4LdTkPU1vox": {
+        "bakerReward": 138519,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "4e7sTQ1LBMFVS18SJrSH4BFBn4K3bzUf3ds8H1Q7gBUxJSx9Mo": {
+        "bakerReward": 50538003,
+        "finalizationReward": 0,
+        "transactionFees": 5397
+    },
+    "4eARZcdGRfUJLykk6GKHJaaqerUELqXUHCvpdcc4yHvSCBno3x": {
+        "bakerReward": 3487181858,
+        "finalizationReward": 0,
+        "transactionFees": 172
+    },
+    "4eAnGFDYEaohH15k9K59xpVKqGEw4hEJ5HsPMgaVsfYjPUZURU": {
+        "bakerReward": 3488,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4eJJvvYu73U65774WkRNznMvjvGEM57VT3c5aMSuJMEhN7w7zp": {
+        "bakerReward": 51765042,
+        "finalizationReward": 0,
+        "transactionFees": 4697
+    },
+    "4eMXpkMfzsRCyGeATwxfw4RbgYXM75wmHaXsmQJyFVBnXNiRRB": {
+        "bakerReward": 3066,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4eiwThYECgHmX826tVi6oXexKsMEzJaL3JbyVkG6XHnoY2f5LT": {
+        "bakerReward": 12833133,
+        "finalizationReward": 0,
+        "transactionFees": 1370
+    },
+    "4euYRCg8Qjhb3fyf9dDbBpofn9yuYXA8S51Nd1hVFJNWEb1ZTz": {
+        "bakerReward": 2736,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4ezgXZJMFYFpqUrCc5tjLKVUUtmoCcqEMp92BT9xm9FPTwXfgk": {
+        "bakerReward": 97720,
+        "finalizationReward": 0,
+        "transactionFees": 60
+    },
+    "4ezonatLrqrSjw3RshZNK41AzhnRyHEVWmw7TS8us8yMnKPyp4": {
+        "bakerReward": 313408,
+        "finalizationReward": 0,
+        "transactionFees": 28
+    },
+    "4f66oa7yUMgB4GresVD82ZnZjn8YP9iNbvnHAxtZNKQMEuJro8": {
+        "bakerReward": 15558,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "4fCSURobuDYAec3dJCSZ2b263cQsSrfM5FGs19hZUMJgXFgWns": {
+        "bakerReward": 7161368,
+        "finalizationReward": 0,
+        "transactionFees": 764
+    },
+    "4fDjqVbhs51oCbpLAsWCBUv5bZ1JNEYNUUCwhAkDUqkqVjt1Vv": {
+        "bakerReward": 2607033,
+        "finalizationReward": 0,
+        "transactionFees": 278
+    },
+    "4fMtmAQyacpbxYcJTbbVwGoVuFj3JnwE245QR4LsXvLjuPbPGV": {
+        "bakerReward": 9150196,
+        "finalizationReward": 0,
+        "transactionFees": 152
+    },
+    "4fTf6biVD73KgD1Td4mB9L7kCzWTZFaroZCsY6Wk6dfwuPRbJs": {
+        "bakerReward": 1718494,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4faXW7hiBPkvSF3UbPZLufDRjhxJi6gfVtnrnibXGcPu8YPWjh": {
+        "bakerReward": 931935979,
+        "finalizationReward": 0,
+        "transactionFees": 16485
+    },
+    "4fevHsn1ham2FogDxmrtaxTHRcGHd7ZKrzK2Jg4PjcugQo1mL3": {
+        "bakerReward": 188624,
+        "finalizationReward": 0,
+        "transactionFees": 17
+    },
+    "4fnTVzqxfSmKRJdKSBEv6KQcSx6bwSQQia9Bjbv4hPyS8dMcbR": {
+        "bakerReward": 260444561,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4fqGJdzyHQYSADg1nHXCc54TgoMUegWrje7ovykQH4hqAQVn2r": {
+        "bakerReward": 823349,
+        "finalizationReward": 0,
+        "transactionFees": 87
+    },
+    "4fxEW212ULVyvDHPceJPAtBjuzWsaDfsiBzmvqcLz2CQQ6LZBU": {
+        "bakerReward": 523701,
+        "finalizationReward": 0,
+        "transactionFees": 47
+    },
+    "4g7jwznbWPHiRbJc7KvcU55tLb398MpGX6k8eeLXtkSiHt7Y1z": {
+        "bakerReward": 388255,
+        "finalizationReward": 0,
+        "transactionFees": 41
+    },
+    "4gRcY7aNRQQiCcNioXBijh3BCG3XQynQe9MczUqX5zDLX16w9D": {
+        "bakerReward": 291778304,
+        "finalizationReward": 0,
+        "transactionFees": 26476
+    },
+    "4gTCN3B3GyNkyF5EqWXZmVBjYeg27eMFmGxe5FZvBYsumK6htR": {
+        "bakerReward": 5141467,
+        "finalizationReward": 0,
+        "transactionFees": 466
+    },
+    "4gcCDgjqYnenLM4YT5bU954K1hpadb82ChkhnxL12JTKvvFCTx": {
+        "bakerReward": 31359995,
+        "finalizationReward": 0,
+        "transactionFees": 2451
+    },
+    "4gcsWgmmhTBq2UyQTnUcEunRpzBwVRFrrjxPF1fVcoA4xwc7vb": {
+        "bakerReward": 23162,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "4gdpoMx3yKT23ffWZ4i3KhiPTqe6i1vYzK7wmopPJW5r5WsrAA": {
+        "bakerReward": 16163788,
+        "finalizationReward": 0,
+        "transactionFees": 246
+    },
+    "4gevwnJCS63FYv3noDWWZc4JbUksmoNyEP5BJ5YFZGkYtemus4": {
+        "bakerReward": 6688,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4gmNwYarsuuboYpHbpK8UEPpN5Nz5NjbvzHddEg4G99CR1CkqS": {
+        "bakerReward": 12274428,
+        "finalizationReward": 0,
+        "transactionFees": 959
+    },
+    "4goVLxZAMLBStnxer2cyo4rmnE4dMuj17F39WRZa5zEaVAjzsW": {
+        "bakerReward": 333099890,
+        "finalizationReward": 0,
+        "transactionFees": 35576
+    },
+    "4gpDtww1Uy51Nzp8oBtxQgq3wogmc5dm36UCjELtpRnsmdeZuu": {
+        "bakerReward": 2581069,
+        "finalizationReward": 0,
+        "transactionFees": 275
+    },
+    "4gvCcrHPYE5nHmMuiVTnCySQyUUrSYGmeHfbGfa2kFhHHAN7HG": {
+        "bakerReward": 35623644,
+        "finalizationReward": 0,
+        "transactionFees": 3232
+    },
+    "4gwjX1aunFgjy15Bu9euo2ZG28d4T7Sci8mq8ZUVqRtmaM2Mm5": {
+        "bakerReward": 902242,
+        "finalizationReward": 0,
+        "transactionFees": 96
+    },
+    "4h8GXzDYjXwkPfFibHVUTxEP4rKwUB35M9ffA8pyrqZi7uHZTy": {
+        "bakerReward": 83454175,
+        "finalizationReward": 0,
+        "transactionFees": 1386
+    },
+    "4hCHGt1Vy8e3TUnWfxmAcrZzmatstpD7BXY6Yf3am8MUy17aDT": {
+        "bakerReward": 6042545,
+        "finalizationReward": 0,
+        "transactionFees": 645
+    },
+    "4hUZXohsnCBj4AEP24Ykw74W7TGiHd4HVwcBxNRbztJet6jwnu": {
+        "bakerReward": 40632967,
+        "finalizationReward": 0,
+        "transactionFees": 4339
+    },
+    "4hXX6AuFwnnBcb4ETBvBhKnon7YAakUqdzUv7XzRat1k72ZXTa": {
+        "bakerReward": 379540,
+        "finalizationReward": 0,
+        "transactionFees": 34
+    },
+    "4hdKQ2pNYVWsqFZxiZn2wp5PgyuayyJyXWxTgp3qun1vugUM9K": {
+        "bakerReward": 3370,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4hiuansfZZEDn7TXumoeTLV2u2cz4VA31knBmtqkDSfhVMbUhw": {
+        "bakerReward": 66287745,
+        "finalizationReward": 0,
+        "transactionFees": 861
+    },
+    "4hrBDdZ21dCWCPSJvb79gvaiABJbmpVdF7H2xeZG22cBtUQYKM": {
+        "bakerReward": 11013200,
+        "finalizationReward": 0,
+        "transactionFees": 1176
+    },
+    "4hwq7zixrDv8jpG5jZW25Ca4gTQAJLkQrthjr542WnX1EvPSJn": {
+        "bakerReward": 28238,
+        "finalizationReward": 0,
+        "transactionFees": 3
+    },
+    "4hzhPh4ANzDPQjSspDiZ9S6921Mp66S8nB9JuMQ1ct6MqCJ5Rx": {
+        "bakerReward": 31713221,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4i4Z7ubhAKPsBwSB2Q8Zc7PZ9zeaCaNjwfRxVsbmGsunoNgJS4": {
+        "bakerReward": 20231,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "4i6jKXtRcPEuKyYQPguos4EfZQbtLi9pEccvUKTPoQJehVJuhf": {
+        "bakerReward": 10792799,
+        "finalizationReward": 0,
+        "transactionFees": 843
+    },
+    "4i8CJo97Ykg3zrZe8eLX4pxEpcqHTBieRpRbPMBD4nEpwpkuDh": {
+        "bakerReward": 46729232,
+        "finalizationReward": 0,
+        "transactionFees": 4990
+    },
+    "4iKgMfwjVwyMQDpq3i6ZDWy5xCT2dfUrUZ3QUbmPQxv5GVYfHo": {
+        "bakerReward": 20740,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "4iM97imD1seoeyMeoAkSXSzoz5qev1ZrhTYEaFk2TtNhNj4FKe": {
+        "bakerReward": 12126008,
+        "finalizationReward": 0,
+        "transactionFees": 185
+    },
+    "4iPfYJWJ7qErBiHcjn5Wj7w5vnfVTieGsWpcdJLcHJNn71JBnN": {
+        "bakerReward": 257,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4iZYRi5SfcVKYcmETmmycpiDqyfgTxgxHMThDwKM7CsTWNuK3T": {
+        "bakerReward": 29296,
+        "finalizationReward": 0,
+        "transactionFees": 3
+    },
+    "4icLUR2kyUBweu7Bjw2329smg9kQ69XbQhCMQ3NGYhar7vECo7": {
+        "bakerReward": 78170993327,
+        "finalizationReward": 4492894364,
+        "transactionFees": 10388646
+    },
+    "4ij7dgeQj2G4qjtpHoMbF4HR16sGF5CPJ3m4RhXJxh3jW7F71z": {
+        "bakerReward": 147207,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "4inrMkerCTr8UmFRkr1f9jtC84YCksPLx7vJC2yZwpeCPM1TbS": {
+        "bakerReward": 843381,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4ipbYF9ncfmJXVfciPtmAK4SxhDamr3ix4XBkHFJKkuaCwaiSz": {
+        "bakerReward": 405041,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4iyCayzYtMZDHaojVPgZZrR8Kzcr94Nqn9WUEPrKRg9a83tD4d": {
+        "bakerReward": 142476586,
+        "finalizationReward": 0,
+        "transactionFees": 15217
+    },
+    "4j8Jwx2Rpiq7xfjkByEta44Fup7QZP5VZsKiTwpsVJ6gHeNUqU": {
+        "bakerReward": 2608,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4jACFPedfUZ7cnVAont7Zocm69BUkHwRmNgs6k8HTHzwUuHp3s": {
+        "bakerReward": 22705585,
+        "finalizationReward": 0,
+        "transactionFees": 2425
+    },
+    "4jEA62iCK8pGCe6udkqQajyFWWN6LvFKCNcoEdBUe7bBjsqM7Z": {
+        "bakerReward": 1669,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4jSvTZiJ5oEUJBAhUgdpryZw6Jiv6kgvt7D9LcjmufQGoJBnAa": {
+        "bakerReward": 1284339,
+        "finalizationReward": 0,
+        "transactionFees": 137
+    },
+    "4jpbLErtPKKbPHuMVdwJ4oCKF3fzEfXeSMyp5JCREvrpUgseag": {
+        "bakerReward": 54299550,
+        "finalizationReward": 0,
+        "transactionFees": 902
+    },
+    "4jryXHNDAJ8YcH4mvzMMR2AxGUWojAjiZwzDjMVuHE47iiMq81": {
+        "bakerReward": 386989,
+        "finalizationReward": 0,
+        "transactionFees": 41
+    },
+    "4jxB9jBge1X3vthUGYdvhgjcAWkW8ahCGp1ufaraHGRcgFjixz": {
+        "bakerReward": 276928020,
+        "finalizationReward": 0,
+        "transactionFees": 25129
+    },
+    "4jxLMgfrhGPtSG85F6G87rpiQE55rDABnZfwY8sZtxgxQruyef": {
+        "bakerReward": 142677,
+        "finalizationReward": 0,
+        "transactionFees": 12
+    },
+    "4jzp4tAGCstigJpJUFkacomqjuxcDHW9r6GNm37pHDRBPW95sJ": {
+        "bakerReward": 44645701,
+        "finalizationReward": 0,
+        "transactionFees": 281
+    },
+    "4k6JFRXSgRgw8xzCokJWq5z8LxXpMndg6sV78wMvh7jTRxEUET": {
+        "bakerReward": 6275,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4k7e77DjsQmaNsfg4Xh1MEWgFxtFfr7AeVVgsqHe8GTmod3gde": {
+        "bakerReward": 12659274,
+        "finalizationReward": 0,
+        "transactionFees": 1352
+    },
+    "4kGGrDAVrsxDje4Uv1wMq2jSdFvrSXTSyM91wfM3mVCSuS2nAi": {
+        "bakerReward": 518237,
+        "finalizationReward": 0,
+        "transactionFees": 55
+    },
+    "4kK3qwVwRyaf5wGSBjPzUKk4pHL4Jpgk6ozuwUjKkvywehSAt1": {
+        "bakerReward": 203628873,
+        "finalizationReward": 0,
+        "transactionFees": 21748
+    },
+    "4kTh8DGXdotR5rEvHRLjQwP7ueqbQWRRDxkqnWJ27SAnUY85gw": {
+        "bakerReward": 36544,
+        "finalizationReward": 0,
+        "transactionFees": 3
+    },
+    "4kc5Qpt1511yncafuekTRtseEAUc49EmLQUJTGPx8UWR5ufK1J": {
+        "bakerReward": 7233,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4khiZQGBBPgutxpdiDRiti1Gg9xBBoBrwvkKJpx9ueP2PzNG7w": {
+        "bakerReward": 38552421,
+        "finalizationReward": 0,
+        "transactionFees": 4117
+    },
+    "4ktWHTEtZd8Ht8TLqv3EitGtUbU9f33LLYfGkYg4WdEHN3zayA": {
+        "bakerReward": 396107,
+        "finalizationReward": 0,
+        "transactionFees": 42
+    },
+    "4m1GMKSAXEYpWi7e7f37X5Hkssk7yYQHivDL4fm8EJwcG28DhK": {
+        "bakerReward": 13002439,
+        "finalizationReward": 0,
+        "transactionFees": 1388
+    },
+    "4m65vEKKZAKxsAYsGTqo7tkPJMRxrjmTi84miLpzNPrrVPKH7J": {
+        "bakerReward": 290810315,
+        "finalizationReward": 0,
+        "transactionFees": 4437
+    },
+    "4mRaovF4Kd2rwJHYZbSkWSDhYzwq7NZdwRrE2zjMqvS67Vride": {
+        "bakerReward": 204627,
+        "finalizationReward": 0,
+        "transactionFees": 21
+    },
+    "4mWtyFdSLac6nUQdYw5AB8UBAvDy4JM7nrBXStZR4z5fwiCVJr": {
+        "bakerReward": 129080,
+        "finalizationReward": 0,
+        "transactionFees": 11
+    },
+    "4mg5KDRqSsnFksXCSoffBLBqk6hAoKEXdEcnEJv68PycyJfo2H": {
+        "bakerReward": 41400678,
+        "finalizationReward": 0,
+        "transactionFees": 3756
+    },
+    "4myvQGvjEFABFdjsKuiihBaSPUJFHohLXN3Tt7S1eqi9vY3JUZ": {
+        "bakerReward": 2633692,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4n9EAV8yLaBzJ922PiPcFrnqyj7yHz8nKnTSvGDPBXygG7EVKd": {
+        "bakerReward": 617678,
+        "finalizationReward": 0,
+        "transactionFees": 65
+    },
+    "4nJh2iWmgLbKQoJvZZtSB98pUYJA4PArHjGkz3YSDWKVHDKKFm": {
+        "bakerReward": 11804665,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4nKUpAJMjmnSHDeHGnyMtj2ge6MT7ZX6o84bEn12Dwhu7vBYdv": {
+        "bakerReward": 28676,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4nMNc694TSQdDXfq3TqBRPWXQBEUyHbEpBrPZGszAtG8hntRMA": {
+        "bakerReward": 9010250,
+        "finalizationReward": 0,
+        "transactionFees": 962
+    },
+    "4nZkZ4v1zhogcshrqqKdpqM5EfLoaY3msaocpxHfbGC79nVwHD": {
+        "bakerReward": 16851,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "4nbxETfEHCrDWoVtcasT4AvGGfeGmimv9QKaeMCHRSGENjkVKA": {
+        "bakerReward": 324386,
+        "finalizationReward": 0,
+        "transactionFees": 29
+    },
+    "4nfMSJZoLji8b9StAPpjBM8gvYVQcjQAiRoEP2MKxYEkN9f1Zs": {
+        "bakerReward": 2023849,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4nkiM4S2MojboHtvZT8944SJxQt5j6CLpEHnoKqDaXPseoC5Lw": {
+        "bakerReward": 4653991,
+        "finalizationReward": 0,
+        "transactionFees": 497
+    },
+    "4nnJHTjJ2hK6n2NkkhjRyDPppbDCCkqdpusG7UAgDnaco6V3wR": {
+        "bakerReward": 6275,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4nog5BGB5qoPs1Epcgbiat4M5yvo6ydEg6CfcwTVcHVCgwgQsG": {
+        "bakerReward": 569906,
+        "finalizationReward": 0,
+        "transactionFees": 60
+    },
+    "4ns24bNxZDxMwi5xQh4xpfSgSmkGKpTVLWSKW8sCBkbwrS9ZaL": {
+        "bakerReward": 17370,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "4nvac2q5zQcGeryMuWuBKvi1EqEQjZ8rsUSCALt6gH21RjZAyH": {
+        "bakerReward": 255217835,
+        "finalizationReward": 0,
+        "transactionFees": 27258
+    },
+    "4o8Whc7JaFShoKMXyNG3XiJFqbhNC6xFEbvpK9UjoefHWjPYUf": {
+        "bakerReward": 87243,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "4oPhX3S91BTjo6oLTPJeuaKxqssFLU3FCT38z9b8nEobqTc7de": {
+        "bakerReward": 290598488,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4oTUKu41QW6r5ADVJ3Kx5u8ooKQyj9HkAjX5zppVGUJbXiGYRG": {
+        "bakerReward": 51052965,
+        "finalizationReward": 0,
+        "transactionFees": 848
+    },
+    "4obYofK5Jk6HsooB8PruGXa6R7u4t4K7cXE3csxyan7Zg3EGtd": {
+        "bakerReward": 284531,
+        "finalizationReward": 0,
+        "transactionFees": 4
+    },
+    "4oqQ5AFguq2SJZS3Y5uTHRvUm9AeNncCqZ5Xu6RB7hEKyTiuw4": {
+        "bakerReward": 6275,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4osKsukWvLq4QBMfAbMeLpqZB9iZkikWfrgKZHEBBBQ4LLiDNm": {
+        "bakerReward": 2193506,
+        "finalizationReward": 0,
+        "transactionFees": 199
+    },
+    "4otRSPLYBcma3grhPq2AKs81K53SU4LHY8zJdYHztyijD4xtDW": {
+        "bakerReward": 52530044,
+        "finalizationReward": 0,
+        "transactionFees": 4105
+    },
+    "4p8vBvuG2gP6jmBpP8Ba7EYAoYTcLFgKtmiDgAmMYVzrhKbxn2": {
+        "bakerReward": 2438750622,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4pG92yfCeaLUQgBJRZZthPj7FGz7PDD6ggKibPmqgpnAhtcMUD": {
+        "bakerReward": 124442,
+        "finalizationReward": 0,
+        "transactionFees": 11
+    },
+    "4pJPLhGt81G2KmtcLdVhUzaVCAufzGx4sy8WFZxn6PkV23eFCL": {
+        "bakerReward": 15948851,
+        "finalizationReward": 0,
+        "transactionFees": 1703
+    },
+    "4pNsUm9wPrkmdVAVYH8RpavBJek4VPe3KYZasdyYxoUrTFzapP": {
+        "bakerReward": 2613652,
+        "finalizationReward": 0,
+        "transactionFees": 237
+    },
+    "4pQAFtn5o7GAdKewHEviyjLd6hTBpWtPimzciJT8U2YuisrUDY": {
+        "bakerReward": 20511026,
+        "finalizationReward": 0,
+        "transactionFees": 1603
+    },
+    "4pZz2yrP2dcipqctaTFydfVcCH1y8swKNurn2oNJfcLtPMZscx": {
+        "bakerReward": 255553257,
+        "finalizationReward": 0,
+        "transactionFees": 27294
+    },
+    "4pn1611SrZap8Qst1tCC4fdML4dWQRRtEbThh58H9orYBKbhKe": {
+        "bakerReward": 19509151,
+        "finalizationReward": 0,
+        "transactionFees": 1770
+    },
+    "4prsbJTqccDvcRHaQs25J1wKfDXGUhYdphcshPRffMGbVarLYo": {
+        "bakerReward": 3002452709,
+        "finalizationReward": 235949845,
+        "transactionFees": 39026
+    },
+    "4psRudvKihVLSygzW2Q7PP3WjuJw7SQ4oVf8nPgwhVzZ1X6Jbt": {
+        "bakerReward": 20450751,
+        "finalizationReward": 0,
+        "transactionFees": 14250
+    },
+    "4pzKoBy8PbCCSdKETgPUN35Q9TQb5RNTVDms9oRu1aYuqhQGKP": {
+        "bakerReward": 16798,
+        "finalizationReward": 0,
+        "transactionFees": 1
+    },
+    "4q2m3Aj6cM5oWT81JZGMP9ybcBNibmuUmuA2XeLpqAPifyzpMX": {
+        "bakerReward": 2249210,
+        "finalizationReward": 0,
+        "transactionFees": 240
+    },
+    "4q32zUVidMvmndB2dcMG5jXoj2WcB9pzRaEmHvGhzwyD4npuFE": {
+        "bakerReward": 2048760,
+        "finalizationReward": 0,
+        "transactionFees": 218
+    },
+    "4qCgUvC1j4zHc66xnYtpMkPpNamteb7LanMx1NMDrVunEJAMmm": {
+        "bakerReward": 942216,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4qL7HmpqdKpYufCV7EvL1WnHVowy1CrTQS7jfYgef5stzpftwS": {
+        "bakerReward": 60452224024,
+        "finalizationReward": 3855820206,
+        "transactionFees": 4725018
+    },
+    "4qgmsj6PsvgGqqBf3Lq9vFsn1KV2h7379CfQqzaNFujL6fNcm7": {
+        "bakerReward": 595147895,
+        "finalizationReward": 0,
+        "transactionFees": 54005
+    },
+    "4qsmoR83YomTS7vvfDGSzq7AxFiaphXXe6kt1ACuLcXt3pygsd": {
+        "bakerReward": 5138180,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4r3rT8V4fwdNjx2wKFYZ4DipzTUBT9K1YRLTV5SLbH2wokdFZ4": {
+        "bakerReward": 180003677,
+        "finalizationReward": 0,
+        "transactionFees": 19225
+    },
+    "4r9wJzXxy31f7qDkwE43j5PZdLy6ENPWpoduMBTASLYZvScSxS": {
+        "bakerReward": 581196976,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4rEuMkj4ECJcRdfkUazGvqaMY5R6qXkhnxoCBUQuFrR2PcCEwh": {
+        "bakerReward": 119197,
+        "finalizationReward": 0,
+        "transactionFees": 10
+    },
+    "4rFg2KwaEsDdgZpi7FNHLhFaxtUenSHscdqvjnRHUaEtreo7rD": {
+        "bakerReward": 7571529,
+        "finalizationReward": 0,
+        "transactionFees": 808
+    },
+    "4rSUSBsj1SNMzcV3KinQVXER2eF2Nxi4Lb33aXBzrWNXM3XTw7": {
+        "bakerReward": 349184,
+        "finalizationReward": 0,
+        "transactionFees": 5
+    },
+    "4rSh7CnHqrhdC3Abb9jUQ3QPuUq3QHFUfmy1hEVY3C3tcBYC24": {
+        "bakerReward": 484897,
+        "finalizationReward": 0,
+        "transactionFees": 7
+    },
+    "4rTBnt6Ae2Tdp5p4yBjD8KiQLU8dogc5aZrCeFeoUXMSYjuPP3": {
+        "bakerReward": 74096705,
+        "finalizationReward": 0,
+        "transactionFees": 962
+    },
+    "4rU95mZ2XfuFv5gBTg9aCi45L1FUur7rQAnAGY58SNkFbrJFjZ": {
+        "bakerReward": 344524,
+        "finalizationReward": 0,
+        "transactionFees": 5
+    },
+    "4rfR1vQGRDALvaDdeAhQrnCVEY4emaJeTWTeKDpdg4GU327EBQ": {
+        "bakerReward": 53046817,
+        "finalizationReward": 0,
+        "transactionFees": 4146
+    },
+    "4rmPN6yxoj4dYatKZbuL9TyeSojz1WxRybmWWL5hSA6SBnJYBn": {
+        "bakerReward": 607793,
+        "finalizationReward": 0,
+        "transactionFees": 9
+    },
+    "4rnVjPyY2shzxL3ipuHyfvsAVAoEovNmCgMnXbYEDDB8wxc8xV": {
+        "bakerReward": 27073,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "4rrgL7D1rB246DYvWF8z3QGpuHfoKYkmCE6za6kcqX94F2ez5X": {
+        "bakerReward": 1197730,
+        "finalizationReward": 0,
+        "transactionFees": 93
+    },
+    "4rs8TCqSnvWH6Gkp8j6MmWxa221e6uNPiCbFdSocUSXsZ4q2eJ": {
+        "bakerReward": 15534461,
+        "finalizationReward": 0,
+        "transactionFees": 1659
+    },
+    "4rtsqD26hYjo1SEvaNCkuTA2x7qpYizzPqxLLp377B8yDWHGyR": {
+        "bakerReward": 2686283,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4s4bwxLqM88G9q87U6e5u9ggQDZj6VYMTXJFGaKRgwUfAriXKR": {
+        "bakerReward": 67820248,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4sAiGkhNG2KWmuyuCmRQyjqrbmTv9evRf4mQqz4Kh5jGhsMi3g": {
+        "bakerReward": 6732768,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4sNmzUZHf8i56SbSHHypzxwSVyS7CX2swTZpCLna6Mor6zGczf": {
+        "bakerReward": 3196583370,
+        "finalizationReward": 235149039,
+        "transactionFees": 37114
+    },
+    "4sRifhDV6yCQmzze4oAUJRJEs9X98scxdhtCwJjtSFp5hiQwVu": {
+        "bakerReward": 39818986,
+        "finalizationReward": 0,
+        "transactionFees": 3112
+    },
+    "4sYJskih9fdtLWS9z74PZztR3XDrwkoMg6wK1xC1E3rxhGRmFU": {
+        "bakerReward": 2191,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4scweXKn57GTGspm3xwtvcnu8bVDCgUpgMwY94EL13xvHAtker": {
+        "bakerReward": 1209719,
+        "finalizationReward": 0,
+        "transactionFees": 109
+    },
+    "4sfifnPAdMQ2XSe27j2JXLpWMhnDSH7gQUUGhb9HTvf63Gcb6z": {
+        "bakerReward": 426703,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "4srcyaLRYMgMceoszMW67EvRLuujMMzmcyEyy1FFnHiP79FchB": {
+        "bakerReward": 7777,
+        "finalizationReward": 0,
+        "transactionFees": 0
+    },
+    "4suyJfoG3vQRr5Dt6EKEhFMAT2oAJmNm6puLSFT1cCpvSghCUU": {
+        "bakerReward": 72266112,
+        "finalizationReward": 0,
+        "transactionFees": 6557
+    },
+    "4t7azGKFp8uN8BJ2unrvzjF4j7f1Db9HCQ9VBchcCWVRGDysHD": {
+        "bakerReward": 17752840,
+        "finalizationReward": 0,
+        "transactionFees": 294
+    },
+    "4tBY9Pw4oxGsQ233ZAqiaw8nLdjXN7XEWaWKSJtV69qMbU9zje": {
+        "bakerReward": 19216,
+        "finalizationReward": 0,
+        "transactionFees": 2
+    },
+    "4tFbLpbkoC29Gi9JVGcyjvRfSHJGD87MZhzPXGaNFEPW7BCxF2": {
+        "bakerReward": 1513153,
+        "finalizationReward": 0,
+        "transactionFees": 137
+    },
+    "4tN2dJddaE1zjvto6sreSzmBFaXnhBSZQFAQs6QjZu5joU5QeG": {
+        "bakerReward": 2214863,
+        "finalizationReward": 0,
+        "transactionFees": 236
+    }
+}
