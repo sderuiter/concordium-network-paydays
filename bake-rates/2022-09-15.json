@@ -12,43 +12,43 @@
                 "account": "47xTHwtFra1d4Mq4DYZuZYJEYrDXY34C4CGkTTzT6eiwjEczuT",
                 "actually_baked_in_day": 695,
                 "baker_id": 1,
-                "expected_blocks_per_day": 699.0775092408342,
-                "lp": 0.079977
+                "expected_blocks_per_day": 699.4267944771394,
+                "lp": 0.08001699999999999
             },
             "3": {
                 "account": "4d13WVDNKVGDUxRUb1PRQAJyTwWSVcjWS7uwZ1oqmDm5icQEPT",
                 "actually_baked_in_day": 749,
                 "baker_id": 3,
-                "expected_blocks_per_day": 770.455328658872,
-                "lp": 0.08815200000000001
+                "expected_blocks_per_day": 770.8394628856865,
+                "lp": 0.088196
             },
             "4": {
                 "account": "3EctbG8WaQkTqZb1NTJPAFnqmuhvW62pQbywvqb9VeyqaFZdzN",
                 "actually_baked_in_day": 738,
                 "baker_id": 4,
-                "expected_blocks_per_day": 764.3178533162541,
-                "lp": 0.087449
+                "expected_blocks_per_day": 764.6932639061263,
+                "lp": 0.087492
             },
             "5": {
                 "account": "3ofwYFAkgV59BsHqzmiWyRmmKRB5ZzrPfbmx5nup24cE53jNX5",
                 "actually_baked_in_day": 828,
                 "baker_id": 5,
-                "expected_blocks_per_day": 883.2327229026134,
-                "lp": 0.10107200000000001
+                "expected_blocks_per_day": 883.3636349715746,
+                "lp": 0.10108700000000001
             },
             "6": {
                 "account": "4MPJybKC9Kz7kw9KNyLHhuAEt4ZTxLsd3DBDbxtKdUiv4fXqVN",
                 "actually_baked_in_day": 610,
                 "baker_id": 6,
-                "expected_blocks_per_day": 653.1259523202436,
-                "lp": 0.074715
+                "expected_blocks_per_day": 653.4490842215888,
+                "lp": 0.074752
             },
             "8": {
                 "account": "44bxoGippBqpgseaiYPFnYgi5J5q58bQKfpQFeGbY9DHmDPD78",
                 "actually_baked_in_day": 737,
                 "baker_id": 8,
-                "expected_blocks_per_day": 770.4291376732613,
-                "lp": 0.08814899999999999
+                "expected_blocks_per_day": 770.8132719292748,
+                "lp": 0.08819300000000001
             },
             "173": {
                 "account": "3M7x5QmWgfpAtxkmieEPJPjfqt6Mr6BJ4vXwv3bExXFAK56sa4",
@@ -75,8 +75,8 @@
                 "account": "3n6kiufrNDYaFgqaGAyLZitRwQqyxnWQybruygc3Cx8WUpEGk6",
                 "actually_baked_in_day": 12,
                 "baker_id": 438,
-                "expected_blocks_per_day": 16.668032650639475,
-                "lp": 0.001905
+                "expected_blocks_per_day": 16.67678206297012,
+                "lp": 0.001906
             },
             "452": {
                 "account": "4AgHnsWT2gnEKYSqJMEzXtEXmKKgRuknXoDJhP2e3sneWisjTD",
@@ -187,8 +187,8 @@
                 "account": "4Py6nA7BbXvSfVD2ju9aG1tqw5oEX66w8PL1xJPP78id8gw5ac",
                 "actually_baked_in_day": 10,
                 "baker_id": 704,
-                "expected_blocks_per_day": 14.970642468527728,
-                "lp": 0.001711
+                "expected_blocks_per_day": 14.979391923831997,
+                "lp": 0.001712
             },
             "711": {
                 "account": "3dygeqVqn5FB2sXGWh1RtKA2PuXBf83yvsttNJcrAutMyypNrt",
@@ -208,8 +208,8 @@
                 "account": "35AGYQC9ArExG1XsQtYrRgzNAMAeq9WN1mH7X2f7q5m7FmfZqx",
                 "actually_baked_in_day": 15,
                 "baker_id": 748,
-                "expected_blocks_per_day": 20.62274444590173,
-                "lp": 0.0023569999999999997
+                "expected_blocks_per_day": 20.640243070083386,
+                "lp": 0.002359
             },
             "757": {
                 "account": "3Wza3QsbvGJzMB7i3ttALXs4ETPeU9aBBAMC4rzC82RxuKrPuh",
@@ -278,8 +278,8 @@
                 "account": "4D1xtS8ztmxvuHy3ddiVQDnv96nwDRBj5bgWZx9uixMppgndzv",
                 "actually_baked_in_day": 39,
                 "baker_id": 1030,
-                "expected_blocks_per_day": 32.05790644586415,
-                "lp": 0.003664
+                "expected_blocks_per_day": 32.07540449101458,
+                "lp": 0.003666
             },
             "1032": {
                 "account": "3qCjVic9aCfhnG4FKhg3BKHyPnhgDEKEPrzVA8n2veR3s7YDwY",
@@ -495,8 +495,8 @@
                 "account": "33fUn8xxeQDpkAcAM6QTAv9XWMp3PjkT5nFFxXbCgJJDoPfsAD",
                 "actually_baked_in_day": 10,
                 "baker_id": 1519,
-                "expected_blocks_per_day": 7.376031719130083,
-                "lp": 0.000843
+                "expected_blocks_per_day": 7.384781366702953,
+                "lp": 0.000844
             },
             "1531": {
                 "account": "4FyFDVzHW2kc9VXcCtCVv5JpNysCddbVCz8uULZ6Vz4WoY1UJB",
@@ -614,15 +614,15 @@
                 "account": "4D44RYigFqPkABrRAHXSBBQqG4VNhXEsyJrt2GH6V2H8tS1tN3",
                 "actually_baked_in_day": 242,
                 "baker_id": 1915,
-                "expected_blocks_per_day": 266.0237767034701,
-                "lp": 0.030415
+                "expected_blocks_per_day": 267.01174551116225,
+                "lp": 0.030528
             },
             "1916": {
                 "account": "3nxFD3fqtUG6YGAPbg2zBGa81Pt1SvNNTDjvvVakjvHVYw1biN",
                 "actually_baked_in_day": 71,
                 "baker_id": 1916,
-                "expected_blocks_per_day": 63.73666590741749,
-                "lp": 0.007285000000000001
+                "expected_blocks_per_day": 63.77165878873967,
+                "lp": 0.007289
             },
             "1917": {
                 "account": "3B85HEnBzjFcLm2ZN6Ggb9ig7CWT4vsBXM9j46v8o94stmzv9L",
@@ -642,8 +642,8 @@
                 "account": "3DLD6CpYYa41FmvYdjxTKBhgkM63NtHZGBjBPZgzgSArm1sueS",
                 "actually_baked_in_day": 16,
                 "baker_id": 1919,
-                "expected_blocks_per_day": 12.13580728686452,
-                "lp": 0.001387
+                "expected_blocks_per_day": 12.144556813957763,
+                "lp": 0.0013880000000000001
             },
             "1962": {
                 "account": "3YPt8U4SR7FmQvtCyXcX7rVhN5jHrUqbzZ66nbHZT4T74fn5SQ",
@@ -656,8 +656,8 @@
                 "account": "3WMhW7F8kCRpGAcRGxpd1Qxo6L6Keapjfx8kRv2mypWdXg9VHz",
                 "actually_baked_in_day": 28,
                 "baker_id": 2070,
-                "expected_blocks_per_day": 17.945444506126762,
-                "lp": 0.002051
+                "expected_blocks_per_day": 17.95419388615045,
+                "lp": 0.002052
             },
             "2223": {
                 "account": "4FhyLtQ8rn8hXyyRNsaNKsu6t2csBBBhArBXHW9z98UakrbBMA",
@@ -670,8 +670,8 @@
                 "account": "3vyzKn8Gup52JFqNwvVgcHKXktqW5Bj82ATnfwATQZ7uJiCTpw",
                 "actually_baked_in_day": 14,
                 "baker_id": 3059,
-                "expected_blocks_per_day": 11.58458663444577,
-                "lp": 0.0013239999999999999
+                "expected_blocks_per_day": 11.593336175505442,
+                "lp": 0.001325
             },
             "3223": {
                 "account": "3KeaiabvNPsxPXt3a2tzbb6SrfUwCsA9oy7C2g3fdNyXPST8o1",
@@ -789,15 +789,15 @@
                 "account": "3oTmYTDG683bJvhMBCZd29SPcwpPsKmF8wc7XDL9zrsqpXC7mq",
                 "actually_baked_in_day": 65,
                 "baker_id": 60203,
-                "expected_blocks_per_day": 74.47056606326612,
-                "lp": 0.008511999999999999
+                "expected_blocks_per_day": 74.50555785754744,
+                "lp": 0.008516000000000001
             },
             "67260": {
                 "account": "4p8vBvuG2gP6jmBpP8Ba7EYAoYTcLFgKtmiDgAmMYVzrhKbxn2",
                 "actually_baked_in_day": 5,
                 "baker_id": 67260,
-                "expected_blocks_per_day": 4.7511274422802785,
-                "lp": 0.000543
+                "expected_blocks_per_day": 4.724878298813451,
+                "lp": 0.00054
             },
             "67308": {
                 "account": "3vieyBwjowfhBoEmMQxWyB4Z6bD91tGXsSnNgnhDVP2buT4LPg",
@@ -810,8 +810,8 @@
                 "account": "494XRkeP9mRHAe7o4bHWm5MEazuyJh9iZ2Nsn14bC1seNZ8yKR",
                 "actually_baked_in_day": 56,
                 "baker_id": 71572,
-                "expected_blocks_per_day": 56.36183710123106,
-                "lp": 0.006442
+                "expected_blocks_per_day": 56.38808232266399,
+                "lp": 0.006444999999999999
             },
             "72054": {
                 "account": "3tnRGfPYwTeJDbqqHBHo4pP2hRSp4PGBuy2ivvW9onsdKyHHRX",
@@ -845,8 +845,8 @@
                 "account": "3Xhdwp4Y2dXTTKaCs1G4QNy7vtUtmZDRzwtex1hSqw2ekUK7ZE",
                 "actually_baked_in_day": 187,
                 "baker_id": 72532,
-                "expected_blocks_per_day": 169.6351437569973,
-                "lp": 0.019392
+                "expected_blocks_per_day": 169.71385360485272,
+                "lp": 0.019400999999999998
             },
             "72563": {
                 "account": "3FpTPxKhRkW4XDFucq3J91YL6YSumUSYM1QAjEDHYNcGfbS3xR",
@@ -915,8 +915,8 @@
                 "account": "4prsbJTqccDvcRHaQs25J1wKfDXGUhYdphcshPRffMGbVarLYo",
                 "actually_baked_in_day": 16,
                 "baker_id": 73541,
-                "expected_blocks_per_day": 13.019508402936708,
-                "lp": 0.001488
+                "expected_blocks_per_day": 13.028257907622276,
+                "lp": 0.001489
             },
             "73647": {
                 "account": "3wkjtUwE4UuHDHs8dFrz7HZ1RmPqsnJxAYWswErkHkEYVBWj5j",
@@ -936,36 +936,36 @@
                 "account": "3nHTHHrit4wNgCRFkdvfFnLTL6AhViUE143eR7a6pMfWiazGKZ",
                 "actually_baked_in_day": 34,
                 "baker_id": 74596,
-                "expected_blocks_per_day": 40.369378155332925,
-                "lp": 0.004614
+                "expected_blocks_per_day": 40.3956245914614,
+                "lp": 0.004617
             },
             "74730": {
                 "account": "3USgJaoLTTtLF7o23qjPP2Tuis3X6PTwCTbkCNd8B3nTvtVoSW",
                 "actually_baked_in_day": 14,
                 "baker_id": 74730,
-                "expected_blocks_per_day": 13.229496454690093,
-                "lp": 0.001512
+                "expected_blocks_per_day": 13.246995453241084,
+                "lp": 0.0015140000000000002
             },
             "74770": {
                 "account": "4ZM4rmHztAkVMWVzCSvxckwxUSsAd5Sas1mbBenNpreePRYd6h",
                 "actually_baked_in_day": 11,
                 "baker_id": 74770,
-                "expected_blocks_per_day": 13.229496454690093,
-                "lp": 0.001512
+                "expected_blocks_per_day": 13.246995453241084,
+                "lp": 0.0015140000000000002
             },
             "74771": {
                 "account": "3Q6auaCXY27S9cw7wWxnL9NLRKeZ98BuhxNSwogkHEbApxt18C",
                 "actually_baked_in_day": 13,
                 "baker_id": 74771,
-                "expected_blocks_per_day": 13.229496454690093,
-                "lp": 0.001512
+                "expected_blocks_per_day": 13.246995453241084,
+                "lp": 0.0015140000000000002
             },
             "74772": {
                 "account": "43sPTsozscn3d2RbxHiaWy6Pp23KthNeNV6LKBhrco5SqoB3YW",
                 "actually_baked_in_day": 15,
                 "baker_id": 74772,
-                "expected_blocks_per_day": 13.229496454690093,
-                "lp": 0.001512
+                "expected_blocks_per_day": 13.246995453241084,
+                "lp": 0.0015140000000000002
             },
             "74936": {
                 "account": "45mR7R2zdvc3XLHjuNaEqeRWXNVhQGsqAJW11VQWu5uQasEht1",
@@ -1013,36 +1013,36 @@
                 "account": "4qL7HmpqdKpYufCV7EvL1WnHVowy1CrTQS7jfYgef5stzpftwS",
                 "actually_baked_in_day": 213,
                 "baker_id": 76670,
-                "expected_blocks_per_day": 214.52308197866756,
-                "lp": 0.024525
+                "expected_blocks_per_day": 214.69796999812587,
+                "lp": 0.024544999999999997
             },
             "76933": {
                 "account": "3d4tsSiBrJXn2aiNHdfqMq2b9oGttoKn2LDCZbHHMm1WZi2c95",
                 "actually_baked_in_day": 88,
                 "baker_id": 76933,
-                "expected_blocks_per_day": 85.86895560819556,
-                "lp": 0.009815
+                "expected_blocks_per_day": 85.93893688450862,
+                "lp": 0.009823
             },
             "76935": {
                 "account": "3bYDf2e6ijKCSctqkdLDTuwJ41zpZXrVyHu8ErJ75VBH4h24yR",
                 "actually_baked_in_day": 72,
                 "baker_id": 76935,
-                "expected_blocks_per_day": 85.973927517351,
-                "lp": 0.009827
+                "expected_blocks_per_day": 86.04390877240746,
+                "lp": 0.009835
             },
             "76936": {
                 "account": "3taQTr2vfAQmaKgStN6qWBwqAYpjCJatcugY7NK8SHQvUscCA8",
                 "actually_baked_in_day": 74,
                 "baker_id": 76936,
-                "expected_blocks_per_day": 85.86895560819556,
-                "lp": 0.009815
+                "expected_blocks_per_day": 85.93893688450862,
+                "lp": 0.009823
             },
             "76937": {
                 "account": "47uKy77Ds7AEsTd7AAnyeesWL5wAyraVvafPEfhFw9dveuGym6",
                 "actually_baked_in_day": 81,
                 "baker_id": 76937,
-                "expected_blocks_per_day": 85.86895560819556,
-                "lp": 0.009815
+                "expected_blocks_per_day": 85.93893688450862,
+                "lp": 0.009823
             },
             "77032": {
                 "account": "4KLxh5afYMMVsDp194Hh2aLitFDKLx6d7uB3yq4Ht4LdKp3f93",
@@ -1055,8 +1055,8 @@
                 "account": "3C31UHhkhuKTgkSsRW2a3EUwsMYALuQp6ZofNFX9xUb7n5JJ4Y",
                 "actually_baked_in_day": 16,
                 "baker_id": 78475,
-                "expected_blocks_per_day": 14.594415680871009,
-                "lp": 0.001668
+                "expected_blocks_per_day": 14.603165145690866,
+                "lp": 0.001669
             },
             "79313": {
                 "account": "3yrbaSPyACzZca9dZEf1TiF636tnp615kyxJbhiUi62CE5CjqX",
@@ -1107,12 +1107,19 @@
                 "expected_blocks_per_day": 0.48999038126140704,
                 "lp": 5.6e-05
             },
+            "82204": {
+                "account": "3bDaykbANUHcxbC1DBc4XHVC2mUhWFzFk1GScocQEA1ZFxiA56",
+                "actually_baked_in_day": 0,
+                "baker_id": 82204,
+                "expected_blocks_per_day": 0.017499668440734695,
+                "lp": 2e-06
+            },
             "82274": {
                 "account": "4a1weEUcaPka7ZPBEyZ6AndcdaxwKkUahZoABKYNWSYZ6eFtFT",
                 "actually_baked_in_day": 28,
                 "baker_id": 82274,
-                "expected_blocks_per_day": 28.28705704390586,
-                "lp": 0.0032329999999999998
+                "expected_blocks_per_day": 28.295806162059023,
+                "lp": 0.0032340000000000003
             },
             "82408": {
                 "account": "3q842zVQL7HHPV4GEiWT259qAMd5Am6urPoBji2aP9CBhV3P3y",
@@ -1174,22 +1181,22 @@
                 "account": "4bEqdbhvMbcktqhQsiuaRA46ZEe7o8PNTuGj5KhwYhStcgbGde",
                 "actually_baked_in_day": 24,
                 "baker_id": 82701,
-                "expected_blocks_per_day": 21.130204187687696,
-                "lp": 0.002415
+                "expected_blocks_per_day": 21.13895348702073,
+                "lp": 0.002416
             },
             "82702": {
                 "account": "3mpvnZhWR6DJ4JLxbRFmhodvRZKdfTAXc8xeMNVGkRYXXH4ZJH",
                 "actually_baked_in_day": 36,
                 "baker_id": 82702,
-                "expected_blocks_per_day": 27.95459038959649,
-                "lp": 0.003195
+                "expected_blocks_per_day": 27.98083776868907,
+                "lp": 0.003198
             },
             "82705": {
                 "account": "46KKpv3b68J4nfnQc1qA3X2QvcNc76cUqz5D4eULMk7SZKMgNB",
                 "actually_baked_in_day": 21,
                 "baker_id": 82705,
-                "expected_blocks_per_day": 23.92996867630046,
-                "lp": 0.002735
+                "expected_blocks_per_day": 23.956216361042948,
+                "lp": 0.002738
             },
             "82716": {
                 "account": "3Qf7cP9XeckFTe26xuGr1auQLguiSnvZukEf44hmJvKr4RX33P",
@@ -1209,15 +1216,15 @@
                 "account": "3YAXEdg73XqU4D7wUuBTru2ygwpPQxYqMvX7pbLpBhTaMnFoZW",
                 "actually_baked_in_day": 0,
                 "baker_id": 82821,
-                "expected_blocks_per_day": 4.2961420069175915,
-                "lp": 0.000491
+                "expected_blocks_per_day": 4.322391182921592,
+                "lp": 0.000494
             },
             "82826": {
                 "account": "44Enrtf7pss6NG4st9ijtVAX5X1xgMh51B1DXJCaUoNjCQc4ZX",
                 "actually_baked_in_day": 50,
                 "baker_id": 82826,
-                "expected_blocks_per_day": 58.02403052474716,
-                "lp": 0.006632
+                "expected_blocks_per_day": 58.059023984563396,
+                "lp": 0.0066359999999999995
             },
             "82929": {
                 "account": "411P2xHWT11VxPPg8NwxLJDaPfdQQUoqPJvsHHKnjDmYZknHUU",
@@ -1237,8 +1244,8 @@
                 "account": "3vE4c72bqeCegyUhNiebhvPXTGN1TQMCivAmdfZ1XqBrCutzzA",
                 "actually_baked_in_day": 17,
                 "baker_id": 83002,
-                "expected_blocks_per_day": 17.92794574550385,
-                "lp": 0.002049
+                "expected_blocks_per_day": 17.936695125949598,
+                "lp": 0.0020499999999999997
             },
             "83017": {
                 "account": "3Froe3pdSr2ViWCWB7Esd2dXQ5P4W9FGvhZqmmAkfh9N8BC4Ln",
@@ -1251,29 +1258,29 @@
                 "account": "3LFNRq68kxRCVqxaTXiPrSddzHNpjYBxSH3JH4GVGCVjwDJzJr",
                 "actually_baked_in_day": 0,
                 "baker_id": 83028,
-                "expected_blocks_per_day": 6.553563857160327,
-                "lp": 0.000749
+                "expected_blocks_per_day": 6.562313525567731,
+                "lp": 0.00075
             },
             "83075": {
                 "account": "3nDiUUeTrHYrG2oqTCzz9tzg8SCpiR4LL7TFBjgKVEeBpkQEwE",
                 "actually_baked_in_day": 655,
                 "baker_id": 83075,
-                "expected_blocks_per_day": 670.487313261458,
-                "lp": 0.07670300000000001
+                "expected_blocks_per_day": 670.8191617502678,
+                "lp": 0.076741
             },
             "83078": {
                 "account": "4VYm2qx7dViwhqobzznLBM4oeixZxDmWZ6pYCckczXePJ4ZvdZ",
                 "actually_baked_in_day": 700,
                 "baker_id": 83078,
-                "expected_blocks_per_day": 672.7491163708834,
-                "lp": 0.076962
+                "expected_blocks_per_day": 673.080962683693,
+                "lp": 0.077
             },
             "83079": {
                 "account": "4aLZNqgmdM1N5JJRd9h88idXypPbri6odXR9rMEuD7VQxTeGvv",
                 "actually_baked_in_day": 383,
                 "baker_id": 83079,
-                "expected_blocks_per_day": 369.8936584177403,
-                "lp": 0.042297
+                "expected_blocks_per_day": 370.07720822933976,
+                "lp": 0.042317999999999995
             },
             "83101": {
                 "account": "4MCGfvLixukQZAc26BBBrt7fnxWUVPXYP8nVNfFvEZivhfjySa",
@@ -1356,8 +1363,8 @@
                 "account": "46j4KBr3ZzDgg7aByeaAWkrUfjzTXPwTSAU8Edh9CHX58y74oz",
                 "actually_baked_in_day": 0,
                 "baker_id": 84285,
-                "expected_blocks_per_day": 3.9899014727637905,
-                "lp": 0.000456
+                "expected_blocks_per_day": 3.998651206092063,
+                "lp": 0.000457
             },
             "84292": {
                 "account": "4LmBtZLtmHt784X6z1btjQiDEWv1AjRmcfp5aKbeP1hqaxV5U2",
@@ -1377,8 +1384,8 @@
                 "account": "3AoCqfjPvAUkQRonNTQ9qLeGnhdkrQ6hx7ULcnocX7gDjtX2YX",
                 "actually_baked_in_day": 7,
                 "baker_id": 84424,
-                "expected_blocks_per_day": 5.206112278621333,
-                "lp": 0.0005949999999999999
+                "expected_blocks_per_day": 5.214861981177421,
+                "lp": 0.000596
             },
             "84441": {
                 "account": "3sJHkUSwsDXgtmyS3WVshBV5saTi4ncpFrvKgAbznV8xDduztu",
@@ -1419,22 +1426,22 @@
                 "account": "4BEUTv3eUv1HNLodttBVMWs7wxTwT1ATgLWQoSpjuDRC6snx3W",
                 "actually_baked_in_day": 0,
                 "baker_id": 84882,
-                "expected_blocks_per_day": 128.44119593247996,
-                "lp": 0.014681999999999999
+                "expected_blocks_per_day": 128.54615490761034,
+                "lp": 0.014694
             },
             "84885": {
                 "account": "4icLUR2kyUBweu7Bjw2329smg9kQ69XbQhCMQ3NGYhar7vECo7",
                 "actually_baked_in_day": 268,
                 "baker_id": 84885,
-                "expected_blocks_per_day": 254.37777206536225,
-                "lp": 0.029083
+                "expected_blocks_per_day": 254.50017956180204,
+                "lp": 0.029096999999999998
             },
             "84886": {
                 "account": "4YsuH4zBpBMsTNqabZQv8AxXmGCVTCYTU8nZgtReN6L5oVMPYa",
                 "actually_baked_in_day": 282,
                 "baker_id": 84886,
-                "expected_blocks_per_day": 263.8117654960638,
-                "lp": 0.030162
+                "expected_blocks_per_day": 263.94291280068956,
+                "lp": 0.030177
             },
             "84948": {
                 "account": "45b3uxHTwdgLs7yEmGJfaYD7M5KXPPC6bdSRx2kswdshNku7b4",
@@ -1470,20 +1477,6 @@
                 "baker_id": 85171,
                 "expected_blocks_per_day": 0.017499668440734695,
                 "lp": 2e-06
-            },
-            "85187": {
-                "account": "4rae7oz6gSJ7fMHauhsrBohSrBie4t9uB1X3NF3422P4ZoHehC",
-                "actually_baked_in_day": 0,
-                "baker_id": 85187,
-                "expected_blocks_per_day": 0.11374782899906677,
-                "lp": 1.3e-05
-            },
-            "85192": {
-                "account": "4KEmhchSWfmWPXANaRaPmDr4XcBWK5UFAVfnzGgKAcbv8ysZfS",
-                "actually_baked_in_day": 0,
-                "baker_id": 85192,
-                "expected_blocks_per_day": 5.05736730190165,
-                "lp": 0.000578
             }
         },
         "block_height_end": 3933148,
